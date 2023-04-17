@@ -2210,12 +2210,26 @@
     "duration": 3.25155
   },
   "85": {
-    "artists": "Naturelle",
+    "artists": "Daniel Trevor",
     "song_id": "5N8KsYJ8IEMQVw33JvytW8",
     "popularity": 85,
     "spotify_link": "https://open.spotify.com/track/5N8KsYJ8IEMQVw33JvytW8",
-    "release_date": "2022-02-08",
-    "name": "Falling"
+    "release_date": "2020-02-08",
+    "name": "Falling",
+    "danceability": 0.78,
+    "energy": 0.43,
+    "key": "A#",
+    "loudness": -8.348,
+    "mode": "Minor",
+    "speechiness": 0.208,
+    "acousticness": 0.12,
+    "instrumentalness": 0.00388,
+    "liveness": 0.09,
+    "valence": 0.24,
+    "tempo": 127,
+    "time_signature": 4,
+    "duration": 2.0166666666666666
+
   },
   "86": {
     "artists": "Auntie Hammy",
