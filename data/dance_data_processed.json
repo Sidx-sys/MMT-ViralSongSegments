@@ -8,9 +8,9 @@
     "name": "Boy's a Liar",
     "danceability": 0.696,
     "energy": 0.809,
-    "key": 5,
+    "key": "F",
     "loudness": -8.254,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.05,
     "acousticness": 0.252,
     "instrumentalness": 0.000128,
@@ -22,8 +22,8 @@
     "uri": "spotify:track:6AQbmUe0Qwf5PZnt4HmTXv",
     "track_href": "https://api.spotify.com/v1/tracks/6AQbmUe0Qwf5PZnt4HmTXv",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6AQbmUe0Qwf5PZnt4HmTXv",
-    "duration_ms": 131013,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.18355
   },
   "1": {
     "artists": "Lil Nas X",
@@ -34,9 +34,9 @@
     "name": "That's what I want",
     "danceability": 0.737,
     "energy": 0.846,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.51,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.22,
     "acousticness": 0.00614,
     "instrumentalness": 0,
@@ -48,8 +48,8 @@
     "uri": "spotify:track:0e8nrvls4Qqv5Rfa2UhqmO",
     "track_href": "https://api.spotify.com/v1/tracks/0e8nrvls4Qqv5Rfa2UhqmO",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0e8nrvls4Qqv5Rfa2UhqmO",
-    "duration_ms": 143901,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.39835
   },
   "2": {
     "artists": "Drake",
@@ -60,9 +60,9 @@
     "name": "Toosie Slide",
     "danceability": 0.834,
     "energy": 0.454,
-    "key": 1,
+    "key": "C#",
     "loudness": -9.75,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.201,
     "acousticness": 0.321,
     "instrumentalness": 6.15e-06,
@@ -74,8 +74,8 @@
     "uri": "spotify:track:127QTOFJsJQp5LbJbu3A1y",
     "track_href": "https://api.spotify.com/v1/tracks/127QTOFJsJQp5LbJbu3A1y",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/127QTOFJsJQp5LbJbu3A1y",
-    "duration_ms": 247059,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.11765
   },
   "3": {
     "artists": "Megan Thee Stallion",
@@ -86,9 +86,9 @@
     "name": "Savage",
     "danceability": 0.843,
     "energy": 0.741,
-    "key": 11,
+    "key": "B",
     "loudness": -5.609,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.334,
     "acousticness": 0.0252,
     "instrumentalness": 0,
@@ -100,8 +100,8 @@
     "uri": "spotify:track:55CHeLEfn5iJ0IIkgaa4si",
     "track_href": "https://api.spotify.com/v1/tracks/55CHeLEfn5iJ0IIkgaa4si",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/55CHeLEfn5iJ0IIkgaa4si",
-    "duration_ms": 155497,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.591616666666667
   },
   "4": {
     "artists": "GAYLE",
@@ -112,9 +112,9 @@
     "name": "abdefu",
     "danceability": 0.695,
     "energy": 0.54,
-    "key": 4,
+    "key": "E",
     "loudness": -5.692,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0493,
     "acousticness": 0.299,
     "instrumentalness": 0,
@@ -126,8 +126,8 @@
     "uri": "spotify:track:4fouWK6XVHhzl78KzQ1UjL",
     "track_href": "https://api.spotify.com/v1/tracks/4fouWK6XVHhzl78KzQ1UjL",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4fouWK6XVHhzl78KzQ1UjL",
-    "duration_ms": 168602,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.8100333333333336
   },
   "5": {
     "artists": "Michael Jackson",
@@ -138,9 +138,9 @@
     "name": "Thriller",
     "danceability": 0.773,
     "energy": 0.859,
-    "key": 11,
+    "key": "B",
     "loudness": -4.913,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0747,
     "acousticness": 0.0855,
     "instrumentalness": 0.000187,
@@ -152,8 +152,8 @@
     "uri": "spotify:track:3S2R0EVwBSAVMd5UMgKTL0",
     "track_href": "https://api.spotify.com/v1/tracks/3S2R0EVwBSAVMd5UMgKTL0",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3S2R0EVwBSAVMd5UMgKTL0",
-    "duration_ms": 357267,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 5.95445
   },
   "6": {
     "artists": "Doja Cat",
@@ -164,9 +164,9 @@
     "name": "Say So",
     "danceability": 0.787,
     "energy": 0.673,
-    "key": 11,
+    "key": "B",
     "loudness": -4.583,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.159,
     "acousticness": 0.264,
     "instrumentalness": 3.35e-06,
@@ -178,8 +178,8 @@
     "uri": "spotify:track:3Dv1eDb0MEgF93GpLXlucZ",
     "track_href": "https://api.spotify.com/v1/tracks/3Dv1eDb0MEgF93GpLXlucZ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Dv1eDb0MEgF93GpLXlucZ",
-    "duration_ms": 237893,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9648833333333333
   },
   "7": {
     "artists": "J Balvin, Willy William",
@@ -190,9 +190,9 @@
     "name": "Mi Gente",
     "danceability": 0.548,
     "energy": 0.704,
-    "key": 11,
+    "key": "B",
     "loudness": -4.838,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0777,
     "acousticness": 0.0168,
     "instrumentalness": 2.25e-05,
@@ -204,8 +204,8 @@
     "uri": "spotify:track:7COfe3P7KgfwDwIRB8LIDw",
     "track_href": "https://api.spotify.com/v1/tracks/7COfe3P7KgfwDwIRB8LIDw",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7COfe3P7KgfwDwIRB8LIDw",
-    "duration_ms": 185040,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.084
   },
   "8": {
     "artists": "MC Hammer",
@@ -216,9 +216,9 @@
     "name": "U can't touch this",
     "danceability": 0.867,
     "energy": 0.517,
-    "key": 11,
+    "key": "B",
     "loudness": -13.222,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0875,
     "acousticness": 0.00456,
     "instrumentalness": 0.000339,
@@ -230,8 +230,8 @@
     "uri": "spotify:track:1B75hgRqe7A4fwee3g3Wmu",
     "track_href": "https://api.spotify.com/v1/tracks/1B75hgRqe7A4fwee3g3Wmu",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1B75hgRqe7A4fwee3g3Wmu",
-    "duration_ms": 257360,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.289333333333333
   },
   "9": {
     "artists": "Rihanna, Mikky Ekko",
@@ -242,9 +242,9 @@
     "name": "Stay",
     "danceability": 0.621,
     "energy": 0.31,
-    "key": 9,
+    "key": "A",
     "loudness": -10.164,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0283,
     "acousticness": 0.945,
     "instrumentalness": 6.12e-05,
@@ -256,8 +256,8 @@
     "uri": "spotify:track:789CxjEOtO76BVD1A9yJQH",
     "track_href": "https://api.spotify.com/v1/tracks/789CxjEOtO76BVD1A9yJQH",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/789CxjEOtO76BVD1A9yJQH",
-    "duration_ms": 240707,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.011783333333333
   },
   "10": {
     "artists": "Britney Spears",
@@ -268,9 +268,9 @@
     "name": "Gimme More",
     "danceability": 0.788,
     "energy": 0.844,
-    "key": 2,
+    "key": "D",
     "loudness": -3.131,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0334,
     "acousticness": 0.25,
     "instrumentalness": 0.000678,
@@ -282,8 +282,8 @@
     "uri": "spotify:track:6ic8OlLUNEATToEFU3xmaH",
     "track_href": "https://api.spotify.com/v1/tracks/6ic8OlLUNEATToEFU3xmaH",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6ic8OlLUNEATToEFU3xmaH",
-    "duration_ms": 251240,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.187333333333333
   },
   "11": {
     "artists": "Doja Cat",
@@ -294,9 +294,9 @@
     "name": "Need To Know",
     "danceability": 0.664,
     "energy": 0.609,
-    "key": 1,
+    "key": "C#",
     "loudness": -6.509,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0707,
     "acousticness": 0.304,
     "instrumentalness": 0,
@@ -308,8 +308,8 @@
     "uri": "spotify:track:3Vi5XqYrmQgOYBajMWSvCi",
     "track_href": "https://api.spotify.com/v1/tracks/3Vi5XqYrmQgOYBajMWSvCi",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Vi5XqYrmQgOYBajMWSvCi",
-    "duration_ms": 210560,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.509333333333333
   },
   "12": {
     "artists": "Morgan Wallen, HARDY",
@@ -320,9 +320,9 @@
     "name": "In the Bible",
     "danceability": 0.488,
     "energy": 0.806,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.451,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0291,
     "acousticness": 0.0119,
     "instrumentalness": 6.02e-06,
@@ -334,8 +334,8 @@
     "uri": "spotify:track:2aw1aEAxMe05MZIS5XiK8U",
     "track_href": "https://api.spotify.com/v1/tracks/2aw1aEAxMe05MZIS5XiK8U",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2aw1aEAxMe05MZIS5XiK8U",
-    "duration_ms": 195326,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2554333333333334
   },
   "13": {
     "artists": "Loud Luxury, Brando",
@@ -346,9 +346,9 @@
     "name": "Body",
     "danceability": 0.752,
     "energy": 0.764,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.399,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.038,
     "acousticness": 0.0476,
     "instrumentalness": 9.44e-05,
@@ -360,8 +360,8 @@
     "uri": "spotify:track:21RzyxY3EFaxVy6K4RqaU9",
     "track_href": "https://api.spotify.com/v1/tracks/21RzyxY3EFaxVy6K4RqaU9",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/21RzyxY3EFaxVy6K4RqaU9",
-    "duration_ms": 163216,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.720266666666667
   },
   "14": {
     "artists": "Los Del Rio",
@@ -372,9 +372,9 @@
     "name": "Macarena",
     "danceability": 0.927,
     "energy": 0.721,
-    "key": 8,
+    "key": "G#",
     "loudness": -12.561,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0908,
     "acousticness": 0.422,
     "instrumentalness": 4.36e-05,
@@ -386,8 +386,8 @@
     "uri": "spotify:track:4oaj36KzXRgDg4McgcTsZK",
     "track_href": "https://api.spotify.com/v1/tracks/4oaj36KzXRgDg4McgcTsZK",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4oaj36KzXRgDg4McgcTsZK",
-    "duration_ms": 249382,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.156366666666667
   },
   "15": {
     "artists": "Lizzo",
@@ -398,9 +398,9 @@
     "name": "About Damn Time",
     "danceability": 0.836,
     "energy": 0.743,
-    "key": 10,
+    "key": "A#",
     "loudness": -6.305,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0656,
     "acousticness": 0.0995,
     "instrumentalness": 0,
@@ -412,8 +412,8 @@
     "uri": "spotify:track:1PckUlxKqWQs3RlWXVBLw3",
     "track_href": "https://api.spotify.com/v1/tracks/1PckUlxKqWQs3RlWXVBLw3",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1PckUlxKqWQs3RlWXVBLw3",
-    "duration_ms": 191822,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.197033333333333
   },
   "16": {
     "artists": "Billy Joel",
@@ -424,9 +424,9 @@
     "name": "Up",
     "danceability": 0.701,
     "energy": 0.944,
-    "key": 4,
+    "key": "E",
     "loudness": -2.986,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0455,
     "acousticness": 0.0755,
     "instrumentalness": 0,
@@ -438,8 +438,8 @@
     "uri": "spotify:track:5zA8vzDGqPl2AzZkEYQGKh",
     "track_href": "https://api.spotify.com/v1/tracks/5zA8vzDGqPl2AzZkEYQGKh",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zA8vzDGqPl2AzZkEYQGKh",
-    "duration_ms": 197707,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2951166666666665
   },
   "17": {
     "artists": "Shakira, Wyclef Jean",
@@ -450,9 +450,9 @@
     "name": "Hips Don't Lie",
     "danceability": 0.778,
     "energy": 0.824,
-    "key": 10,
+    "key": "A#",
     "loudness": -5.892,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0707,
     "acousticness": 0.284,
     "instrumentalness": 0,
@@ -464,8 +464,8 @@
     "uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V",
     "track_href": "https://api.spotify.com/v1/tracks/3ZFTkvIE7kyPt6Nu3PEa7V",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ZFTkvIE7kyPt6Nu3PEa7V",
-    "duration_ms": 218093,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6348833333333332
   },
   "18": {
     "artists": "Jack Black",
@@ -476,9 +476,9 @@
     "name": "Peaches",
     "danceability": 0.698,
     "energy": 0.312,
-    "key": 10,
+    "key": "A#",
     "loudness": -10.9,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0483,
     "acousticness": 0.797,
     "instrumentalness": 0,
@@ -490,8 +490,8 @@
     "uri": "spotify:track:4w9soAM7IrmYDhSXLp14p6",
     "track_href": "https://api.spotify.com/v1/tracks/4w9soAM7IrmYDhSXLp14p6",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4w9soAM7IrmYDhSXLp14p6",
-    "duration_ms": 95440,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.5906666666666667
   },
   "19": {
     "artists": "Tones And I",
@@ -502,9 +502,9 @@
     "name": "Dance Monkey",
     "danceability": 0.824,
     "energy": 0.588,
-    "key": 6,
+    "key": "F#",
     "loudness": -6.4,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0924,
     "acousticness": 0.692,
     "instrumentalness": 0.000104,
@@ -516,8 +516,8 @@
     "uri": "spotify:track:2XU0oxnq2qxCpomAAuJY8K",
     "track_href": "https://api.spotify.com/v1/tracks/2XU0oxnq2qxCpomAAuJY8K",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2XU0oxnq2qxCpomAAuJY8K",
-    "duration_ms": 209438,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.4906333333333333
   },
   "20": {
     "artists": "The Weeknd",
@@ -528,9 +528,9 @@
     "name": "Blinding Lights",
     "danceability": 0.514,
     "energy": 0.73,
-    "key": 1,
+    "key": "C#",
     "loudness": -5.934,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0598,
     "acousticness": 0.00146,
     "instrumentalness": 9.54e-05,
@@ -542,8 +542,8 @@
     "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
     "track_href": "https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VjIjW4GlUZAMYd2vXMi3b",
-    "duration_ms": 200040,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.334
   },
   "21": {
     "artists": "Lil Nas X",
@@ -554,9 +554,9 @@
     "name": "Call Me By Your Name",
     "danceability": 0.593,
     "energy": 0.503,
-    "key": 8,
+    "key": "G#",
     "loudness": -6.725,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.22,
     "acousticness": 0.293,
     "instrumentalness": 0,
@@ -568,8 +568,8 @@
     "uri": "spotify:track:1SC5rEoYDGUK4NfG82494W",
     "track_href": "https://api.spotify.com/v1/tracks/1SC5rEoYDGUK4NfG82494W",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1SC5rEoYDGUK4NfG82494W",
-    "duration_ms": 137704,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.2950666666666666
   },
   "22": {
     "artists": "Lil Nas X, Jack Harlow",
@@ -580,9 +580,9 @@
     "name": "Industry Baby",
     "danceability": 0.736,
     "energy": 0.704,
-    "key": 3,
+    "key": "D#",
     "loudness": -7.409,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0615,
     "acousticness": 0.0203,
     "instrumentalness": 0,
@@ -594,8 +594,8 @@
     "uri": "spotify:track:27NovPIUIRrOZoCHxABJwK",
     "track_href": "https://api.spotify.com/v1/tracks/27NovPIUIRrOZoCHxABJwK",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/27NovPIUIRrOZoCHxABJwK",
-    "duration_ms": 212000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.533333333333333
   },
   "23": {
     "artists": "Duke & Jones, Louis Theroux",
@@ -606,9 +606,9 @@
     "name": "Jiggle Jiggle",
     "danceability": 0.864,
     "energy": 0.412,
-    "key": 1,
+    "key": "C#",
     "loudness": -5.886,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.273,
     "acousticness": 0.458,
     "instrumentalness": 0.00087,
@@ -620,8 +620,8 @@
     "uri": "spotify:track:1I4lCSP69P74nU3a6Su5L2",
     "track_href": "https://api.spotify.com/v1/tracks/1I4lCSP69P74nU3a6Su5L2",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1I4lCSP69P74nU3a6Su5L2",
-    "duration_ms": 97209,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.62015
   },
   "24": {
     "artists": "Jawsh 685, Jason Derulo",
@@ -632,9 +632,9 @@
     "name": "Savage Love",
     "danceability": 0.767,
     "energy": 0.481,
-    "key": 0,
+    "key": "C",
     "loudness": -8.52,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0803,
     "acousticness": 0.234,
     "instrumentalness": 0,
@@ -646,8 +646,8 @@
     "uri": "spotify:track:1xQ6trAsedVPCdbtDAmk0c",
     "track_href": "https://api.spotify.com/v1/tracks/1xQ6trAsedVPCdbtDAmk0c",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1xQ6trAsedVPCdbtDAmk0c",
-    "duration_ms": 171375,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.85625
   },
   "25": {
     "artists": "Latto, LU KALA",
@@ -658,9 +658,9 @@
     "name": "Lottery",
     "danceability": 0.792,
     "energy": 0.874,
-    "key": 1,
+    "key": "C#",
     "loudness": -2.966,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0852,
     "acousticness": 0.0158,
     "instrumentalness": 0.000365,
@@ -672,8 +672,8 @@
     "uri": "spotify:track:1JUtrCqYzJ80tcAzMbCvir",
     "track_href": "https://api.spotify.com/v1/tracks/1JUtrCqYzJ80tcAzMbCvir",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1JUtrCqYzJ80tcAzMbCvir",
-    "duration_ms": 186762,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.1127
   },
   "26": {
     "artists": "21 Savage, Metro Boomin, Young Nudy",
@@ -684,9 +684,9 @@
     "name": "Snitch",
     "danceability": 0.821,
     "energy": 0.671,
-    "key": 9,
+    "key": "A",
     "loudness": -5.893,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.18,
     "acousticness": 0.00843,
     "instrumentalness": 8.5e-05,
@@ -698,8 +698,8 @@
     "uri": "spotify:track:3WaDoMDQRqDdgtCDLxanpN",
     "track_href": "https://api.spotify.com/v1/tracks/3WaDoMDQRqDdgtCDLxanpN",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3WaDoMDQRqDdgtCDLxanpN",
-    "duration_ms": 187773,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.12955
   },
   "27": {
     "artists": "Doja Cat",
@@ -710,9 +710,9 @@
     "name": "Say So",
     "danceability": 0.787,
     "energy": 0.673,
-    "key": 11,
+    "key": "B",
     "loudness": -4.583,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.159,
     "acousticness": 0.264,
     "instrumentalness": 3.35e-06,
@@ -724,8 +724,8 @@
     "uri": "spotify:track:3Dv1eDb0MEgF93GpLXlucZ",
     "track_href": "https://api.spotify.com/v1/tracks/3Dv1eDb0MEgF93GpLXlucZ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Dv1eDb0MEgF93GpLXlucZ",
-    "duration_ms": 237893,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9648833333333333
   },
   "28": {
     "artists": "YNW Melly",
@@ -736,9 +736,9 @@
     "name": "Suicidal",
     "danceability": 0.735,
     "energy": 0.369,
-    "key": 9,
+    "key": "A",
     "loudness": -9.682,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0688,
     "acousticness": 0.334,
     "instrumentalness": 0,
@@ -750,8 +750,8 @@
     "uri": "spotify:track:1iSqfoUFnQwV0QW1EfUit8",
     "track_href": "https://api.spotify.com/v1/tracks/1iSqfoUFnQwV0QW1EfUit8",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1iSqfoUFnQwV0QW1EfUit8",
-    "duration_ms": 222997,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.716616666666667
   },
   "29": {
     "artists": "JACKBOYS, Travis Scott, Young Thug",
@@ -762,9 +762,9 @@
     "name": "OUT WEST",
     "danceability": 0.802,
     "energy": 0.591,
-    "key": 8,
+    "key": "G#",
     "loudness": -4.895,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.225,
     "acousticness": 0.0104,
     "instrumentalness": 0,
@@ -776,8 +776,8 @@
     "uri": "spotify:track:6gi6y1xwmVszDWkUqab1qw",
     "track_href": "https://api.spotify.com/v1/tracks/6gi6y1xwmVszDWkUqab1qw",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6gi6y1xwmVszDWkUqab1qw",
-    "duration_ms": 157712,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.628533333333333
   },
   "30": {
     "artists": "Kaash Paige",
@@ -788,9 +788,9 @@
     "name": "Love Songs",
     "danceability": 0.641,
     "energy": 0.355,
-    "key": 5,
+    "key": "F",
     "loudness": -10.599,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0906,
     "acousticness": 0.831,
     "instrumentalness": 0.000855,
@@ -802,8 +802,8 @@
     "uri": "spotify:track:6qL5UWxRSQYml9O99ozoLv",
     "track_href": "https://api.spotify.com/v1/tracks/6qL5UWxRSQYml9O99ozoLv",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6qL5UWxRSQYml9O99ozoLv",
-    "duration_ms": 148640,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.477333333333333
   },
   "31": {
     "artists": "Foster The People",
@@ -814,9 +814,9 @@
     "name": "Pump",
     "danceability": 0.733,
     "energy": 0.71,
-    "key": 5,
+    "key": "F",
     "loudness": -5.849,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0292,
     "acousticness": 0.145,
     "instrumentalness": 0.115,
@@ -828,8 +828,8 @@
     "uri": "spotify:track:7w87IxuO7BDcJ3YUqCyMTT",
     "track_href": "https://api.spotify.com/v1/tracks/7w87IxuO7BDcJ3YUqCyMTT",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7w87IxuO7BDcJ3YUqCyMTT",
-    "duration_ms": 239600,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.993333333333333
   },
   "32": {
     "artists": "Don Toliver",
@@ -840,9 +840,9 @@
     "name": "No Idea",
     "danceability": 0.652,
     "energy": 0.631,
-    "key": 6,
+    "key": "F#",
     "loudness": -5.718,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0893,
     "acousticness": 0.524,
     "instrumentalness": 0.000579,
@@ -854,8 +854,8 @@
     "uri": "spotify:track:7AzlLxHn24DxjgQX73F9fU",
     "track_href": "https://api.spotify.com/v1/tracks/7AzlLxHn24DxjgQX73F9fU",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7AzlLxHn24DxjgQX73F9fU",
-    "duration_ms": 154424,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.5737333333333337
   },
   "33": {
     "artists": "Kesha",
@@ -866,9 +866,9 @@
     "name": "Cannibal",
     "danceability": 0.71,
     "energy": 0.68,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.676,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.106,
     "acousticness": 0.0078,
     "instrumentalness": 0.0165,
@@ -880,8 +880,8 @@
     "uri": "spotify:track:3JTMWdhcJPiegDSe7SvZS3",
     "track_href": "https://api.spotify.com/v1/tracks/3JTMWdhcJPiegDSe7SvZS3",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JTMWdhcJPiegDSe7SvZS3",
-    "duration_ms": 194253,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2375499999999997
   },
   "34": {
     "artists": "BENEE, Gus Dapperton",
@@ -892,9 +892,9 @@
     "name": "Supalonely",
     "danceability": 0.863,
     "energy": 0.631,
-    "key": 7,
+    "key": "G",
     "loudness": -4.689,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0534,
     "acousticness": 0.305,
     "instrumentalness": 3.04e-05,
@@ -906,8 +906,8 @@
     "uri": "spotify:track:4nK5YrxbMGZstTLbvj6Gxw",
     "track_href": "https://api.spotify.com/v1/tracks/4nK5YrxbMGZstTLbvj6Gxw",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4nK5YrxbMGZstTLbvj6Gxw",
-    "duration_ms": 223480,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.7246666666666663
   },
   "35": {
     "artists": "Kina, Adriana Proenza",
@@ -918,9 +918,9 @@
     "name": "Can We Kiss Forever?",
     "danceability": 0.522,
     "energy": 0.128,
-    "key": 4,
+    "key": "E",
     "loudness": -18.717,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0357,
     "acousticness": 0.894,
     "instrumentalness": 0.026,
@@ -932,8 +932,8 @@
     "uri": "spotify:track:58wyJLv6yH1La9NIZPl3ne",
     "track_href": "https://api.spotify.com/v1/tracks/58wyJLv6yH1La9NIZPl3ne",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/58wyJLv6yH1La9NIZPl3ne",
-    "duration_ms": 187932,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.1321999999999997
   },
   "36": {
     "artists": "Megan Thee Stallion",
@@ -944,9 +944,9 @@
     "name": "Savage",
     "danceability": 0.843,
     "energy": 0.741,
-    "key": 11,
+    "key": "B",
     "loudness": -5.609,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.334,
     "acousticness": 0.0252,
     "instrumentalness": 0,
@@ -958,8 +958,8 @@
     "uri": "spotify:track:55CHeLEfn5iJ0IIkgaa4si",
     "track_href": "https://api.spotify.com/v1/tracks/55CHeLEfn5iJ0IIkgaa4si",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/55CHeLEfn5iJ0IIkgaa4si",
-    "duration_ms": 155497,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.591616666666667
   },
   "37": {
     "artists": "Fountains Of Wayne",
@@ -970,9 +970,9 @@
     "name": "Hey Julie!",
     "danceability": 0.739,
     "energy": 0.554,
-    "key": 7,
+    "key": "G",
     "loudness": -5.668,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0363,
     "acousticness": 0.39,
     "instrumentalness": 0,
@@ -984,8 +984,8 @@
     "uri": "spotify:track:2LGAbm0xHNu7scBDVCkFwN",
     "track_href": "https://api.spotify.com/v1/tracks/2LGAbm0xHNu7scBDVCkFwN",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2LGAbm0xHNu7scBDVCkFwN",
-    "duration_ms": 156933,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.61555
   },
   "38": {
     "artists": "Lil Nas X, Billy Ray Cyrus",
@@ -996,9 +996,9 @@
     "name": "Old Town Road",
     "danceability": 0.878,
     "energy": 0.619,
-    "key": 6,
+    "key": "F#",
     "loudness": -5.56,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.102,
     "acousticness": 0.0533,
     "instrumentalness": 0,
@@ -1010,8 +1010,8 @@
     "uri": "spotify:track:2YpeDb67231RjR0MgVLzsG",
     "track_href": "https://api.spotify.com/v1/tracks/2YpeDb67231RjR0MgVLzsG",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2YpeDb67231RjR0MgVLzsG",
-    "duration_ms": 157067,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.6177833333333336
   },
   "39": {
     "artists": "Lil Baby",
@@ -1022,9 +1022,9 @@
     "name": "Woah",
     "danceability": 0.884,
     "energy": 0.617,
-    "key": 11,
+    "key": "B",
     "loudness": -5.598,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.233,
     "acousticness": 0.0153,
     "instrumentalness": 0,
@@ -1036,8 +1036,8 @@
     "uri": "spotify:track:4Bkgb2H5uprMmZUjrREw59",
     "track_href": "https://api.spotify.com/v1/tracks/4Bkgb2H5uprMmZUjrREw59",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Bkgb2H5uprMmZUjrREw59",
-    "duration_ms": 183011,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.0501833333333335
   },
   "40": {
     "artists": "The Chainsmokers, Halsey",
@@ -1048,9 +1048,9 @@
     "name": "Closer",
     "danceability": 0.748,
     "energy": 0.524,
-    "key": 8,
+    "key": "G#",
     "loudness": -5.599,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0338,
     "acousticness": 0.414,
     "instrumentalness": 0,
@@ -1062,8 +1062,8 @@
     "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
     "track_href": "https://api.spotify.com/v1/tracks/7BKLCZ1jbUBVqRi2FVlTVw",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BKLCZ1jbUBVqRi2FVlTVw",
-    "duration_ms": 244960,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.082666666666666
   },
   "41": {
     "artists": "CG5, OR3O",
@@ -1074,9 +1074,9 @@
     "name": "Absolutely Anything",
     "danceability": 0.714,
     "energy": 0.894,
-    "key": 5,
+    "key": "F",
     "loudness": -2.242,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.372,
     "acousticness": 0.152,
     "instrumentalness": 1.19e-05,
@@ -1088,8 +1088,8 @@
     "uri": "spotify:track:30nwxUmOXvcwA1U84BqowT",
     "track_href": "https://api.spotify.com/v1/tracks/30nwxUmOXvcwA1U84BqowT",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/30nwxUmOXvcwA1U84BqowT",
-    "duration_ms": 216885,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.61475
   },
   "42": {
     "artists": "YNW Melly, 9lokknine",
@@ -1100,9 +1100,9 @@
     "name": "223's",
     "danceability": 0.932,
     "energy": 0.547,
-    "key": 0,
+    "key": "C",
     "loudness": -7.787,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.333,
     "acousticness": 0.0388,
     "instrumentalness": 0,
@@ -1114,8 +1114,8 @@
     "uri": "spotify:track:29ZXwWOOLz9t5fa3eT3i7T",
     "track_href": "https://api.spotify.com/v1/tracks/29ZXwWOOLz9t5fa3eT3i7T",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/29ZXwWOOLz9t5fa3eT3i7T",
-    "duration_ms": 176640,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.944
   },
   "43": {
     "artists": "Post Malone",
@@ -1126,9 +1126,9 @@
     "name": "Candy",
     "danceability": 0.664,
     "energy": 0.667,
-    "key": 4,
+    "key": "E",
     "loudness": -5.941,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.154,
     "acousticness": 0.64,
     "instrumentalness": 1.22e-06,
@@ -1140,8 +1140,8 @@
     "uri": "spotify:track:32lItqlMi4LBhb4k0BaSaC",
     "track_href": "https://api.spotify.com/v1/tracks/32lItqlMi4LBhb4k0BaSaC",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/32lItqlMi4LBhb4k0BaSaC",
-    "duration_ms": 227533,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.7922166666666666
   },
   "44": {
     "artists": "Tones And I",
@@ -1152,9 +1152,9 @@
     "name": "Dance Monkey",
     "danceability": 0.824,
     "energy": 0.588,
-    "key": 6,
+    "key": "F#",
     "loudness": -6.4,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0924,
     "acousticness": 0.692,
     "instrumentalness": 0.000104,
@@ -1166,8 +1166,8 @@
     "uri": "spotify:track:2XU0oxnq2qxCpomAAuJY8K",
     "track_href": "https://api.spotify.com/v1/tracks/2XU0oxnq2qxCpomAAuJY8K",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2XU0oxnq2qxCpomAAuJY8K",
-    "duration_ms": 209438,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.4906333333333333
   },
   "45": {
     "artists": "Shawn Mendes, Camila Cabello",
@@ -1178,9 +1178,9 @@
     "name": "Se\u00f1orita",
     "danceability": 0.759,
     "energy": 0.548,
-    "key": 9,
+    "key": "A",
     "loudness": -6.049,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.029,
     "acousticness": 0.0392,
     "instrumentalness": 0,
@@ -1192,8 +1192,8 @@
     "uri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2",
     "track_href": "https://api.spotify.com/v1/tracks/6v3KW9xbzN5yKLt9YKDYA2",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6v3KW9xbzN5yKLt9YKDYA2",
-    "duration_ms": 190800,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.18
   },
   "46": {
     "artists": "Jon Eidson, Evan Todd, Barrett Wilbert Weed, Jessica Keenan Wynn, Alice Lee",
@@ -1204,9 +1204,9 @@
     "name": "Big Fun",
     "danceability": 0.864,
     "energy": 0.681,
-    "key": 8,
+    "key": "G#",
     "loudness": -6.032,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.232,
     "acousticness": 0.538,
     "instrumentalness": 0,
@@ -1218,8 +1218,8 @@
     "uri": "spotify:track:6NqatMVtEM2iB4FcLGFxrN",
     "track_href": "https://api.spotify.com/v1/tracks/6NqatMVtEM2iB4FcLGFxrN",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6NqatMVtEM2iB4FcLGFxrN",
-    "duration_ms": 254667,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.24445
   },
   "47": {
     "artists": "Dua Lipa",
@@ -1230,9 +1230,9 @@
     "name": "Don't Start Now",
     "danceability": 0.793,
     "energy": 0.793,
-    "key": 11,
+    "key": "B",
     "loudness": -4.521,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.083,
     "acousticness": 0.0123,
     "instrumentalness": 0,
@@ -1244,8 +1244,8 @@
     "uri": "spotify:track:3PfIrDoz19wz7qK7tYeu62",
     "track_href": "https://api.spotify.com/v1/tracks/3PfIrDoz19wz7qK7tYeu62",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PfIrDoz19wz7qK7tYeu62",
-    "duration_ms": 183290,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.0548333333333333
   },
   "48": {
     "artists": "Maroon 5",
@@ -1256,9 +1256,9 @@
     "name": "SUGAR",
     "danceability": 0.748,
     "energy": 0.788,
-    "key": 1,
+    "key": "C#",
     "loudness": -7.055,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0334,
     "acousticness": 0.0591,
     "instrumentalness": 0,
@@ -1270,8 +1270,8 @@
     "uri": "spotify:track:2iuZJX9X9P0GKaE93xcPjk",
     "track_href": "https://api.spotify.com/v1/tracks/2iuZJX9X9P0GKaE93xcPjk",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2iuZJX9X9P0GKaE93xcPjk",
-    "duration_ms": 235493,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9248833333333333
   },
   "49": {
     "artists": "Shinedown",
@@ -1282,9 +1282,9 @@
     "name": "Get Up",
     "danceability": 0.552,
     "energy": 0.935,
-    "key": 0,
+    "key": "C",
     "loudness": -4.096,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0623,
     "acousticness": 0.0174,
     "instrumentalness": 1.98e-06,
@@ -1296,8 +1296,8 @@
     "uri": "spotify:track:1OKQIvaO7yn7R2BpdUFG7D",
     "track_href": "https://api.spotify.com/v1/tracks/1OKQIvaO7yn7R2BpdUFG7D",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1OKQIvaO7yn7R2BpdUFG7D",
-    "duration_ms": 245787,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.09645
   },
   "50": {
     "artists": "Abhi The Nomad, Kato On The Track",
@@ -1308,9 +1308,9 @@
     "name": "Gordon Ramsay",
     "danceability": 0.824,
     "energy": 0.698,
-    "key": 1,
+    "key": "C#",
     "loudness": -7.073,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.161,
     "acousticness": 0.0316,
     "instrumentalness": 1.02e-06,
@@ -1322,8 +1322,8 @@
     "uri": "spotify:track:2yqrZjjvcB6LeIRPYDUPUr",
     "track_href": "https://api.spotify.com/v1/tracks/2yqrZjjvcB6LeIRPYDUPUr",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2yqrZjjvcB6LeIRPYDUPUr",
-    "duration_ms": 150256,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.5042666666666666
   },
   "51": {
     "artists": "Justin Bieber, Mariah Carey",
@@ -1334,9 +1334,9 @@
     "name": "All I Want For Christmas Is You",
     "danceability": 0.562,
     "energy": 0.937,
-    "key": 9,
+    "key": "A",
     "loudness": -4.059,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0596,
     "acousticness": 0.315,
     "instrumentalness": 0,
@@ -1348,8 +1348,8 @@
     "uri": "spotify:track:6Tfr42z8irWjD6A4SGJwT8",
     "track_href": "https://api.spotify.com/v1/tracks/6Tfr42z8irWjD6A4SGJwT8",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Tfr42z8irWjD6A4SGJwT8",
-    "duration_ms": 239920,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9986666666666664
   },
   "52": {
     "artists": "MEDUZA, Becky Hill, Goodboys",
@@ -1360,9 +1360,9 @@
     "name": "Lose Control",
     "danceability": 0.598,
     "energy": 0.526,
-    "key": 10,
+    "key": "A#",
     "loudness": -8.659,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0415,
     "acousticness": 0.129,
     "instrumentalness": 0,
@@ -1374,8 +1374,8 @@
     "uri": "spotify:track:7CHi4DtfK4heMlQaudCuHK",
     "track_href": "https://api.spotify.com/v1/tracks/7CHi4DtfK4heMlQaudCuHK",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7CHi4DtfK4heMlQaudCuHK",
-    "duration_ms": 168387,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.80645
   },
   "53": {
     "artists": "Justin Bieber",
@@ -1386,9 +1386,9 @@
     "name": "Yummy",
     "danceability": 0.677,
     "energy": 0.506,
-    "key": 9,
+    "key": "A",
     "loudness": -6.652,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0964,
     "acousticness": 0.345,
     "instrumentalness": 0,
@@ -1400,8 +1400,8 @@
     "uri": "spotify:track:7j6Vp3D5iU3czmKTLwqJn8",
     "track_href": "https://api.spotify.com/v1/tracks/7j6Vp3D5iU3czmKTLwqJn8",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7j6Vp3D5iU3czmKTLwqJn8",
-    "duration_ms": 208520,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.4753333333333334
   },
   "54": {
     "artists": "Dua Lipa",
@@ -1412,9 +1412,9 @@
     "name": "New Rules",
     "danceability": 0.762,
     "energy": 0.7,
-    "key": 9,
+    "key": "A",
     "loudness": -6.021,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0694,
     "acousticness": 0.00261,
     "instrumentalness": 1.56e-05,
@@ -1426,8 +1426,8 @@
     "uri": "spotify:track:2ekn2ttSfGqwhhate0LSR0",
     "track_href": "https://api.spotify.com/v1/tracks/2ekn2ttSfGqwhhate0LSR0",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ekn2ttSfGqwhhate0LSR0",
-    "duration_ms": 209320,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.4886666666666666
   },
   "55": {
     "artists": "Mariah Carey",
@@ -1438,9 +1438,9 @@
     "name": "Obsessed",
     "danceability": 0.742,
     "energy": 0.468,
-    "key": 10,
+    "key": "A#",
     "loudness": -5.557,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0625,
     "acousticness": 0.0465,
     "instrumentalness": 0,
@@ -1452,8 +1452,8 @@
     "uri": "spotify:track:3IcIIZMMS7UArJJPtEHXG8",
     "track_href": "https://api.spotify.com/v1/tracks/3IcIIZMMS7UArJJPtEHXG8",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3IcIIZMMS7UArJJPtEHXG8",
-    "duration_ms": 242200,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.036666666666666
   },
   "56": {
     "artists": "LIL MAYO",
@@ -1464,9 +1464,9 @@
     "name": "Be Gone Thot!",
     "danceability": 0.922,
     "energy": 0.451,
-    "key": 2,
+    "key": "D",
     "loudness": -5.989,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.12,
     "acousticness": 0.0142,
     "instrumentalness": 4.74e-05,
@@ -1478,8 +1478,8 @@
     "uri": "spotify:track:3G47RiG2PrvEVo4panDHi9",
     "track_href": "https://api.spotify.com/v1/tracks/3G47RiG2PrvEVo4panDHi9",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3G47RiG2PrvEVo4panDHi9",
-    "duration_ms": 73000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.2166666666666666
   },
   "57": {
     "artists": "King Critical",
@@ -1490,9 +1490,9 @@
     "name": "Why Is Everything Chrome (Lean Swag Rock Wit It)",
     "danceability": 0.915,
     "energy": 0.392,
-    "key": 7,
+    "key": "G",
     "loudness": -11.548,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.475,
     "acousticness": 0.112,
     "instrumentalness": 0,
@@ -1504,8 +1504,8 @@
     "uri": "spotify:track:0wQL4dv6dQjuiGdmJIjRCu",
     "track_href": "https://api.spotify.com/v1/tracks/0wQL4dv6dQjuiGdmJIjRCu",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0wQL4dv6dQjuiGdmJIjRCu",
-    "duration_ms": 151018,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.516966666666667
   },
   "58": {
     "artists": "iLOVEFRiDAY",
@@ -1516,9 +1516,9 @@
     "name": "Mia Khalifa",
     "danceability": 0.812,
     "energy": 0.525,
-    "key": 1,
+    "key": "C#",
     "loudness": -8.798,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.124,
     "acousticness": 0.255,
     "instrumentalness": 0,
@@ -1530,8 +1530,8 @@
     "uri": "spotify:track:3B9vJvi2Z6ws4wjNTQMYAc",
     "track_href": "https://api.spotify.com/v1/tracks/3B9vJvi2Z6ws4wjNTQMYAc",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3B9vJvi2Z6ws4wjNTQMYAc",
-    "duration_ms": 177133,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.9522166666666667
   },
   "59": {
     "artists": "Ellie Goulding, Juice WRLD",
@@ -1542,9 +1542,9 @@
     "name": "Hate Me",
     "danceability": 0.657,
     "energy": 0.768,
-    "key": 8,
+    "key": "G#",
     "loudness": -4.628,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0507,
     "acousticness": 0.108,
     "instrumentalness": 0,
@@ -1556,8 +1556,8 @@
     "uri": "spotify:track:6kls8cSlUyHW2BUOkDJIZE",
     "track_href": "https://api.spotify.com/v1/tracks/6kls8cSlUyHW2BUOkDJIZE",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6kls8cSlUyHW2BUOkDJIZE",
-    "duration_ms": 186223,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.1037166666666667
   },
   "60": {
     "artists": "Stunna Girl",
@@ -1568,9 +1568,9 @@
     "name": "Runway",
     "danceability": 0.638,
     "energy": 0.912,
-    "key": 1,
+    "key": "C#",
     "loudness": -3.3,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.474,
     "acousticness": 0.0155,
     "instrumentalness": 0,
@@ -1582,8 +1582,8 @@
     "uri": "spotify:track:0BjEQJZy4rfUNpKHiaYirL",
     "track_href": "https://api.spotify.com/v1/tracks/0BjEQJZy4rfUNpKHiaYirL",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0BjEQJZy4rfUNpKHiaYirL",
-    "duration_ms": 152464,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.5410666666666666
   },
   "61": {
     "artists": "Regard",
@@ -1594,9 +1594,9 @@
     "name": "Ride It",
     "danceability": 0.88,
     "energy": 0.751,
-    "key": 7,
+    "key": "G",
     "loudness": -4.258,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0874,
     "acousticness": 0.177,
     "instrumentalness": 6.43e-05,
@@ -1608,8 +1608,8 @@
     "uri": "spotify:track:2tnVG71enUj33Ic2nFN6kZ",
     "track_href": "https://api.spotify.com/v1/tracks/2tnVG71enUj33Ic2nFN6kZ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tnVG71enUj33Ic2nFN6kZ",
-    "duration_ms": 157606,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.6267666666666667
   },
   "62": {
     "artists": "Doja Cat, Gucci Mane",
@@ -1620,9 +1620,9 @@
     "name": "Like That",
     "danceability": 0.879,
     "energy": 0.498,
-    "key": 4,
+    "key": "E",
     "loudness": -6.027,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.18,
     "acousticness": 0.239,
     "instrumentalness": 0,
@@ -1634,8 +1634,8 @@
     "uri": "spotify:track:4EivmOT13NMpNSfTKn9p4s",
     "track_href": "https://api.spotify.com/v1/tracks/4EivmOT13NMpNSfTKn9p4s",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4EivmOT13NMpNSfTKn9p4s",
-    "duration_ms": 163173,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.71955
   },
   "63": {
     "artists": "Powfu, beabadoobee",
@@ -1646,9 +1646,9 @@
     "name": "death bed",
     "danceability": 0.726,
     "energy": 0.431,
-    "key": 8,
+    "key": "G#",
     "loudness": -8.765,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.135,
     "acousticness": 0.731,
     "instrumentalness": 0,
@@ -1660,8 +1660,8 @@
     "uri": "spotify:track:7eJMfftS33KTjuF7lTsMCx",
     "track_href": "https://api.spotify.com/v1/tracks/7eJMfftS33KTjuF7lTsMCx",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7eJMfftS33KTjuF7lTsMCx",
-    "duration_ms": 173333,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.8888833333333332
   },
   "64": {
     "artists": "Lady Gaga",
@@ -1672,9 +1672,9 @@
     "name": "STUPID",
     "danceability": 0.68,
     "energy": 0.825,
-    "key": 8,
+    "key": "G#",
     "loudness": -4.296,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0702,
     "acousticness": 0.00173,
     "instrumentalness": 0.000122,
@@ -1686,8 +1686,8 @@
     "uri": "spotify:track:0imKFWFEWXyqpmRvzCWtMx",
     "track_href": "https://api.spotify.com/v1/tracks/0imKFWFEWXyqpmRvzCWtMx",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0imKFWFEWXyqpmRvzCWtMx",
-    "duration_ms": 193533,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2255499999999997
   },
   "65": {
     "artists": "Freddie Dredd",
@@ -1698,9 +1698,9 @@
     "name": "Opaul",
     "danceability": 0.822,
     "energy": 0.871,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.095,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.214,
     "acousticness": 0.00567,
     "instrumentalness": 0.391,
@@ -1712,8 +1712,8 @@
     "uri": "spotify:track:2slLXFcITuhf0oSp2wVJLv",
     "track_href": "https://api.spotify.com/v1/tracks/2slLXFcITuhf0oSp2wVJLv",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2slLXFcITuhf0oSp2wVJLv",
-    "duration_ms": 140527,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.3421166666666666
   },
   "66": {
     "artists": "The Police",
@@ -1724,9 +1724,9 @@
     "name": "Roxanne",
     "danceability": 0.618,
     "energy": 0.748,
-    "key": 0,
+    "key": "C",
     "loudness": -8.905,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.358,
     "acousticness": 0.0384,
     "instrumentalness": 4.1e-06,
@@ -1738,8 +1738,8 @@
     "uri": "spotify:track:3EYOJ48Et32uATr9ZmLnAo",
     "track_href": "https://api.spotify.com/v1/tracks/3EYOJ48Et32uATr9ZmLnAo",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3EYOJ48Et32uATr9ZmLnAo",
-    "duration_ms": 191947,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.199116666666667
   },
   "67": {
     "artists": "Luke Combs",
@@ -1750,9 +1750,9 @@
     "name": "fast",
     "danceability": 0.712,
     "energy": 0.603,
-    "key": 8,
+    "key": "G#",
     "loudness": -5.52,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0262,
     "acousticness": 0.186,
     "instrumentalness": 0,
@@ -1764,8 +1764,8 @@
     "uri": "spotify:track:1Lo0QY9cvc8sUB2vnIOxDT",
     "track_href": "https://api.spotify.com/v1/tracks/1Lo0QY9cvc8sUB2vnIOxDT",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Lo0QY9cvc8sUB2vnIOxDT",
-    "duration_ms": 265493,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.424883333333333
   },
   "68": {
     "artists": "Roddy Ricch",
@@ -1776,9 +1776,9 @@
     "name": "The Box",
     "danceability": 0.896,
     "energy": 0.586,
-    "key": 10,
+    "key": "A#",
     "loudness": -6.687,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0559,
     "acousticness": 0.104,
     "instrumentalness": 0,
@@ -1790,8 +1790,8 @@
     "uri": "spotify:track:0nbXyq5TXYPCO7pr3N8S4I",
     "track_href": "https://api.spotify.com/v1/tracks/0nbXyq5TXYPCO7pr3N8S4I",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0nbXyq5TXYPCO7pr3N8S4I",
-    "duration_ms": 196653,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2775499999999997
   },
   "69": {
     "artists": "Babe Rainbow",
@@ -1802,9 +1802,9 @@
     "name": "Something New",
     "danceability": 0.628,
     "energy": 0.667,
-    "key": 11,
+    "key": "B",
     "loudness": -8.671,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0272,
     "acousticness": 0.147,
     "instrumentalness": 0.0416,
@@ -1816,8 +1816,8 @@
     "uri": "spotify:track:6I5smKWqDl1TwxUvyhDRSZ",
     "track_href": "https://api.spotify.com/v1/tracks/6I5smKWqDl1TwxUvyhDRSZ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6I5smKWqDl1TwxUvyhDRSZ",
-    "duration_ms": 195080,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2513333333333336
   },
   "70": {
     "artists": "Moneybagg Yo, Megan Thee Stallion",
@@ -1828,9 +1828,9 @@
     "name": "All Dat",
     "danceability": 0.792,
     "energy": 0.772,
-    "key": 2,
+    "key": "D",
     "loudness": -3.904,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.27,
     "acousticness": 0.00534,
     "instrumentalness": 0,
@@ -1842,8 +1842,8 @@
     "uri": "spotify:track:2eukAOMjUM4pxnOdIsUia9",
     "track_href": "https://api.spotify.com/v1/tracks/2eukAOMjUM4pxnOdIsUia9",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2eukAOMjUM4pxnOdIsUia9",
-    "duration_ms": 143958,
-    "time_signature": 5
+    "time_signature": 5,
+    "duration": 2.3992999999999998
   },
   "71": {
     "artists": "The Lumineers",
@@ -1854,9 +1854,9 @@
     "name": "A.M.",
     "danceability": 0.469,
     "energy": 0.562,
-    "key": 1,
+    "key": "C#",
     "loudness": -6.402,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0343,
     "acousticness": 0.568,
     "instrumentalness": 0.000135,
@@ -1868,8 +1868,8 @@
     "uri": "spotify:track:0Hu1ylV8WuaLcLclixNgTV",
     "track_href": "https://api.spotify.com/v1/tracks/0Hu1ylV8WuaLcLclixNgTV",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Hu1ylV8WuaLcLclixNgTV",
-    "duration_ms": 237320,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9553333333333334
   },
   "72": {
     "artists": "Y2K, bbno$",
@@ -1880,9 +1880,9 @@
     "name": "Lalala",
     "danceability": 0.843,
     "energy": 0.39,
-    "key": 2,
+    "key": "D",
     "loudness": -7.899,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0846,
     "acousticness": 0.178,
     "instrumentalness": 0,
@@ -1894,8 +1894,8 @@
     "uri": "spotify:track:51Fjme0JiitpyXKuyQiCDo",
     "track_href": "https://api.spotify.com/v1/tracks/51Fjme0JiitpyXKuyQiCDo",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/51Fjme0JiitpyXKuyQiCDo",
-    "duration_ms": 160627,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.677116666666667
   },
   "73": {
     "artists": "Ray J",
@@ -1906,9 +1906,9 @@
     "name": "One Wish",
     "danceability": 0.529,
     "energy": 0.651,
-    "key": 5,
+    "key": "F",
     "loudness": -7.061,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.282,
     "acousticness": 0.281,
     "instrumentalness": 0,
@@ -1920,8 +1920,8 @@
     "uri": "spotify:track:2TFsx3B0hLSSTambrudXs3",
     "track_href": "https://api.spotify.com/v1/tracks/2TFsx3B0hLSSTambrudXs3",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2TFsx3B0hLSSTambrudXs3",
-    "duration_ms": 337640,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 5.6273333333333335
   },
   "74": {
     "artists": "SALES",
@@ -1932,9 +1932,9 @@
     "name": "Chinese New Year",
     "danceability": 0.744,
     "energy": 0.845,
-    "key": 4,
+    "key": "E",
     "loudness": -7.422,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.253,
     "acousticness": 0.759,
     "instrumentalness": 0.232,
@@ -1946,8 +1946,8 @@
     "uri": "spotify:track:0SIAFU49FFHwR3QnT5Jx0k",
     "track_href": "https://api.spotify.com/v1/tracks/0SIAFU49FFHwR3QnT5Jx0k",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0SIAFU49FFHwR3QnT5Jx0k",
-    "duration_ms": 160000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.6666666666666665
   },
   "75": {
     "artists": "KAROL G, Nicki Minaj",
@@ -1958,9 +1958,9 @@
     "name": "Tusa",
     "danceability": 0.796,
     "energy": 0.701,
-    "key": 2,
+    "key": "D",
     "loudness": -3.275,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.283,
     "acousticness": 0.308,
     "instrumentalness": 7.82e-05,
@@ -1972,8 +1972,8 @@
     "uri": "spotify:track:7p2sM5FfetTEp4BF7UKrud",
     "track_href": "https://api.spotify.com/v1/tracks/7p2sM5FfetTEp4BF7UKrud",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7p2sM5FfetTEp4BF7UKrud",
-    "duration_ms": 201920,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.365333333333333
   },
   "76": {
     "artists": "Tyga, Curtis Roach",
@@ -1984,9 +1984,9 @@
     "name": "BORED IN THE HOUSE",
     "danceability": 0.928,
     "energy": 0.372,
-    "key": 1,
+    "key": "C#",
     "loudness": -10.393,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.321,
     "acousticness": 0.0202,
     "instrumentalness": 9.6e-06,
@@ -1998,8 +1998,8 @@
     "uri": "spotify:track:5OxveXfvga2t0se21d96Ow",
     "track_href": "https://api.spotify.com/v1/tracks/5OxveXfvga2t0se21d96Ow",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5OxveXfvga2t0se21d96Ow",
-    "duration_ms": 174933,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.91555
   },
   "77": {
     "artists": "Lil Mosey",
@@ -2010,9 +2010,9 @@
     "name": "Blueberry Faygo",
     "danceability": 0.774,
     "energy": 0.554,
-    "key": 0,
+    "key": "C",
     "loudness": -7.909,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0383,
     "acousticness": 0.207,
     "instrumentalness": 0,
@@ -2024,8 +2024,8 @@
     "uri": "spotify:track:22LAwLoDA5b4AaGSkg6bKW",
     "track_href": "https://api.spotify.com/v1/tracks/22LAwLoDA5b4AaGSkg6bKW",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/22LAwLoDA5b4AaGSkg6bKW",
-    "duration_ms": 162547,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.7091166666666666
   },
   "78": {
     "artists": "Tiagz",
@@ -2036,9 +2036,9 @@
     "name": "My Heart Went Oops",
     "danceability": 0.96,
     "energy": 0.412,
-    "key": 1,
+    "key": "C#",
     "loudness": -11.281,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.607,
     "acousticness": 0.119,
     "instrumentalness": 0,
@@ -2050,8 +2050,8 @@
     "uri": "spotify:track:42EG9CclEoBnRq7X5B7O9j",
     "track_href": "https://api.spotify.com/v1/tracks/42EG9CclEoBnRq7X5B7O9j",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/42EG9CclEoBnRq7X5B7O9j",
-    "duration_ms": 128926,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.1487666666666665
   },
   "79": {
     "artists": "Nicki Minaj, Lil Baby",
@@ -2062,9 +2062,9 @@
     "name": "Bussin",
     "danceability": 0.893,
     "energy": 0.699,
-    "key": 11,
+    "key": "B",
     "loudness": -8.059,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0517,
     "acousticness": 0.0576,
     "instrumentalness": 3.02e-06,
@@ -2076,8 +2076,8 @@
     "uri": "spotify:track:7lcI4X8RZxK4zIknJcwpBq",
     "track_href": "https://api.spotify.com/v1/tracks/7lcI4X8RZxK4zIknJcwpBq",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7lcI4X8RZxK4zIknJcwpBq",
-    "duration_ms": 136761,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.27935
   },
   "80": {
     "artists": "Bebe Rexha",
@@ -2088,9 +2088,9 @@
     "name": "I'm A Mess",
     "danceability": 0.63,
     "energy": 0.694,
-    "key": 11,
+    "key": "B",
     "loudness": -6.257,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0253,
     "acousticness": 0.00281,
     "instrumentalness": 0,
@@ -2102,8 +2102,8 @@
     "uri": "spotify:track:04ZTP5KsCypmtCmQg5tH9R",
     "track_href": "https://api.spotify.com/v1/tracks/04ZTP5KsCypmtCmQg5tH9R",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/04ZTP5KsCypmtCmQg5tH9R",
-    "duration_ms": 195519,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2586500000000003
   },
   "81": {
     "artists": "Young Thug, Future",
@@ -2114,9 +2114,9 @@
     "name": "Relationship",
     "danceability": 0.842,
     "energy": 0.597,
-    "key": 2,
+    "key": "D",
     "loudness": -6.336,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0627,
     "acousticness": 0.00252,
     "instrumentalness": 0,
@@ -2128,8 +2128,8 @@
     "uri": "spotify:track:25oOaleife6E2MIKmFkPvg",
     "track_href": "https://api.spotify.com/v1/tracks/25oOaleife6E2MIKmFkPvg",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/25oOaleife6E2MIKmFkPvg",
-    "duration_ms": 215307,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.58845
   },
   "82": {
     "artists": "Camila Cabello, DaBaby",
@@ -2140,9 +2140,9 @@
     "name": "My Oh My",
     "danceability": 0.724,
     "energy": 0.491,
-    "key": 8,
+    "key": "G#",
     "loudness": -6.024,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0296,
     "acousticness": 0.018,
     "instrumentalness": 1.29e-05,
@@ -2154,8 +2154,8 @@
     "uri": "spotify:track:3yOlyBJuViE2YSGn3nVE1K",
     "track_href": "https://api.spotify.com/v1/tracks/3yOlyBJuViE2YSGn3nVE1K",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3yOlyBJuViE2YSGn3nVE1K",
-    "duration_ms": 170746,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.845766666666667
   },
   "83": {
     "artists": "Engelwood",
@@ -2166,9 +2166,9 @@
     "name": "Crystal Dolphin",
     "danceability": 0.558,
     "energy": 0.776,
-    "key": 9,
+    "key": "A",
     "loudness": -6.868,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.179,
     "acousticness": 0.33,
     "instrumentalness": 0.000445,
@@ -2180,8 +2180,8 @@
     "uri": "spotify:track:3nKZknHg5Y5fPB3gow8ACG",
     "track_href": "https://api.spotify.com/v1/tracks/3nKZknHg5Y5fPB3gow8ACG",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3nKZknHg5Y5fPB3gow8ACG",
-    "duration_ms": 114660,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.911
   },
   "84": {
     "artists": "Kanye West",
@@ -2192,9 +2192,9 @@
     "name": "Good Morning",
     "danceability": 0.48,
     "energy": 0.631,
-    "key": 7,
+    "key": "G",
     "loudness": -5.488,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.116,
     "acousticness": 0.0791,
     "instrumentalness": 0.000105,
@@ -2206,8 +2206,8 @@
     "uri": "spotify:track:6MXXY2eiWkpDCezVCc0cMH",
     "track_href": "https://api.spotify.com/v1/tracks/6MXXY2eiWkpDCezVCc0cMH",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6MXXY2eiWkpDCezVCc0cMH",
-    "duration_ms": 195093,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.25155
   },
   "85": {
     "artists": "Naturelle",
@@ -2226,9 +2226,9 @@
     "name": "Pew Pew Pew",
     "danceability": 0.953,
     "energy": 0.485,
-    "key": 9,
+    "key": "A",
     "loudness": -9.348,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.208,
     "acousticness": 0.238,
     "instrumentalness": 0.00388,
@@ -2240,8 +2240,8 @@
     "uri": "spotify:track:4mObHjfV7evK9bCNpcl6TX",
     "track_href": "https://api.spotify.com/v1/tracks/4mObHjfV7evK9bCNpcl6TX",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4mObHjfV7evK9bCNpcl6TX",
-    "duration_ms": 121000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.0166666666666666
   },
   "87": {
     "artists": "Zac Brown Band",
@@ -2252,9 +2252,9 @@
     "name": "TOES",
     "danceability": 0.801,
     "energy": 0.759,
-    "key": 11,
+    "key": "B",
     "loudness": -5.398,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0378,
     "acousticness": 0.657,
     "instrumentalness": 0,
@@ -2266,8 +2266,8 @@
     "uri": "spotify:track:4S518ci8UY4op0Xyp6Hx6o",
     "track_href": "https://api.spotify.com/v1/tracks/4S518ci8UY4op0Xyp6Hx6o",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4S518ci8UY4op0Xyp6Hx6o",
-    "duration_ms": 262773,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.37955
   },
   "88": {
     "artists": "Jucee Froot, Zed Zilla",
@@ -2278,9 +2278,9 @@
     "name": "Shake Dat",
     "danceability": 0.746,
     "energy": 0.604,
-    "key": 11,
+    "key": "B",
     "loudness": -7.464,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0409,
     "acousticness": 0.00142,
     "instrumentalness": 0,
@@ -2292,8 +2292,8 @@
     "uri": "spotify:track:5L7uORAm7jmXwMMOSaPweR",
     "track_href": "https://api.spotify.com/v1/tracks/5L7uORAm7jmXwMMOSaPweR",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5L7uORAm7jmXwMMOSaPweR",
-    "duration_ms": 180901,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.015016666666667
   },
   "89": {
     "artists": "PUBLIC",
@@ -2304,9 +2304,9 @@
     "name": "Make You Mine",
     "danceability": 0.606,
     "energy": 0.799,
-    "key": 9,
+    "key": "A",
     "loudness": -4.452,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0261,
     "acousticness": 0.0128,
     "instrumentalness": 0,
@@ -2318,8 +2318,8 @@
     "uri": "spotify:track:5iFwAOB2TFkPJk8sMlxP8g",
     "track_href": "https://api.spotify.com/v1/tracks/5iFwAOB2TFkPJk8sMlxP8g",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5iFwAOB2TFkPJk8sMlxP8g",
-    "duration_ms": 232907,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.8817833333333334
   },
   "90": {
     "artists": "Avril Lavigne",
@@ -2330,9 +2330,9 @@
     "name": "What The Hell",
     "danceability": 0.578,
     "energy": 0.926,
-    "key": 6,
+    "key": "F#",
     "loudness": -3.689,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0548,
     "acousticness": 0.00472,
     "instrumentalness": 0.0127,
@@ -2344,8 +2344,8 @@
     "uri": "spotify:track:2z4U9d5OAA4YLNXoCgioxo",
     "track_href": "https://api.spotify.com/v1/tracks/2z4U9d5OAA4YLNXoCgioxo",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2z4U9d5OAA4YLNXoCgioxo",
-    "duration_ms": 220707,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6784499999999998
   },
   "91": {
     "artists": "TAEYANG, Jimin",
@@ -2356,9 +2356,9 @@
     "name": "Vibe",
     "danceability": 0.78,
     "energy": 0.683,
-    "key": 0,
+    "key": "C",
     "loudness": -5.319,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0575,
     "acousticness": 0.0801,
     "instrumentalness": 0,
@@ -2370,8 +2370,8 @@
     "uri": "spotify:track:61AZsmFB3VoJdmraMk5ZSn",
     "track_href": "https://api.spotify.com/v1/tracks/61AZsmFB3VoJdmraMk5ZSn",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/61AZsmFB3VoJdmraMk5ZSn",
-    "duration_ms": 175776,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.9296
   },
   "92": {
     "artists": "Mahogany Lox",
@@ -2382,9 +2382,9 @@
     "name": "Take Your Man",
     "danceability": 0.934,
     "energy": 0.658,
-    "key": 0,
+    "key": "C",
     "loudness": -8.052,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.108,
     "acousticness": 0.411,
     "instrumentalness": 0.000738,
@@ -2396,8 +2396,8 @@
     "uri": "spotify:track:1CF5kzz5XDBAL24wtVyyTJ",
     "track_href": "https://api.spotify.com/v1/tracks/1CF5kzz5XDBAL24wtVyyTJ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1CF5kzz5XDBAL24wtVyyTJ",
-    "duration_ms": 117363,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.95605
   },
   "93": {
     "artists": "Carla",
@@ -2408,9 +2408,9 @@
     "name": "Bim Bam toi",
     "danceability": 0.828,
     "energy": 0.732,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.705,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0581,
     "acousticness": 0.167,
     "instrumentalness": 6.66e-06,
@@ -2422,8 +2422,8 @@
     "uri": "spotify:track:33NTeQz7sVYLmkJ1k8GsVR",
     "track_href": "https://api.spotify.com/v1/tracks/33NTeQz7sVYLmkJ1k8GsVR",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/33NTeQz7sVYLmkJ1k8GsVR",
-    "duration_ms": 175671,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.92785
   },
   "94": {
     "artists": "Juice WRLD",
@@ -2434,9 +2434,9 @@
     "name": "Already Dead",
     "danceability": 0.744,
     "energy": 0.495,
-    "key": 1,
+    "key": "C#",
     "loudness": -6.311,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0634,
     "acousticness": 0.0216,
     "instrumentalness": 0,
@@ -2448,8 +2448,8 @@
     "uri": "spotify:track:1hB3M3POeKMLxcEFEvPeqU",
     "track_href": "https://api.spotify.com/v1/tracks/1hB3M3POeKMLxcEFEvPeqU",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1hB3M3POeKMLxcEFEvPeqU",
-    "duration_ms": 231221,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.8536833333333336
   },
   "95": {
     "artists": "WILLOW",
@@ -2460,9 +2460,9 @@
     "name": "Wait a Minute!",
     "danceability": 0.764,
     "energy": 0.705,
-    "key": 3,
+    "key": "D#",
     "loudness": -5.279,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0278,
     "acousticness": 0.0371,
     "instrumentalness": 1.94e-05,
@@ -2474,8 +2474,8 @@
     "uri": "spotify:track:0y60itmpH0aPKsFiGxmtnh",
     "track_href": "https://api.spotify.com/v1/tracks/0y60itmpH0aPKsFiGxmtnh",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0y60itmpH0aPKsFiGxmtnh",
-    "duration_ms": 196520,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2753333333333337
   },
   "96": {
     "artists": "NewJeans",
@@ -2486,9 +2486,9 @@
     "name": "Attention",
     "danceability": 0.811,
     "energy": 0.648,
-    "key": 10,
+    "key": "A#",
     "loudness": -3.684,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0368,
     "acousticness": 0.236,
     "instrumentalness": 0,
@@ -2500,8 +2500,8 @@
     "uri": "spotify:track:2pIUpMhHL6L9Z5lnKxJJr9",
     "track_href": "https://api.spotify.com/v1/tracks/2pIUpMhHL6L9Z5lnKxJJr9",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2pIUpMhHL6L9Z5lnKxJJr9",
-    "duration_ms": 180067,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.001116666666667
   },
   "97": {
     "artists": "iLL Wayno, Holla FyeSixWun",
@@ -2512,9 +2512,9 @@
     "name": "Eyes.Lips.Face.",
     "danceability": 0.88,
     "energy": 0.776,
-    "key": 6,
+    "key": "F#",
     "loudness": -6.459,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.265,
     "acousticness": 0.0512,
     "instrumentalness": 0,
@@ -2526,8 +2526,8 @@
     "uri": "spotify:track:0UcTXmzMNrnS2rOLp94LlJ",
     "track_href": "https://api.spotify.com/v1/tracks/0UcTXmzMNrnS2rOLp94LlJ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UcTXmzMNrnS2rOLp94LlJ",
-    "duration_ms": 139547,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.3257833333333333
   },
   "98": {
     "artists": "Post Malone, Ty Dolla $ign",
@@ -2538,9 +2538,9 @@
     "name": "Psycho!",
     "danceability": 0.75,
     "energy": 0.56,
-    "key": 8,
+    "key": "G#",
     "loudness": -8.094,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.105,
     "acousticness": 0.546,
     "instrumentalness": 0,
@@ -2552,8 +2552,8 @@
     "uri": "spotify:track:3swc6WTsr7rl9DqQKQA55C",
     "track_href": "https://api.spotify.com/v1/tracks/3swc6WTsr7rl9DqQKQA55C",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3swc6WTsr7rl9DqQKQA55C",
-    "duration_ms": 221440,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6906666666666665
   },
   "99": {
     "artists": "Shakira, Wyclef Jean",
@@ -2564,9 +2564,9 @@
     "name": "Hips Don't Lie",
     "danceability": 0.778,
     "energy": 0.824,
-    "key": 10,
+    "key": "A#",
     "loudness": -5.892,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0707,
     "acousticness": 0.284,
     "instrumentalness": 0,
@@ -2578,8 +2578,8 @@
     "uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V",
     "track_href": "https://api.spotify.com/v1/tracks/3ZFTkvIE7kyPt6Nu3PEa7V",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3ZFTkvIE7kyPt6Nu3PEa7V",
-    "duration_ms": 218093,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6348833333333332
   },
   "100": {
     "artists": "Cardi B, Bad Bunny, J Balvin",
@@ -2590,9 +2590,9 @@
     "name": "I Like It",
     "danceability": 0.816,
     "energy": 0.726,
-    "key": 5,
+    "key": "F",
     "loudness": -3.998,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.129,
     "acousticness": 0.099,
     "instrumentalness": 0,
@@ -2604,8 +2604,8 @@
     "uri": "spotify:track:58q2HKrzhC3ozto2nDdN4z",
     "track_href": "https://api.spotify.com/v1/tracks/58q2HKrzhC3ozto2nDdN4z",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/58q2HKrzhC3ozto2nDdN4z",
-    "duration_ms": 253390,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.223166666666667
   },
   "101": {
     "artists": "Tommee Profitt, Fleurie, Mellen Gi",
@@ -2616,9 +2616,9 @@
     "name": "In The End (Mellen Gi Remix)",
     "danceability": 0.618,
     "energy": 0.611,
-    "key": 7,
+    "key": "G",
     "loudness": -6.654,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.11,
     "acousticness": 0.477,
     "instrumentalness": 0.0333,
@@ -2630,8 +2630,8 @@
     "uri": "spotify:track:5rAUZy2eDdegBxUVYxePK2",
     "track_href": "https://api.spotify.com/v1/tracks/5rAUZy2eDdegBxUVYxePK2",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rAUZy2eDdegBxUVYxePK2",
-    "duration_ms": 218189,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.636483333333333
   },
   "102": {
     "artists": "Lewis Capaldi",
@@ -2642,9 +2642,9 @@
     "name": "Someone You Loved",
     "danceability": 0.501,
     "energy": 0.405,
-    "key": 1,
+    "key": "C#",
     "loudness": -5.679,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0319,
     "acousticness": 0.751,
     "instrumentalness": 0,
@@ -2656,8 +2656,8 @@
     "uri": "spotify:track:7qEHsqek33rTcFNT9PFqLf",
     "track_href": "https://api.spotify.com/v1/tracks/7qEHsqek33rTcFNT9PFqLf",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7qEHsqek33rTcFNT9PFqLf",
-    "duration_ms": 182161,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.036016666666667
   },
   "103": {
     "artists": "Sam Fischer",
@@ -2668,9 +2668,9 @@
     "name": "This City",
     "danceability": 0.605,
     "energy": 0.377,
-    "key": 11,
+    "key": "B",
     "loudness": -6.213,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0443,
     "acousticness": 0.733,
     "instrumentalness": 0,
@@ -2682,8 +2682,8 @@
     "uri": "spotify:track:3H3r2nKWa3Yk5gt8xgmsEt",
     "track_href": "https://api.spotify.com/v1/tracks/3H3r2nKWa3Yk5gt8xgmsEt",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3H3r2nKWa3Yk5gt8xgmsEt",
-    "duration_ms": 194853,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.24755
   },
   "104": {
     "artists": "88GLAM",
@@ -2694,9 +2694,9 @@
     "name": "Lil Boat",
     "danceability": 0.764,
     "energy": 0.672,
-    "key": 6,
+    "key": "F#",
     "loudness": -4.274,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0655,
     "acousticness": 0.0166,
     "instrumentalness": 1.06e-06,
@@ -2708,8 +2708,8 @@
     "uri": "spotify:track:3Zcv9IeYgCvEhxFTfsduaQ",
     "track_href": "https://api.spotify.com/v1/tracks/3Zcv9IeYgCvEhxFTfsduaQ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Zcv9IeYgCvEhxFTfsduaQ",
-    "duration_ms": 180813,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.01355
   },
   "105": {
     "artists": "Dua Lipa",
@@ -2720,9 +2720,9 @@
     "name": "Blow Your Mind (Mwah)",
     "danceability": 0.654,
     "energy": 0.796,
-    "key": 2,
+    "key": "D",
     "loudness": -4.761,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.122,
     "acousticness": 0.0188,
     "instrumentalness": 0,
@@ -2734,8 +2734,8 @@
     "uri": "spotify:track:7kJlTKjNZVT26iwiDUVhRm",
     "track_href": "https://api.spotify.com/v1/tracks/7kJlTKjNZVT26iwiDUVhRm",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7kJlTKjNZVT26iwiDUVhRm",
-    "duration_ms": 178583,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.976383333333333
   },
   "106": {
     "artists": "Billie Eilish, Marian Hill",
@@ -2746,9 +2746,9 @@
     "name": "bellyache (Marian Hill Remix)",
     "danceability": 0.829,
     "energy": 0.368,
-    "key": 4,
+    "key": "E",
     "loudness": -8.626,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.131,
     "acousticness": 0.199,
     "instrumentalness": 0.0506,
@@ -2760,8 +2760,8 @@
     "uri": "spotify:track:5qXQFCI81VXgdvVQmYMeOj",
     "track_href": "https://api.spotify.com/v1/tracks/5qXQFCI81VXgdvVQmYMeOj",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5qXQFCI81VXgdvVQmYMeOj",
-    "duration_ms": 220800,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.68
   },
   "107": {
     "artists": "DripReport",
@@ -2772,9 +2772,9 @@
     "name": "Skechers",
     "danceability": 0.903,
     "energy": 0.327,
-    "key": 1,
+    "key": "C#",
     "loudness": -9.727,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0877,
     "acousticness": 0.26,
     "instrumentalness": 0.011,
@@ -2786,8 +2786,8 @@
     "uri": "spotify:track:2alc8VZAzDgdAsL2QMk3hu",
     "track_href": "https://api.spotify.com/v1/tracks/2alc8VZAzDgdAsL2QMk3hu",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2alc8VZAzDgdAsL2QMk3hu",
-    "duration_ms": 106000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.7666666666666666
   },
   "108": {
     "artists": "Likybo",
@@ -2798,9 +2798,9 @@
     "name": "Kraazy",
     "danceability": 0.689,
     "energy": 0.701,
-    "key": 6,
+    "key": "F#",
     "loudness": -9.477,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.237,
     "acousticness": 0.314,
     "instrumentalness": 0,
@@ -2812,8 +2812,8 @@
     "uri": "spotify:track:3s2Qd1rsWqbvOoxpFTRp8D",
     "track_href": "https://api.spotify.com/v1/tracks/3s2Qd1rsWqbvOoxpFTRp8D",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3s2Qd1rsWqbvOoxpFTRp8D",
-    "duration_ms": 151579,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.5263166666666668
   },
   "109": {
     "artists": "Yeat",
@@ -2824,9 +2824,9 @@
     "name": "Back Up",
     "danceability": 0.839,
     "energy": 0.479,
-    "key": 8,
+    "key": "G#",
     "loudness": -12.229,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.158,
     "acousticness": 0.00608,
     "instrumentalness": 0.00919,
@@ -2838,8 +2838,8 @@
     "uri": "spotify:track:4wTXKpGKv73CBKcip15S00",
     "track_href": "https://api.spotify.com/v1/tracks/4wTXKpGKv73CBKcip15S00",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4wTXKpGKv73CBKcip15S00",
-    "duration_ms": 133000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.216666666666667
   },
   "110": {
     "artists": "Roddy Ricch, Mustard",
@@ -2850,9 +2850,9 @@
     "name": "High Fashion",
     "danceability": 0.831,
     "energy": 0.499,
-    "key": 11,
+    "key": "B",
     "loudness": -8.442,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.114,
     "acousticness": 0.269,
     "instrumentalness": 0,
@@ -2864,8 +2864,8 @@
     "uri": "spotify:track:07KXEDMj78x68D884wgVEm",
     "track_href": "https://api.spotify.com/v1/tracks/07KXEDMj78x68D884wgVEm",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/07KXEDMj78x68D884wgVEm",
-    "duration_ms": 220487,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.674783333333333
   },
   "111": {
     "artists": "Post Malone, Swae Lee",
@@ -2876,9 +2876,9 @@
     "name": "Sunflower",
     "danceability": 0.76,
     "energy": 0.479,
-    "key": 2,
+    "key": "D",
     "loudness": -5.574,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0466,
     "acousticness": 0.556,
     "instrumentalness": 0,
@@ -2890,8 +2890,8 @@
     "uri": "spotify:track:3KkXRkHbMCARz0aVfEt68P",
     "track_href": "https://api.spotify.com/v1/tracks/3KkXRkHbMCARz0aVfEt68P",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3KkXRkHbMCARz0aVfEt68P",
-    "duration_ms": 158040,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.634
   },
   "112": {
     "artists": "Drake",
@@ -2902,9 +2902,9 @@
     "name": "Nonstop",
     "danceability": 0.912,
     "energy": 0.412,
-    "key": 7,
+    "key": "G",
     "loudness": -8.074,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.123,
     "acousticness": 0.0165,
     "instrumentalness": 0.0126,
@@ -2916,8 +2916,8 @@
     "uri": "spotify:track:0TlLq3lA83rQOYtrqBqSct",
     "track_href": "https://api.spotify.com/v1/tracks/0TlLq3lA83rQOYtrqBqSct",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0TlLq3lA83rQOYtrqBqSct",
-    "duration_ms": 238614,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9769
   },
   "113": {
     "artists": "SHPACKYOU$, SixthJune",
@@ -2928,9 +2928,9 @@
     "name": "Funky Town",
     "danceability": 0.615,
     "energy": 0.956,
-    "key": 9,
+    "key": "A",
     "loudness": -3.199,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0359,
     "acousticness": 3.26e-05,
     "instrumentalness": 0.891,
@@ -2942,8 +2942,8 @@
     "uri": "spotify:track:767Tv7BrZVK5B3mZEluODN",
     "track_href": "https://api.spotify.com/v1/tracks/767Tv7BrZVK5B3mZEluODN",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/767Tv7BrZVK5B3mZEluODN",
-    "duration_ms": 69754,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.1625666666666667
   },
   "114": {
     "artists": "Joji",
@@ -2954,9 +2954,9 @@
     "name": "SLOW DANCING IN THE DARK",
     "danceability": 0.515,
     "energy": 0.479,
-    "key": 3,
+    "key": "D#",
     "loudness": -7.458,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0261,
     "acousticness": 0.544,
     "instrumentalness": 0.00598,
@@ -2968,8 +2968,8 @@
     "uri": "spotify:track:0rKtyWc8bvkriBthvHKY8d",
     "track_href": "https://api.spotify.com/v1/tracks/0rKtyWc8bvkriBthvHKY8d",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0rKtyWc8bvkriBthvHKY8d",
-    "duration_ms": 209274,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.4879000000000002
   },
   "115": {
     "artists": "TOKYO\u2019S REVENGE",
@@ -2980,9 +2980,9 @@
     "name": "GOODMORNINGTOKYO!",
     "danceability": 0.907,
     "energy": 0.539,
-    "key": 4,
+    "key": "E",
     "loudness": -7.782,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.36,
     "acousticness": 0.0408,
     "instrumentalness": 0,
@@ -2994,8 +2994,8 @@
     "uri": "spotify:track:0Q2n5yzl2XRqYbV77tZNYp",
     "track_href": "https://api.spotify.com/v1/tracks/0Q2n5yzl2XRqYbV77tZNYp",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0Q2n5yzl2XRqYbV77tZNYp",
-    "duration_ms": 150115,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.501916666666667
   },
   "116": {
     "artists": "Beach Weather",
@@ -3006,9 +3006,9 @@
     "name": "sex",
     "danceability": 0.572,
     "energy": 0.839,
-    "key": 4,
+    "key": "E",
     "loudness": -5.083,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0377,
     "acousticness": 0.013,
     "instrumentalness": 0.00976,
@@ -3020,8 +3020,8 @@
     "uri": "spotify:track:7DbdUf8aHSYoliSjO6LZv6",
     "track_href": "https://api.spotify.com/v1/tracks/7DbdUf8aHSYoliSjO6LZv6",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7DbdUf8aHSYoliSjO6LZv6",
-    "duration_ms": 196784,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.279733333333333
   },
   "117": {
     "artists": "Lil Keed",
@@ -3032,9 +3032,9 @@
     "name": "HBS",
     "danceability": 0.918,
     "energy": 0.394,
-    "key": 0,
+    "key": "C",
     "loudness": -10.786,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.32,
     "acousticness": 0.216,
     "instrumentalness": 0,
@@ -3046,8 +3046,8 @@
     "uri": "spotify:track:0uYMerBHiIHrCv9FHfzUMe",
     "track_href": "https://api.spotify.com/v1/tracks/0uYMerBHiIHrCv9FHfzUMe",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0uYMerBHiIHrCv9FHfzUMe",
-    "duration_ms": 120307,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.005116666666667
   },
   "118": {
     "artists": "Chord Overstreet",
@@ -3058,9 +3058,9 @@
     "name": "Hold On",
     "danceability": 0.618,
     "energy": 0.443,
-    "key": 2,
+    "key": "D",
     "loudness": -9.681,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0526,
     "acousticness": 0.469,
     "instrumentalness": 0,
@@ -3072,8 +3072,8 @@
     "uri": "spotify:track:5vjLSffimiIP26QG5WcN2K",
     "track_href": "https://api.spotify.com/v1/tracks/5vjLSffimiIP26QG5WcN2K",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5vjLSffimiIP26QG5WcN2K",
-    "duration_ms": 198853,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.314216666666667
   },
   "119": {
     "artists": "Billie Eilish",
@@ -3084,9 +3084,9 @@
     "name": "bad guy",
     "danceability": 0.701,
     "energy": 0.425,
-    "key": 7,
+    "key": "G",
     "loudness": -10.965,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.375,
     "acousticness": 0.328,
     "instrumentalness": 0.13,
@@ -3098,8 +3098,8 @@
     "uri": "spotify:track:2Fxmhks0bxGSBdJ92vM42m",
     "track_href": "https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Fxmhks0bxGSBdJ92vM42m",
-    "duration_ms": 194088,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2348
   },
   "120": {
     "artists": "Ant Saunders",
@@ -3110,9 +3110,9 @@
     "name": "Yellow Hearts",
     "danceability": 0.866,
     "energy": 0.438,
-    "key": 7,
+    "key": "G",
     "loudness": -8.943,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0719,
     "acousticness": 0.177,
     "instrumentalness": 0,
@@ -3124,8 +3124,8 @@
     "uri": "spotify:track:2W4yABdLc4Jnds67Poi5Nl",
     "track_href": "https://api.spotify.com/v1/tracks/2W4yABdLc4Jnds67Poi5Nl",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2W4yABdLc4Jnds67Poi5Nl",
-    "duration_ms": 223258,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.720966666666667
   },
   "121": {
     "artists": "Rae Sremmurd",
@@ -3136,9 +3136,9 @@
     "name": "Ymca",
     "danceability": 0.838,
     "energy": 0.556,
-    "key": 2,
+    "key": "D",
     "loudness": -6.892,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.12,
     "acousticness": 0.00872,
     "instrumentalness": 0,
@@ -3150,8 +3150,8 @@
     "uri": "spotify:track:3BYYZeMwAiasw2J5zrI7n2",
     "track_href": "https://api.spotify.com/v1/tracks/3BYYZeMwAiasw2J5zrI7n2",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3BYYZeMwAiasw2J5zrI7n2",
-    "duration_ms": 217942,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.632366666666667
   },
   "122": {
     "artists": "Hot Chelle Rae",
@@ -3162,9 +3162,9 @@
     "name": "Tonight Tonight",
     "danceability": 0.686,
     "energy": 0.783,
-    "key": 4,
+    "key": "E",
     "loudness": -4.977,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.119,
     "acousticness": 0.0764,
     "instrumentalness": 0,
@@ -3176,8 +3176,8 @@
     "uri": "spotify:track:2i0AUcEnsDm3dsqLrFWUCq",
     "track_href": "https://api.spotify.com/v1/tracks/2i0AUcEnsDm3dsqLrFWUCq",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2i0AUcEnsDm3dsqLrFWUCq",
-    "duration_ms": 200467,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.3411166666666667
   },
   "123": {
     "artists": "Madison Beer",
@@ -3188,9 +3188,9 @@
     "name": "Reckless",
     "danceability": 0.386,
     "energy": 0.426,
-    "key": 3,
+    "key": "D#",
     "loudness": -6.642,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0363,
     "acousticness": 0.807,
     "instrumentalness": 0,
@@ -3202,8 +3202,8 @@
     "uri": "spotify:track:5ajjAnNRh8bxFvaVHzpPjh",
     "track_href": "https://api.spotify.com/v1/tracks/5ajjAnNRh8bxFvaVHzpPjh",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ajjAnNRh8bxFvaVHzpPjh",
-    "duration_ms": 203385,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 3.38975
   },
   "124": {
     "artists": "Shoreline Mafia, OHGEESY, Fenix Flexin",
@@ -3214,9 +3214,9 @@
     "name": "Change Ya Life",
     "danceability": 0.893,
     "energy": 0.635,
-    "key": 7,
+    "key": "G",
     "loudness": -6.731,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.088,
     "acousticness": 0.0105,
     "instrumentalness": 1.49e-06,
@@ -3228,8 +3228,8 @@
     "uri": "spotify:track:0y0CMYyM4jnqFd2RVALYYP",
     "track_href": "https://api.spotify.com/v1/tracks/0y0CMYyM4jnqFd2RVALYYP",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0y0CMYyM4jnqFd2RVALYYP",
-    "duration_ms": 160720,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.6786666666666665
   },
   "125": {
     "artists": "Megan Thee Stallion, DaBaby",
@@ -3240,9 +3240,9 @@
     "name": "Cash Shit",
     "danceability": 0.921,
     "energy": 0.635,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.904,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.416,
     "acousticness": 0.0218,
     "instrumentalness": 0,
@@ -3254,8 +3254,8 @@
     "uri": "spotify:track:2rMAtCaTj16NptyVfEIeAC",
     "track_href": "https://api.spotify.com/v1/tracks/2rMAtCaTj16NptyVfEIeAC",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2rMAtCaTj16NptyVfEIeAC",
-    "duration_ms": 192540,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.209
   },
   "126": {
     "artists": "Ciara",
@@ -3266,9 +3266,9 @@
     "name": "Level Up",
     "danceability": 0.746,
     "energy": 0.825,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.666,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.169,
     "acousticness": 0.0142,
     "instrumentalness": 0.0107,
@@ -3280,8 +3280,8 @@
     "uri": "spotify:track:7ssEhls1ZYEGtBsoovkMSe",
     "track_href": "https://api.spotify.com/v1/tracks/7ssEhls1ZYEGtBsoovkMSe",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7ssEhls1ZYEGtBsoovkMSe",
-    "duration_ms": 204150,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.4025000000000003
   },
   "127": {
     "artists": "Tyga",
@@ -3292,9 +3292,9 @@
     "name": "Ayy Macarena",
     "danceability": 0.816,
     "energy": 0.629,
-    "key": 2,
+    "key": "D",
     "loudness": -5.568,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.226,
     "acousticness": 0.133,
     "instrumentalness": 0,
@@ -3306,8 +3306,8 @@
     "uri": "spotify:track:6LcauUZjF1eXQrgqMUecHX",
     "track_href": "https://api.spotify.com/v1/tracks/6LcauUZjF1eXQrgqMUecHX",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6LcauUZjF1eXQrgqMUecHX",
-    "duration_ms": 131607,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.19345
   },
   "128": {
     "artists": "Alec Benjamin",
@@ -3318,9 +3318,9 @@
     "name": "Let Me Down Slowly",
     "danceability": 0.652,
     "energy": 0.557,
-    "key": 1,
+    "key": "C#",
     "loudness": -5.714,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0318,
     "acousticness": 0.74,
     "instrumentalness": 0,
@@ -3332,8 +3332,8 @@
     "uri": "spotify:track:2qxmye6gAegTMjLKEBoR3d",
     "track_href": "https://api.spotify.com/v1/tracks/2qxmye6gAegTMjLKEBoR3d",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2qxmye6gAegTMjLKEBoR3d",
-    "duration_ms": 169354,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.822566666666667
   },
   "129": {
     "artists": "CARYS",
@@ -3344,9 +3344,9 @@
     "name": "Princesses Don't Cry",
     "danceability": 0.626,
     "energy": 0.595,
-    "key": 0,
+    "key": "C",
     "loudness": -4.975,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0288,
     "acousticness": 0.285,
     "instrumentalness": 0,
@@ -3358,8 +3358,8 @@
     "uri": "spotify:track:0P3QZGxM5VhBY1CT8gJOa9",
     "track_href": "https://api.spotify.com/v1/tracks/0P3QZGxM5VhBY1CT8gJOa9",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0P3QZGxM5VhBY1CT8gJOa9",
-    "duration_ms": 212107,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.5351166666666667
   },
   "130": {
     "artists": "Saweetie",
@@ -3370,9 +3370,9 @@
     "name": "My Type",
     "danceability": 0.899,
     "energy": 0.811,
-    "key": 2,
+    "key": "D",
     "loudness": -6.294,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.258,
     "acousticness": 0.000677,
     "instrumentalness": 0,
@@ -3384,8 +3384,8 @@
     "uri": "spotify:track:5KBARWIxeMGkvUax9VtVC9",
     "track_href": "https://api.spotify.com/v1/tracks/5KBARWIxeMGkvUax9VtVC9",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5KBARWIxeMGkvUax9VtVC9",
-    "duration_ms": 126446,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.1074333333333333
   },
   "131": {
     "artists": "BTS, Halsey",
@@ -3396,9 +3396,9 @@
     "name": "Boy With Luv",
     "danceability": 0.645,
     "energy": 0.862,
-    "key": 11,
+    "key": "B",
     "loudness": -4.761,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0845,
     "acousticness": 0.0933,
     "instrumentalness": 0,
@@ -3410,8 +3410,8 @@
     "uri": "spotify:track:4a9tbd947vo9K8Vti9JwcI",
     "track_href": "https://api.spotify.com/v1/tracks/4a9tbd947vo9K8Vti9JwcI",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4a9tbd947vo9K8Vti9JwcI",
-    "duration_ms": 229773,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.82955
   },
   "132": {
     "artists": "Lil Tecca",
@@ -3422,9 +3422,9 @@
     "name": "Ransom",
     "danceability": 0.745,
     "energy": 0.642,
-    "key": 7,
+    "key": "G",
     "loudness": -6.257,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.287,
     "acousticness": 0.0204,
     "instrumentalness": 0,
@@ -3436,8 +3436,8 @@
     "uri": "spotify:track:1lOe9qE0vR9zwWQAOk6CoO",
     "track_href": "https://api.spotify.com/v1/tracks/1lOe9qE0vR9zwWQAOk6CoO",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1lOe9qE0vR9zwWQAOk6CoO",
-    "duration_ms": 131240,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.1873333333333336
   },
   "133": {
     "artists": "24kGoldn",
@@ -3448,9 +3448,9 @@
     "name": "Valentino",
     "danceability": 0.746,
     "energy": 0.717,
-    "key": 9,
+    "key": "A",
     "loudness": -4.841,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.179,
     "acousticness": 0.199,
     "instrumentalness": 0,
@@ -3462,8 +3462,8 @@
     "uri": "spotify:track:6piAUJJQFD8oHDUr0b7l7q",
     "track_href": "https://api.spotify.com/v1/tracks/6piAUJJQFD8oHDUr0b7l7q",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6piAUJJQFD8oHDUr0b7l7q",
-    "duration_ms": 179133,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.9855500000000004
   },
   "134": {
     "artists": "Tiagz",
@@ -3474,9 +3474,9 @@
     "name": "They Call Me Tiago (Her Name Is Margo)",
     "danceability": 0.878,
     "energy": 0.578,
-    "key": 0,
+    "key": "C",
     "loudness": -7.581,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0722,
     "acousticness": 0.196,
     "instrumentalness": 0.433,
@@ -3488,8 +3488,8 @@
     "uri": "spotify:track:1UxYmRBBJMMuzYcK9miSYs",
     "track_href": "https://api.spotify.com/v1/tracks/1UxYmRBBJMMuzYcK9miSYs",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1UxYmRBBJMMuzYcK9miSYs",
-    "duration_ms": 154455,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.57425
   },
   "135": {
     "artists": "DJ Khaled, Post Malone, DaBaby, Megan Thee Stallion, Lil Baby",
@@ -3500,9 +3500,9 @@
     "name": "I Did It",
     "danceability": 0.757,
     "energy": 0.721,
-    "key": 4,
+    "key": "E",
     "loudness": -2.906,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0691,
     "acousticness": 0.00196,
     "instrumentalness": 0,
@@ -3514,8 +3514,8 @@
     "uri": "spotify:track:20GrahbI4AzAOWxpYfDKkf",
     "track_href": "https://api.spotify.com/v1/tracks/20GrahbI4AzAOWxpYfDKkf",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/20GrahbI4AzAOWxpYfDKkf",
-    "duration_ms": 165366,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.7561000000000004
   },
   "136": {
     "artists": "Arizona Zervas",
@@ -3526,9 +3526,9 @@
     "name": "FML",
     "danceability": 0.822,
     "energy": 0.575,
-    "key": 5,
+    "key": "F",
     "loudness": -5.95,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0934,
     "acousticness": 0.113,
     "instrumentalness": 0,
@@ -3540,8 +3540,8 @@
     "uri": "spotify:track:6lruHh1jF7ezgbLv72xYmf",
     "track_href": "https://api.spotify.com/v1/tracks/6lruHh1jF7ezgbLv72xYmf",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lruHh1jF7ezgbLv72xYmf",
-    "duration_ms": 223000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.716666666666667
   },
   "137": {
     "artists": "Christina Perri",
@@ -3552,9 +3552,9 @@
     "name": "A Thousand Years",
     "danceability": 0.421,
     "energy": 0.407,
-    "key": 10,
+    "key": "A#",
     "loudness": -7.445,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0267,
     "acousticness": 0.309,
     "instrumentalness": 0.000961,
@@ -3566,8 +3566,8 @@
     "uri": "spotify:track:6lanRgr6wXibZr8KgzXxBl",
     "track_href": "https://api.spotify.com/v1/tracks/6lanRgr6wXibZr8KgzXxBl",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lanRgr6wXibZr8KgzXxBl",
-    "duration_ms": 285120,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 4.752
   },
   "138": {
     "artists": "The Notorious B.I.G.",
@@ -3578,9 +3578,9 @@
     "name": "Juicy",
     "danceability": 0.889,
     "energy": 0.818,
-    "key": 9,
+    "key": "A",
     "loudness": -4.639,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.253,
     "acousticness": 0.47,
     "instrumentalness": 0,
@@ -3592,8 +3592,8 @@
     "uri": "spotify:track:5ByAIlEEnxYdvpnezg7HTX",
     "track_href": "https://api.spotify.com/v1/tracks/5ByAIlEEnxYdvpnezg7HTX",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ByAIlEEnxYdvpnezg7HTX",
-    "duration_ms": 302760,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 5.046
   },
   "139": {
     "artists": "Kina, Sn\u00f8w",
@@ -3604,9 +3604,9 @@
     "name": "Get You The Moon",
     "danceability": 0.498,
     "energy": 0.235,
-    "key": 1,
+    "key": "C#",
     "loudness": -16.541,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.188,
     "acousticness": 0.72,
     "instrumentalness": 0,
@@ -3618,8 +3618,8 @@
     "uri": "spotify:track:4ZLzoOkj0MPWrTLvooIuaa",
     "track_href": "https://api.spotify.com/v1/tracks/4ZLzoOkj0MPWrTLvooIuaa",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ZLzoOkj0MPWrTLvooIuaa",
-    "duration_ms": 179080,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.984666666666667
   },
   "140": {
     "artists": "Ashe",
@@ -3630,9 +3630,9 @@
     "name": "Moral of the Story",
     "danceability": 0.569,
     "energy": 0.403,
-    "key": 10,
+    "key": "A#",
     "loudness": -8.618,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0439,
     "acousticness": 0.593,
     "instrumentalness": 4.49e-06,
@@ -3644,8 +3644,8 @@
     "uri": "spotify:track:69HzZ3ti9DLwb0GdWCGYSo",
     "track_href": "https://api.spotify.com/v1/tracks/69HzZ3ti9DLwb0GdWCGYSo",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/69HzZ3ti9DLwb0GdWCGYSo",
-    "duration_ms": 201017,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.350283333333333
   },
   "141": {
     "artists": "Sub Urban",
@@ -3656,9 +3656,9 @@
     "name": "Cradles",
     "danceability": 0.537,
     "energy": 0.586,
-    "key": 6,
+    "key": "F#",
     "loudness": -1.864,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.314,
     "acousticness": 0.265,
     "instrumentalness": 7.04e-05,
@@ -3670,8 +3670,8 @@
     "uri": "spotify:track:5sSYvDVyP0CP9TUiqy3fuF",
     "track_href": "https://api.spotify.com/v1/tracks/5sSYvDVyP0CP9TUiqy3fuF",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5sSYvDVyP0CP9TUiqy3fuF",
-    "duration_ms": 209829,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.49715
   },
   "142": {
     "artists": "Matthew Wilder",
@@ -3682,9 +3682,9 @@
     "name": "Break My Stride",
     "danceability": 0.917,
     "energy": 0.588,
-    "key": 10,
+    "key": "A#",
     "loudness": -11.047,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0607,
     "acousticness": 0.195,
     "instrumentalness": 0,
@@ -3696,8 +3696,8 @@
     "uri": "spotify:track:1mCsF9Tw4AkIZOjvZbZZdT",
     "track_href": "https://api.spotify.com/v1/tracks/1mCsF9Tw4AkIZOjvZbZZdT",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1mCsF9Tw4AkIZOjvZbZZdT",
-    "duration_ms": 184480,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.0746666666666664
   },
   "143": {
     "artists": "Rico Nasty",
@@ -3708,9 +3708,9 @@
     "name": "Smack A Bitch",
     "danceability": 0.705,
     "energy": 0.699,
-    "key": 2,
+    "key": "D",
     "loudness": -2.412,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.226,
     "acousticness": 0.00544,
     "instrumentalness": 0,
@@ -3722,8 +3722,8 @@
     "uri": "spotify:track:3Zm27XyCDoAqHMGte5ydxQ",
     "track_href": "https://api.spotify.com/v1/tracks/3Zm27XyCDoAqHMGte5ydxQ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3Zm27XyCDoAqHMGte5ydxQ",
-    "duration_ms": 138353,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.3058833333333335
   },
   "144": {
     "artists": "Travis Scott",
@@ -3734,9 +3734,9 @@
     "name": "SICKO MODE",
     "danceability": 0.834,
     "energy": 0.73,
-    "key": 8,
+    "key": "G#",
     "loudness": -3.714,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.222,
     "acousticness": 0.00513,
     "instrumentalness": 0,
@@ -3748,8 +3748,8 @@
     "uri": "spotify:track:2xLMifQCjDGFmkHkpNLD9h",
     "track_href": "https://api.spotify.com/v1/tracks/2xLMifQCjDGFmkHkpNLD9h",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xLMifQCjDGFmkHkpNLD9h",
-    "duration_ms": 312820,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 5.213666666666667
   },
   "145": {
     "artists": "Travis Porter, Tyga",
@@ -3760,9 +3760,9 @@
     "name": "Ayy Ladies",
     "danceability": 0.905,
     "energy": 0.782,
-    "key": 10,
+    "key": "A#",
     "loudness": -3.604,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.164,
     "acousticness": 0.096,
     "instrumentalness": 0,
@@ -3774,8 +3774,8 @@
     "uri": "spotify:track:4P6BuLsqtg5uISdE77ypI9",
     "track_href": "https://api.spotify.com/v1/tracks/4P6BuLsqtg5uISdE77ypI9",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4P6BuLsqtg5uISdE77ypI9",
-    "duration_ms": 211293,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.52155
   },
   "146": {
     "artists": "Ciara, Missy Elliott",
@@ -3786,9 +3786,9 @@
     "name": "One Tow",
     "danceability": 0.944,
     "energy": 0.511,
-    "key": 5,
+    "key": "F",
     "loudness": -10.96,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.161,
     "acousticness": 0.042,
     "instrumentalness": 0.00107,
@@ -3800,8 +3800,8 @@
     "uri": "spotify:track:7uKcScNXuO3MWw6LowBjW1",
     "track_href": "https://api.spotify.com/v1/tracks/7uKcScNXuO3MWw6LowBjW1",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7uKcScNXuO3MWw6LowBjW1",
-    "duration_ms": 203787,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.39645
   },
   "147": {
     "artists": "Megan Thee Stallion",
@@ -3812,9 +3812,9 @@
     "name": "Captain Hook",
     "danceability": 0.863,
     "energy": 0.633,
-    "key": 10,
+    "key": "A#",
     "loudness": -5.002,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.287,
     "acousticness": 0.0118,
     "instrumentalness": 0,
@@ -3826,8 +3826,8 @@
     "uri": "spotify:track:1E3VQQWFQAPJkXfYHjqWoI",
     "track_href": "https://api.spotify.com/v1/tracks/1E3VQQWFQAPJkXfYHjqWoI",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1E3VQQWFQAPJkXfYHjqWoI",
-    "duration_ms": 176750,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.9458333333333333
   },
   "148": {
     "artists": "The Neighbourhood",
@@ -3838,9 +3838,9 @@
     "name": "Daddy",
     "danceability": 0.588,
     "energy": 0.521,
-    "key": 10,
+    "key": "A#",
     "loudness": -9.461,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0329,
     "acousticness": 0.0678,
     "instrumentalness": 0.149,
@@ -3852,8 +3852,8 @@
     "uri": "spotify:track:5E30LdtzQTGqRvNd7l6kG5",
     "track_href": "https://api.spotify.com/v1/tracks/5E30LdtzQTGqRvNd7l6kG5",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5E30LdtzQTGqRvNd7l6kG5",
-    "duration_ms": 260173,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.336216666666667
   },
   "149": {
     "artists": "Rae Sremmurd",
@@ -3864,9 +3864,9 @@
     "name": "This Could Be Us",
     "danceability": 0.732,
     "energy": 0.69,
-    "key": 0,
+    "key": "C",
     "loudness": -4.992,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.134,
     "acousticness": 0.291,
     "instrumentalness": 0,
@@ -3878,8 +3878,8 @@
     "uri": "spotify:track:4jTiyLlOJVJj3mCr7yfPQD",
     "track_href": "https://api.spotify.com/v1/tracks/4jTiyLlOJVJj3mCr7yfPQD",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4jTiyLlOJVJj3mCr7yfPQD",
-    "duration_ms": 206307,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.43845
   },
   "150": {
     "artists": "Surfaces",
@@ -3890,9 +3890,9 @@
     "name": "Sunday Best",
     "danceability": 0.878,
     "energy": 0.525,
-    "key": 5,
+    "key": "F",
     "loudness": -6.832,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0578,
     "acousticness": 0.183,
     "instrumentalness": 0,
@@ -3904,8 +3904,8 @@
     "uri": "spotify:track:1Cv1YLb4q0RzL6pybtaMLo",
     "track_href": "https://api.spotify.com/v1/tracks/1Cv1YLb4q0RzL6pybtaMLo",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Cv1YLb4q0RzL6pybtaMLo",
-    "duration_ms": 158571,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.64285
   },
   "151": {
     "artists": "Taylor Swift",
@@ -3916,9 +3916,9 @@
     "name": "Shake It",
     "danceability": 0.647,
     "energy": 0.785,
-    "key": 7,
+    "key": "G",
     "loudness": -5.414,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.165,
     "acousticness": 0.0561,
     "instrumentalness": 0,
@@ -3930,8 +3930,8 @@
     "uri": "spotify:track:5xTtaWoae3wi06K5WfVUUH",
     "track_href": "https://api.spotify.com/v1/tracks/5xTtaWoae3wi06K5WfVUUH",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5xTtaWoae3wi06K5WfVUUH",
-    "duration_ms": 219200,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6533333333333333
   },
   "152": {
     "artists": "ilyTOMMY, Savage Ga$p",
@@ -3942,9 +3942,9 @@
     "name": "Tunnel of Love",
     "danceability": 0.683,
     "energy": 0.636,
-    "key": 7,
+    "key": "G",
     "loudness": -12.096,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0978,
     "acousticness": 0.302,
     "instrumentalness": 0.498,
@@ -3956,8 +3956,8 @@
     "uri": "spotify:track:1K4OfBFaLleSUaUVjp1l2X",
     "track_href": "https://api.spotify.com/v1/tracks/1K4OfBFaLleSUaUVjp1l2X",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1K4OfBFaLleSUaUVjp1l2X",
-    "duration_ms": 142365,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.3727500000000004
   },
   "153": {
     "artists": "Dan + Shay, Justin Bieber",
@@ -3968,9 +3968,9 @@
     "name": "10,000 Hours",
     "danceability": 0.654,
     "energy": 0.63,
-    "key": 10,
+    "key": "A#",
     "loudness": -4.644,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0259,
     "acousticness": 0.153,
     "instrumentalness": 0,
@@ -3982,8 +3982,8 @@
     "uri": "spotify:track:2wrJq5XKLnmhRXHIAf9xBa",
     "track_href": "https://api.spotify.com/v1/tracks/2wrJq5XKLnmhRXHIAf9xBa",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2wrJq5XKLnmhRXHIAf9xBa",
-    "duration_ms": 167693,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.7948833333333334
   },
   "154": {
     "artists": "Surfaces",
@@ -3994,9 +3994,9 @@
     "name": "Sunday Best",
     "danceability": 0.878,
     "energy": 0.525,
-    "key": 5,
+    "key": "F",
     "loudness": -6.832,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0578,
     "acousticness": 0.183,
     "instrumentalness": 0,
@@ -4008,8 +4008,8 @@
     "uri": "spotify:track:1Cv1YLb4q0RzL6pybtaMLo",
     "track_href": "https://api.spotify.com/v1/tracks/1Cv1YLb4q0RzL6pybtaMLo",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Cv1YLb4q0RzL6pybtaMLo",
-    "duration_ms": 158571,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.64285
   },
   "155": {
     "artists": "tobi lou",
@@ -4020,9 +4020,9 @@
     "name": "Buff Baby",
     "danceability": 0.734,
     "energy": 0.765,
-    "key": 5,
+    "key": "F",
     "loudness": -6.047,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0571,
     "acousticness": 0.243,
     "instrumentalness": 0,
@@ -4034,8 +4034,8 @@
     "uri": "spotify:track:1F1QmI8TMHir9SUFrooq5F",
     "track_href": "https://api.spotify.com/v1/tracks/1F1QmI8TMHir9SUFrooq5F",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1F1QmI8TMHir9SUFrooq5F",
-    "duration_ms": 215385,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.58975
   },
   "156": {
     "artists": "Mystery",
@@ -4046,9 +4046,9 @@
     "name": "Gettin' This / Multiply",
     "danceability": 0.479,
     "energy": 0.891,
-    "key": 2,
+    "key": "D",
     "loudness": -3.393,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.345,
     "acousticness": 0.353,
     "instrumentalness": 0,
@@ -4060,8 +4060,8 @@
     "uri": "spotify:track:1Clvc7TX9UlvaNFo6naWGH",
     "track_href": "https://api.spotify.com/v1/tracks/1Clvc7TX9UlvaNFo6naWGH",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Clvc7TX9UlvaNFo6naWGH",
-    "duration_ms": 240615,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.01025
   },
   "157": {
     "artists": "Peter Kuli, Jed Will",
@@ -4072,9 +4072,9 @@
     "name": "OK Boomer",
     "danceability": 0.913,
     "energy": 0.518,
-    "key": 1,
+    "key": "C#",
     "loudness": -2.317,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.416,
     "acousticness": 0.092,
     "instrumentalness": 0,
@@ -4086,8 +4086,8 @@
     "uri": "spotify:track:0VdzNP9LFAMAWKjMpBDJ4B",
     "track_href": "https://api.spotify.com/v1/tracks/0VdzNP9LFAMAWKjMpBDJ4B",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VdzNP9LFAMAWKjMpBDJ4B",
-    "duration_ms": 132923,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.2153833333333335
   },
   "158": {
     "artists": "Paramore",
@@ -4098,9 +4098,9 @@
     "name": "Pressure",
     "danceability": 0.509,
     "energy": 0.887,
-    "key": 2,
+    "key": "D",
     "loudness": -3.785,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0958,
     "acousticness": 0.00166,
     "instrumentalness": 7.98e-06,
@@ -4112,8 +4112,8 @@
     "uri": "spotify:track:7mG2RbhyzGsjpQOz568d39",
     "track_href": "https://api.spotify.com/v1/tracks/7mG2RbhyzGsjpQOz568d39",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7mG2RbhyzGsjpQOz568d39",
-    "duration_ms": 185733,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.0955500000000002
   },
   "159": {
     "artists": "Melanie Martinez",
@@ -4124,9 +4124,9 @@
     "name": "Death",
     "danceability": 0.392,
     "energy": 0.541,
-    "key": 1,
+    "key": "C#",
     "loudness": -8.68,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0641,
     "acousticness": 0.102,
     "instrumentalness": 1.02e-05,
@@ -4138,8 +4138,8 @@
     "uri": "spotify:track:3PzeZR8CqtwXmSn5AVao7J",
     "track_href": "https://api.spotify.com/v1/tracks/3PzeZR8CqtwXmSn5AVao7J",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PzeZR8CqtwXmSn5AVao7J",
-    "duration_ms": 306656,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 5.1109333333333336
   },
   "160": {
     "artists": "Juice WRLD, Young Thug",
@@ -4150,9 +4150,9 @@
     "name": "Bad Boy",
     "danceability": 0.697,
     "energy": 0.674,
-    "key": 1,
+    "key": "C#",
     "loudness": -6.326,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0533,
     "acousticness": 0.00215,
     "instrumentalness": 0,
@@ -4164,8 +4164,8 @@
     "uri": "spotify:track:43CIWpJaJHRcI4mUSjqgc2",
     "track_href": "https://api.spotify.com/v1/tracks/43CIWpJaJHRcI4mUSjqgc2",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/43CIWpJaJHRcI4mUSjqgc2",
-    "duration_ms": 157355,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.622583333333333
   },
   "161": {
     "artists": "Becky G, Peso Pluma",
@@ -4176,9 +4176,9 @@
     "name": "Becky",
     "danceability": 0.852,
     "energy": 0.675,
-    "key": 2,
+    "key": "D",
     "loudness": -5.738,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0363,
     "acousticness": 0.397,
     "instrumentalness": 0.00317,
@@ -4190,8 +4190,8 @@
     "uri": "spotify:track:5RcxRGvmYai7kpFSfxe5GY",
     "track_href": "https://api.spotify.com/v1/tracks/5RcxRGvmYai7kpFSfxe5GY",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5RcxRGvmYai7kpFSfxe5GY",
-    "duration_ms": 201993,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 3.3665499999999997
   },
   "162": {
     "artists": "girl in red",
@@ -4202,9 +4202,9 @@
     "name": "we fell in love in october",
     "danceability": 0.566,
     "energy": 0.366,
-    "key": 7,
+    "key": "G",
     "loudness": -12.808,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.028,
     "acousticness": 0.113,
     "instrumentalness": 0.181,
@@ -4216,8 +4216,8 @@
     "uri": "spotify:track:6IPwKM3fUUzlElbvKw2sKl",
     "track_href": "https://api.spotify.com/v1/tracks/6IPwKM3fUUzlElbvKw2sKl",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6IPwKM3fUUzlElbvKw2sKl",
-    "duration_ms": 184154,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.0692333333333335
   },
   "163": {
     "artists": "Paramore",
@@ -4228,9 +4228,9 @@
     "name": "Liar",
     "danceability": 0.512,
     "energy": 0.454,
-    "key": 6,
+    "key": "F#",
     "loudness": -11.993,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0325,
     "acousticness": 0.636,
     "instrumentalness": 0.209,
@@ -4242,8 +4242,8 @@
     "uri": "spotify:track:7EUhSxz4srS8pqh1cENbLB",
     "track_href": "https://api.spotify.com/v1/tracks/7EUhSxz4srS8pqh1cENbLB",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7EUhSxz4srS8pqh1cENbLB",
-    "duration_ms": 261869,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.364483333333334
   },
   "164": {
     "artists": "Foster The People",
@@ -4254,9 +4254,9 @@
     "name": "Pumped Up Kicks",
     "danceability": 0.733,
     "energy": 0.71,
-    "key": 5,
+    "key": "F",
     "loudness": -5.849,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0292,
     "acousticness": 0.145,
     "instrumentalness": 0.115,
@@ -4268,8 +4268,8 @@
     "uri": "spotify:track:7w87IxuO7BDcJ3YUqCyMTT",
     "track_href": "https://api.spotify.com/v1/tracks/7w87IxuO7BDcJ3YUqCyMTT",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7w87IxuO7BDcJ3YUqCyMTT",
-    "duration_ms": 239600,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.993333333333333
   },
   "165": {
     "artists": "alt-J",
@@ -4280,9 +4280,9 @@
     "name": "Breezeblocks",
     "danceability": 0.615,
     "energy": 0.658,
-    "key": 5,
+    "key": "F",
     "loudness": -7.299,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0343,
     "acousticness": 0.096,
     "instrumentalness": 0.000911,
@@ -4294,8 +4294,8 @@
     "uri": "spotify:track:3n69hLUdIsSa1WlRmjMZlW",
     "track_href": "https://api.spotify.com/v1/tracks/3n69hLUdIsSa1WlRmjMZlW",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3n69hLUdIsSa1WlRmjMZlW",
-    "duration_ms": 227080,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.784666666666667
   },
   "166": {
     "artists": "Flo Milli",
@@ -4306,9 +4306,9 @@
     "name": "In The Party",
     "danceability": 0.919,
     "energy": 0.609,
-    "key": 9,
+    "key": "A",
     "loudness": -5.059,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.262,
     "acousticness": 0.0096,
     "instrumentalness": 0,
@@ -4320,8 +4320,8 @@
     "uri": "spotify:track:52BJrldggFQyTiW8XrILhO",
     "track_href": "https://api.spotify.com/v1/tracks/52BJrldggFQyTiW8XrILhO",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/52BJrldggFQyTiW8XrILhO",
-    "duration_ms": 137362,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.2893666666666665
   },
   "167": {
     "artists": "DaBaby",
@@ -4332,9 +4332,9 @@
     "name": "VIBEZ",
     "danceability": 0.768,
     "energy": 0.652,
-    "key": 1,
+    "key": "C#",
     "loudness": -2.708,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.307,
     "acousticness": 0.113,
     "instrumentalness": 0,
@@ -4346,8 +4346,8 @@
     "uri": "spotify:track:0fySG6A6qLE8IvDpayb5bM",
     "track_href": "https://api.spotify.com/v1/tracks/0fySG6A6qLE8IvDpayb5bM",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0fySG6A6qLE8IvDpayb5bM",
-    "duration_ms": 144935,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.415583333333333
   },
   "168": {
     "artists": "Anderson .Paak",
@@ -4358,9 +4358,9 @@
     "name": "Who R U",
     "danceability": 0.834,
     "energy": 0.826,
-    "key": 1,
+    "key": "C#",
     "loudness": -7.429,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.157,
     "acousticness": 0.0429,
     "instrumentalness": 0,
@@ -4372,8 +4372,8 @@
     "uri": "spotify:track:4kHSIZyIEijaMuZpV8GS1p",
     "track_href": "https://api.spotify.com/v1/tracks/4kHSIZyIEijaMuZpV8GS1p",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4kHSIZyIEijaMuZpV8GS1p",
-    "duration_ms": 168520,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.808666666666667
   },
   "169": {
     "artists": "Anson Seabra",
@@ -4384,9 +4384,9 @@
     "name": "Welcome to Wonderland",
     "danceability": 0.703,
     "energy": 0.179,
-    "key": 4,
+    "key": "E",
     "loudness": -10.906,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0366,
     "acousticness": 0.949,
     "instrumentalness": 0,
@@ -4398,8 +4398,8 @@
     "uri": "spotify:track:3JfHYZKy5JmE5Fv4gDTCiz",
     "track_href": "https://api.spotify.com/v1/tracks/3JfHYZKy5JmE5Fv4gDTCiz",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JfHYZKy5JmE5Fv4gDTCiz",
-    "duration_ms": 199131,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 3.31885
   },
   "170": {
     "artists": "Ava Louise, Big Dick Chima",
@@ -4410,9 +4410,9 @@
     "name": "Skinny Legend Anthem",
     "danceability": 0.845,
     "energy": 0.518,
-    "key": 11,
+    "key": "B",
     "loudness": -7.568,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.299,
     "acousticness": 0.0703,
     "instrumentalness": 0,
@@ -4424,8 +4424,8 @@
     "uri": "spotify:track:2HwcUWhDcFowopD4QrtkNO",
     "track_href": "https://api.spotify.com/v1/tracks/2HwcUWhDcFowopD4QrtkNO",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2HwcUWhDcFowopD4QrtkNO",
-    "duration_ms": 135993,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.26655
   },
   "171": {
     "artists": "Polo G, Stunna 4 Vegas, NLE Choppa, Mike WiLL Made-It",
@@ -4436,9 +4436,9 @@
     "name": "Go Stupid",
     "danceability": 0.92,
     "energy": 0.833,
-    "key": 1,
+    "key": "C#",
     "loudness": -3.18,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.253,
     "acousticness": 0.0277,
     "instrumentalness": 0,
@@ -4450,8 +4450,8 @@
     "uri": "spotify:track:4PklAHGXT5ityno3IA8SKd",
     "track_href": "https://api.spotify.com/v1/tracks/4PklAHGXT5ityno3IA8SKd",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4PklAHGXT5ityno3IA8SKd",
-    "duration_ms": 165726,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.7620999999999998
   },
   "172": {
     "artists": "Billie Eilish",
@@ -4462,9 +4462,9 @@
     "name": "idontwannabeyouanymore",
     "danceability": 0.483,
     "energy": 0.412,
-    "key": 7,
+    "key": "G",
     "loudness": -8.461,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0402,
     "acousticness": 0.737,
     "instrumentalness": 0,
@@ -4476,8 +4476,8 @@
     "uri": "spotify:track:41zXlQxzTi6cGAjpOXyLYH",
     "track_href": "https://api.spotify.com/v1/tracks/41zXlQxzTi6cGAjpOXyLYH",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/41zXlQxzTi6cGAjpOXyLYH",
-    "duration_ms": 203569,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 3.3928166666666666
   },
   "173": {
     "artists": "Brent Faiyaz",
@@ -4488,9 +4488,9 @@
     "name": "Trust",
     "danceability": 0.764,
     "energy": 0.394,
-    "key": 8,
+    "key": "G#",
     "loudness": -8.559,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.152,
     "acousticness": 0.231,
     "instrumentalness": 9.37e-05,
@@ -4502,8 +4502,8 @@
     "uri": "spotify:track:0oufSLnKQDoBFX5mgkDCgR",
     "track_href": "https://api.spotify.com/v1/tracks/0oufSLnKQDoBFX5mgkDCgR",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0oufSLnKQDoBFX5mgkDCgR",
-    "duration_ms": 158421,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.6403499999999998
   },
   "174": {
     "artists": "Lil Keed",
@@ -4514,9 +4514,9 @@
     "name": "Snake",
     "danceability": 0.943,
     "energy": 0.443,
-    "key": 7,
+    "key": "G",
     "loudness": -10.098,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.138,
     "acousticness": 0.188,
     "instrumentalness": 0.00225,
@@ -4528,8 +4528,8 @@
     "uri": "spotify:track:3wdnX9UwfyXkNq0FJVhQQD",
     "track_href": "https://api.spotify.com/v1/tracks/3wdnX9UwfyXkNq0FJVhQQD",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3wdnX9UwfyXkNq0FJVhQQD",
-    "duration_ms": 183307,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.0551166666666663
   },
   "175": {
     "artists": "YoungBoy Never Broke Again",
@@ -4540,9 +4540,9 @@
     "name": "Make No Sense",
     "danceability": 0.876,
     "energy": 0.733,
-    "key": 10,
+    "key": "A#",
     "loudness": -4.478,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.333,
     "acousticness": 0.0208,
     "instrumentalness": 0,
@@ -4554,8 +4554,8 @@
     "uri": "spotify:track:6klLvorLoo1sxvZcjJIY8I",
     "track_href": "https://api.spotify.com/v1/tracks/6klLvorLoo1sxvZcjJIY8I",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6klLvorLoo1sxvZcjJIY8I",
-    "duration_ms": 148630,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.4771666666666667
   },
   "176": {
     "artists": "ChewieCatt",
@@ -4566,9 +4566,9 @@
     "name": "Baby Yoda",
     "danceability": 0.721,
     "energy": 0.653,
-    "key": 0,
+    "key": "C",
     "loudness": -6.11,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0403,
     "acousticness": 0.0771,
     "instrumentalness": 1.06e-06,
@@ -4580,8 +4580,8 @@
     "uri": "spotify:track:729fSz3XzDp5AuobpVZCVU",
     "track_href": "https://api.spotify.com/v1/tracks/729fSz3XzDp5AuobpVZCVU",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/729fSz3XzDp5AuobpVZCVU",
-    "duration_ms": 210651,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.51085
   },
   "177": {
     "artists": "Lizzo",
@@ -4592,9 +4592,9 @@
     "name": "Truth Hurts",
     "danceability": 0.715,
     "energy": 0.624,
-    "key": 4,
+    "key": "E",
     "loudness": -3.046,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.114,
     "acousticness": 0.11,
     "instrumentalness": 0,
@@ -4606,8 +4606,8 @@
     "uri": "spotify:track:3HWzoMvoF3TQfYg4UPszDq",
     "track_href": "https://api.spotify.com/v1/tracks/3HWzoMvoF3TQfYg4UPszDq",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3HWzoMvoF3TQfYg4UPszDq",
-    "duration_ms": 173325,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.88875
   },
   "178": {
     "artists": "Leslie Kritzer, Beetlejuice Original Broadway Cast Recording Ensemble",
@@ -4618,9 +4618,9 @@
     "name": "What I Know Now",
     "danceability": 0.643,
     "energy": 0.571,
-    "key": 7,
+    "key": "G",
     "loudness": -6.093,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0643,
     "acousticness": 0.47,
     "instrumentalness": 0,
@@ -4632,8 +4632,8 @@
     "uri": "spotify:track:5hKJAy2dKwWzcP5HWuxhBC",
     "track_href": "https://api.spotify.com/v1/tracks/5hKJAy2dKwWzcP5HWuxhBC",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hKJAy2dKwWzcP5HWuxhBC",
-    "duration_ms": 214786,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.5797666666666665
   },
   "179": {
     "artists": "Rontae Don't Play",
@@ -4644,9 +4644,9 @@
     "name": "I'm Single and I'm Lit",
     "danceability": 0.87,
     "energy": 0.419,
-    "key": 1,
+    "key": "C#",
     "loudness": -16.539,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.911,
     "acousticness": 0.00672,
     "instrumentalness": 0,
@@ -4658,8 +4658,8 @@
     "uri": "spotify:track:5JuKgBkx9z3dl4NL3HKSkF",
     "track_href": "https://api.spotify.com/v1/tracks/5JuKgBkx9z3dl4NL3HKSkF",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5JuKgBkx9z3dl4NL3HKSkF",
-    "duration_ms": 125936,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.0989333333333335
   },
   "180": {
     "artists": "Soliaga",
@@ -4670,9 +4670,9 @@
     "name": "Steppin",
     "danceability": 0.121,
     "energy": 0.00716,
-    "key": 5,
+    "key": "F",
     "loudness": -35.758,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0427,
     "acousticness": 0.966,
     "instrumentalness": 0.943,
@@ -4684,8 +4684,8 @@
     "uri": "spotify:track:0bsBttoH3LrYa60QZB201X",
     "track_href": "https://api.spotify.com/v1/tracks/0bsBttoH3LrYa60QZB201X",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0bsBttoH3LrYa60QZB201X",
-    "duration_ms": 148722,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.4787000000000003
   },
   "181": {
     "artists": "SAINt JHN, Imanbek",
@@ -4696,9 +4696,9 @@
     "name": "Roses (Imanbek Remix)",
     "danceability": 0.769,
     "energy": 0.719,
-    "key": 8,
+    "key": "G#",
     "loudness": -5.472,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0474,
     "acousticness": 0.0143,
     "instrumentalness": 0.00777,
@@ -4710,8 +4710,8 @@
     "uri": "spotify:track:0zLCBJZSiELJf02ucPP9wb",
     "track_href": "https://api.spotify.com/v1/tracks/0zLCBJZSiELJf02ucPP9wb",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0zLCBJZSiELJf02ucPP9wb",
-    "duration_ms": 176867,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.947783333333333
   },
   "182": {
     "artists": "Milky Chance",
@@ -4722,9 +4722,9 @@
     "name": "Stolen Dance",
     "danceability": 0.879,
     "energy": 0.565,
-    "key": 11,
+    "key": "B",
     "loudness": -8.809,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.037,
     "acousticness": 0.412,
     "instrumentalness": 0.000239,
@@ -4736,8 +4736,8 @@
     "uri": "spotify:track:0ZfByLXCeKchuj7zi1CJ0S",
     "track_href": "https://api.spotify.com/v1/tracks/0ZfByLXCeKchuj7zi1CJ0S",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0ZfByLXCeKchuj7zi1CJ0S",
-    "duration_ms": 313627,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 5.227116666666666
   },
   "183": {
     "artists": "Ashnikko",
@@ -4748,9 +4748,9 @@
     "name": "Working Bitch",
     "danceability": 0.928,
     "energy": 0.392,
-    "key": 3,
+    "key": "D#",
     "loudness": -7.537,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0563,
     "acousticness": 0.0374,
     "instrumentalness": 0,
@@ -4762,8 +4762,8 @@
     "uri": "spotify:track:7g7w2WUpLcqsqH2M9XR7ZF",
     "track_href": "https://api.spotify.com/v1/tracks/7g7w2WUpLcqsqH2M9XR7ZF",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7g7w2WUpLcqsqH2M9XR7ZF",
-    "duration_ms": 177866,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.9644333333333335
   },
   "184": {
     "artists": "Full Tac, Lil Mariko",
@@ -4774,9 +4774,9 @@
     "name": "Where's My Juul??",
     "danceability": 0.742,
     "energy": 0.778,
-    "key": 2,
+    "key": "D",
     "loudness": -4.937,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.332,
     "acousticness": 0.0197,
     "instrumentalness": 5.79e-06,
@@ -4788,8 +4788,8 @@
     "uri": "spotify:track:0rS5bl8WHAiDuiorCulzuV",
     "track_href": "https://api.spotify.com/v1/tracks/0rS5bl8WHAiDuiorCulzuV",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0rS5bl8WHAiDuiorCulzuV",
-    "duration_ms": 105938,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.7656333333333334
   },
   "185": {
     "artists": "SIX, Aimie Atkinson",
@@ -4800,9 +4800,9 @@
     "name": "All You Wanna Do",
     "danceability": 0.738,
     "energy": 0.532,
-    "key": 11,
+    "key": "B",
     "loudness": -7.967,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.187,
     "acousticness": 0.302,
     "instrumentalness": 0,
@@ -4814,8 +4814,8 @@
     "uri": "spotify:track:1U0hiOuodfSsxdcTYXGEdT",
     "track_href": "https://api.spotify.com/v1/tracks/1U0hiOuodfSsxdcTYXGEdT",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1U0hiOuodfSsxdcTYXGEdT",
-    "duration_ms": 410089,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 6.834816666666667
   },
   "186": {
     "artists": "Mike Sherm",
@@ -4826,9 +4826,9 @@
     "name": "Asshole",
     "danceability": 0.783,
     "energy": 0.598,
-    "key": 10,
+    "key": "A#",
     "loudness": -10.59,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.292,
     "acousticness": 0.328,
     "instrumentalness": 0,
@@ -4840,8 +4840,8 @@
     "uri": "spotify:track:6aD0Es1eyfVqpYZKJm9WkC",
     "track_href": "https://api.spotify.com/v1/tracks/6aD0Es1eyfVqpYZKJm9WkC",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6aD0Es1eyfVqpYZKJm9WkC",
-    "duration_ms": 160713,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.67855
   },
   "187": {
     "artists": "Topic, A7S",
@@ -4852,9 +4852,9 @@
     "name": "Breaking Me",
     "danceability": 0.789,
     "energy": 0.72,
-    "key": 8,
+    "key": "G#",
     "loudness": -5.652,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.218,
     "acousticness": 0.223,
     "instrumentalness": 0,
@@ -4866,8 +4866,8 @@
     "uri": "spotify:track:3H7ihDc1dqLriiWXwsc2po",
     "track_href": "https://api.spotify.com/v1/tracks/3H7ihDc1dqLriiWXwsc2po",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3H7ihDc1dqLriiWXwsc2po",
-    "duration_ms": 166794,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.7799
   },
   "188": {
     "artists": "Conan Gray",
@@ -4878,9 +4878,9 @@
     "name": "Maniac",
     "danceability": 0.628,
     "energy": 0.639,
-    "key": 8,
+    "key": "G#",
     "loudness": -5.46,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0435,
     "acousticness": 0.00162,
     "instrumentalness": 0,
@@ -4892,8 +4892,8 @@
     "uri": "spotify:track:6KfoDhO4XUWSbnyKjNp9c4",
     "track_href": "https://api.spotify.com/v1/tracks/6KfoDhO4XUWSbnyKjNp9c4",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6KfoDhO4XUWSbnyKjNp9c4",
-    "duration_ms": 185773,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.0962166666666664
   },
   "189": {
     "artists": "3ohBlack",
@@ -4904,9 +4904,9 @@
     "name": "All Talk",
     "danceability": 0.633,
     "energy": 0.79,
-    "key": 2,
+    "key": "D",
     "loudness": -5.751,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.251,
     "acousticness": 0.026,
     "instrumentalness": 0,
@@ -4918,8 +4918,8 @@
     "uri": "spotify:track:2PDXx1VHvqdWMRUP8gkJNw",
     "track_href": "https://api.spotify.com/v1/tracks/2PDXx1VHvqdWMRUP8gkJNw",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2PDXx1VHvqdWMRUP8gkJNw",
-    "duration_ms": 239880,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9979999999999998
   },
   "190": {
     "artists": "Kali Uchis",
@@ -4930,9 +4930,9 @@
     "name": "Moonlight",
     "danceability": 0.642,
     "energy": 0.706,
-    "key": 7,
+    "key": "G",
     "loudness": -6.872,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.052,
     "acousticness": 0.518,
     "instrumentalness": 0,
@@ -4944,8 +4944,8 @@
     "uri": "spotify:track:0JmnkIqdlnUzPaf8sqBRs3",
     "track_href": "https://api.spotify.com/v1/tracks/0JmnkIqdlnUzPaf8sqBRs3",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0JmnkIqdlnUzPaf8sqBRs3",
-    "duration_ms": 187723,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.128716666666667
   },
   "191": {
     "artists": "Doja Cat",
@@ -4956,9 +4956,9 @@
     "name": "Cyber Sex",
     "danceability": 0.917,
     "energy": 0.657,
-    "key": 8,
+    "key": "G#",
     "loudness": -5.716,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0921,
     "acousticness": 0.318,
     "instrumentalness": 3.62e-06,
@@ -4970,8 +4970,8 @@
     "uri": "spotify:track:1ghvzmzpx2nnrbx7wtpMgo",
     "track_href": "https://api.spotify.com/v1/tracks/1ghvzmzpx2nnrbx7wtpMgo",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1ghvzmzpx2nnrbx7wtpMgo",
-    "duration_ms": 165733,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.7622166666666668
   },
   "192": {
     "artists": "The Weeknd",
@@ -4982,9 +4982,9 @@
     "name": "Blinding Lights",
     "danceability": 0.514,
     "energy": 0.73,
-    "key": 1,
+    "key": "C#",
     "loudness": -5.934,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0598,
     "acousticness": 0.00146,
     "instrumentalness": 9.54e-05,
@@ -4996,8 +4996,8 @@
     "uri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
     "track_href": "https://api.spotify.com/v1/tracks/0VjIjW4GlUZAMYd2vXMi3b",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VjIjW4GlUZAMYd2vXMi3b",
-    "duration_ms": 200040,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.334
   },
   "193": {
     "artists": "Morgan Wallen",
@@ -5008,9 +5008,9 @@
     "name": "ON",
     "danceability": 0.613,
     "energy": 0.914,
-    "key": 7,
+    "key": "G",
     "loudness": -5.153,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.03,
     "acousticness": 0.00522,
     "instrumentalness": 2.21e-06,
@@ -5022,8 +5022,8 @@
     "uri": "spotify:track:1rXq0uoV4KTgRN64jXzIxo",
     "track_href": "https://api.spotify.com/v1/tracks/1rXq0uoV4KTgRN64jXzIxo",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1rXq0uoV4KTgRN64jXzIxo",
-    "duration_ms": 206865,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.44775
   },
   "194": {
     "artists": "The Weeknd",
@@ -5034,9 +5034,9 @@
     "name": "Hard",
     "danceability": 0.392,
     "energy": 0.608,
-    "key": 7,
+    "key": "G",
     "loudness": -7.847,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0713,
     "acousticness": 0.0909,
     "instrumentalness": 8.83e-05,
@@ -5048,8 +5048,8 @@
     "uri": "spotify:track:1PqYoRXzUFueWZ5UJFRVzU",
     "track_href": "https://api.spotify.com/v1/tracks/1PqYoRXzUFueWZ5UJFRVzU",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1PqYoRXzUFueWZ5UJFRVzU",
-    "duration_ms": 211400,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.5233333333333334
   },
   "195": {
     "artists": "benny blanco, Juice WRLD",
@@ -5060,9 +5060,9 @@
     "name": "Graduation",
     "danceability": 0.731,
     "energy": 0.65,
-    "key": 0,
+    "key": "C",
     "loudness": -5.286,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.271,
     "acousticness": 0.107,
     "instrumentalness": 0,
@@ -5074,8 +5074,8 @@
     "uri": "spotify:track:6cjSh516BbrNUs213jDAGm",
     "track_href": "https://api.spotify.com/v1/tracks/6cjSh516BbrNUs213jDAGm",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6cjSh516BbrNUs213jDAGm",
-    "duration_ms": 177847,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.964116666666667
   },
   "196": {
     "artists": "JayDaYoungan",
@@ -5086,9 +5086,9 @@
     "name": "23 Island",
     "danceability": 0.804,
     "energy": 0.383,
-    "key": 7,
+    "key": "G",
     "loudness": -10.984,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.354,
     "acousticness": 0.563,
     "instrumentalness": 0,
@@ -5100,8 +5100,8 @@
     "uri": "spotify:track:2DnyKpPcFpC460wLJeGzOs",
     "track_href": "https://api.spotify.com/v1/tracks/2DnyKpPcFpC460wLJeGzOs",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2DnyKpPcFpC460wLJeGzOs",
-    "duration_ms": 243246,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.0541
   },
   "197": {
     "artists": "Skillet",
@@ -5112,9 +5112,9 @@
     "name": "Monster",
     "danceability": 0.64,
     "energy": 0.957,
-    "key": 8,
+    "key": "G#",
     "loudness": -2.336,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0741,
     "acousticness": 0.0431,
     "instrumentalness": 0,
@@ -5126,8 +5126,8 @@
     "uri": "spotify:track:2UREu1Y8CO4jXkbvqAtP7g",
     "track_href": "https://api.spotify.com/v1/tracks/2UREu1Y8CO4jXkbvqAtP7g",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2UREu1Y8CO4jXkbvqAtP7g",
-    "duration_ms": 178013,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.9668833333333335
   },
   "198": {
     "artists": "GRiZ, Subtronics",
@@ -5138,9 +5138,9 @@
     "name": "Griztronics",
     "danceability": 0.607,
     "energy": 0.941,
-    "key": 11,
+    "key": "B",
     "loudness": -3.807,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.481,
     "acousticness": 0.037,
     "instrumentalness": 0.0137,
@@ -5152,8 +5152,8 @@
     "uri": "spotify:track:6OTClxme7EYRZGO6An3SMc",
     "track_href": "https://api.spotify.com/v1/tracks/6OTClxme7EYRZGO6An3SMc",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OTClxme7EYRZGO6An3SMc",
-    "duration_ms": 198400,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.3066666666666666
   },
   "199": {
     "artists": "DJ Scheme, Danny Towers, Lil Yachty, Ski Mask The Slump God",
@@ -5164,9 +5164,9 @@
     "name": "How You Feel? (Freestyle)",
     "danceability": 0.949,
     "energy": 0.444,
-    "key": 5,
+    "key": "F",
     "loudness": -7.301,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.212,
     "acousticness": 0.0267,
     "instrumentalness": 0,
@@ -5178,8 +5178,8 @@
     "uri": "spotify:track:2wK5badDdF5vOtv1ujYXhu",
     "track_href": "https://api.spotify.com/v1/tracks/2wK5badDdF5vOtv1ujYXhu",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2wK5badDdF5vOtv1ujYXhu",
-    "duration_ms": 136640,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.277333333333333
   },
   "200": {
     "artists": "Brand New",
@@ -5190,9 +5190,9 @@
     "name": "Jaws Theme",
     "danceability": 0.571,
     "energy": 0.552,
-    "key": 1,
+    "key": "C#",
     "loudness": -7.438,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0307,
     "acousticness": 0.00724,
     "instrumentalness": 0,
@@ -5204,8 +5204,8 @@
     "uri": "spotify:track:5j5BbIMBUdamtTMsGVX1e4",
     "track_href": "https://api.spotify.com/v1/tracks/5j5BbIMBUdamtTMsGVX1e4",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5j5BbIMBUdamtTMsGVX1e4",
-    "duration_ms": 274453,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 4.574216666666667
   },
   "201": {
     "artists": "Tiagz",
@@ -5216,9 +5216,9 @@
     "name": "Float on the Sound (Ey)",
     "danceability": 0.882,
     "energy": 0.484,
-    "key": 2,
+    "key": "D",
     "loudness": -7.127,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.475,
     "acousticness": 0.833,
     "instrumentalness": 0.000382,
@@ -5230,8 +5230,8 @@
     "uri": "spotify:track:48f5cx8xH0uX81k7JUq7K1",
     "track_href": "https://api.spotify.com/v1/tracks/48f5cx8xH0uX81k7JUq7K1",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/48f5cx8xH0uX81k7JUq7K1",
-    "duration_ms": 152744,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.545733333333333
   },
   "202": {
     "artists": "Joyner Lucas, Future",
@@ -5242,9 +5242,9 @@
     "name": "BLACKOUT",
     "danceability": 0.811,
     "energy": 0.471,
-    "key": 1,
+    "key": "C#",
     "loudness": -7.125,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.32,
     "acousticness": 0.012,
     "instrumentalness": 0,
@@ -5256,8 +5256,8 @@
     "uri": "spotify:track:0B0Xu2ih8fWpcwyxAt1c7m",
     "track_href": "https://api.spotify.com/v1/tracks/0B0Xu2ih8fWpcwyxAt1c7m",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0B0Xu2ih8fWpcwyxAt1c7m",
-    "duration_ms": 196569,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.27615
   },
   "203": {
     "artists": "Jack Harlow",
@@ -5268,9 +5268,9 @@
     "name": "WHATS POPPIN",
     "danceability": 0.923,
     "energy": 0.604,
-    "key": 11,
+    "key": "B",
     "loudness": -6.671,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.245,
     "acousticness": 0.017,
     "instrumentalness": 0,
@@ -5282,8 +5282,8 @@
     "uri": "spotify:track:1jaTQ3nqY3oAAYyCTbIvnM",
     "track_href": "https://api.spotify.com/v1/tracks/1jaTQ3nqY3oAAYyCTbIvnM",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1jaTQ3nqY3oAAYyCTbIvnM",
-    "duration_ms": 139741,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.329016666666667
   },
   "204": {
     "artists": "The White Stripes",
@@ -5294,9 +5294,9 @@
     "name": "Seve",
     "danceability": 0.743,
     "energy": 0.446,
-    "key": 4,
+    "key": "E",
     "loudness": -7.807,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0683,
     "acousticness": 0.0039,
     "instrumentalness": 0.118,
@@ -5308,8 +5308,8 @@
     "uri": "spotify:track:3dPQuX8Gs42Y7b454ybpMR",
     "track_href": "https://api.spotify.com/v1/tracks/3dPQuX8Gs42Y7b454ybpMR",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3dPQuX8Gs42Y7b454ybpMR",
-    "duration_ms": 232107,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.86845
   },
   "205": {
     "artists": "Megan Thee Stallion",
@@ -5320,9 +5320,9 @@
     "name": "Thot!",
     "danceability": 0.95,
     "energy": 0.693,
-    "key": 9,
+    "key": "A",
     "loudness": -3.424,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0898,
     "acousticness": 0.0133,
     "instrumentalness": 0,
@@ -5334,8 +5334,8 @@
     "uri": "spotify:track:5zNW5ARjYhJQJz1AChP33n",
     "track_href": "https://api.spotify.com/v1/tracks/5zNW5ARjYhJQJz1AChP33n",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5zNW5ARjYhJQJz1AChP33n",
-    "duration_ms": 184635,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.07725
   },
   "206": {
     "artists": "Lost Kings, Emily Warren",
@@ -5346,9 +5346,9 @@
     "name": "Phone Down",
     "danceability": 0.599,
     "energy": 0.682,
-    "key": 9,
+    "key": "A",
     "loudness": -5.393,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0882,
     "acousticness": 0.00684,
     "instrumentalness": 0,
@@ -5360,8 +5360,8 @@
     "uri": "spotify:track:5bvNpG6wiIEf1PA13TkTu2",
     "track_href": "https://api.spotify.com/v1/tracks/5bvNpG6wiIEf1PA13TkTu2",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5bvNpG6wiIEf1PA13TkTu2",
-    "duration_ms": 215565,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.59275
   },
   "207": {
     "artists": "Iggy Pop",
@@ -5372,9 +5372,9 @@
     "name": "Comments",
     "danceability": 0.548,
     "energy": 0.926,
-    "key": 5,
+    "key": "F",
     "loudness": -3.919,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0855,
     "acousticness": 0.000545,
     "instrumentalness": 0.226,
@@ -5386,8 +5386,8 @@
     "uri": "spotify:track:2dAMTI1depPehc1iFQ8jiJ",
     "track_href": "https://api.spotify.com/v1/tracks/2dAMTI1depPehc1iFQ8jiJ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2dAMTI1depPehc1iFQ8jiJ",
-    "duration_ms": 233752,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.895866666666667
   },
   "208": {
     "artists": "The Chainsmokers, ROZES",
@@ -5398,9 +5398,9 @@
     "name": "Roses",
     "danceability": 0.713,
     "energy": 0.802,
-    "key": 4,
+    "key": "E",
     "loudness": -7.055,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0561,
     "acousticness": 0.0435,
     "instrumentalness": 0.00377,
@@ -5412,8 +5412,8 @@
     "uri": "spotify:track:3vv9phIu6Y1vX3jcqaGz5Z",
     "track_href": "https://api.spotify.com/v1/tracks/3vv9phIu6Y1vX3jcqaGz5Z",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3vv9phIu6Y1vX3jcqaGz5Z",
-    "duration_ms": 226739,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.7789833333333336
   },
   "209": {
     "artists": "Young M.A, Relle Bey, Max YB",
@@ -5424,9 +5424,9 @@
     "name": "NNAN",
     "danceability": 0.817,
     "energy": 0.539,
-    "key": 5,
+    "key": "F",
     "loudness": -5.015,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0626,
     "acousticness": 0.281,
     "instrumentalness": 0,
@@ -5438,8 +5438,8 @@
     "uri": "spotify:track:7asoA129HgQkm3MOVEUF0K",
     "track_href": "https://api.spotify.com/v1/tracks/7asoA129HgQkm3MOVEUF0K",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7asoA129HgQkm3MOVEUF0K",
-    "duration_ms": 193479,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.22465
   },
   "210": {
     "artists": "Lil Baby",
@@ -5450,9 +5450,9 @@
     "name": "ALL IN",
     "danceability": 0.836,
     "energy": 0.649,
-    "key": 11,
+    "key": "B",
     "loudness": -6.442,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.332,
     "acousticness": 0.0716,
     "instrumentalness": 0,
@@ -5464,8 +5464,8 @@
     "uri": "spotify:track:0XkodGhbYnQ2jy6OWqwl5e",
     "track_href": "https://api.spotify.com/v1/tracks/0XkodGhbYnQ2jy6OWqwl5e",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0XkodGhbYnQ2jy6OWqwl5e",
-    "duration_ms": 156032,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.6005333333333334
   },
   "211": {
     "artists": "Ti\u00ebsto, Mabel, Cheyenne Giles, Knock2",
@@ -5476,9 +5476,9 @@
     "name": "God Is A Dancer",
     "danceability": 0.711,
     "energy": 0.873,
-    "key": 1,
+    "key": "C#",
     "loudness": -3.089,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0423,
     "acousticness": 0.0297,
     "instrumentalness": 0.00835,
@@ -5490,8 +5490,8 @@
     "uri": "spotify:track:0QsS9lpF3npx8Ld9GfWN6d",
     "track_href": "https://api.spotify.com/v1/tracks/0QsS9lpF3npx8Ld9GfWN6d",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0QsS9lpF3npx8Ld9GfWN6d",
-    "duration_ms": 190044,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.1674
   },
   "212": {
     "artists": "3OH!3, Kesha",
@@ -5502,9 +5502,9 @@
     "name": "My First Kiss",
     "danceability": 0.682,
     "energy": 0.889,
-    "key": 0,
+    "key": "C",
     "loudness": -4.166,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0804,
     "acousticness": 0.00564,
     "instrumentalness": 0,
@@ -5516,8 +5516,8 @@
     "uri": "spotify:track:17tDv8WA8IhqE8qzuQn707",
     "track_href": "https://api.spotify.com/v1/tracks/17tDv8WA8IhqE8qzuQn707",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/17tDv8WA8IhqE8qzuQn707",
-    "duration_ms": 192440,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.207333333333333
   },
   "213": {
     "artists": "Selena Gomez, Marshmello",
@@ -5528,9 +5528,9 @@
     "name": "Wolves",
     "danceability": 0.724,
     "energy": 0.804,
-    "key": 11,
+    "key": "B",
     "loudness": -4.614,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0448,
     "acousticness": 0.124,
     "instrumentalness": 0,
@@ -5542,8 +5542,8 @@
     "uri": "spotify:track:0tBbt8CrmxbjRP0pueQkyU",
     "track_href": "https://api.spotify.com/v1/tracks/0tBbt8CrmxbjRP0pueQkyU",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0tBbt8CrmxbjRP0pueQkyU",
-    "duration_ms": 197993,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2998833333333333
   },
   "214": {
     "artists": "Shinedown",
@@ -5554,9 +5554,9 @@
     "name": "Cry For Help",
     "danceability": 0.311,
     "energy": 0.989,
-    "key": 9,
+    "key": "A",
     "loudness": -2.675,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0989,
     "acousticness": 8.04e-06,
     "instrumentalness": 0.00236,
@@ -5568,8 +5568,8 @@
     "uri": "spotify:track:1gdzFNA4N7zY7k453ZDM4Y",
     "track_href": "https://api.spotify.com/v1/tracks/1gdzFNA4N7zY7k453ZDM4Y",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1gdzFNA4N7zY7k453ZDM4Y",
-    "duration_ms": 200067,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.33445
   },
   "215": {
     "artists": "Post Malone, 21 Savage",
@@ -5580,9 +5580,9 @@
     "name": "Rockstar",
     "danceability": 0.585,
     "energy": 0.52,
-    "key": 5,
+    "key": "F",
     "loudness": -6.136,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0712,
     "acousticness": 0.124,
     "instrumentalness": 7.01e-05,
@@ -5594,8 +5594,8 @@
     "uri": "spotify:track:0e7ipj03S05BNilyu5bRzt",
     "track_href": "https://api.spotify.com/v1/tracks/0e7ipj03S05BNilyu5bRzt",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0e7ipj03S05BNilyu5bRzt",
-    "duration_ms": 218147,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6357833333333334
   },
   "216": {
     "artists": "Justin Timberlake, Timbaland",
@@ -5606,9 +5606,9 @@
     "name": "SexyBack",
     "danceability": 0.967,
     "energy": 0.583,
-    "key": 7,
+    "key": "G",
     "loudness": -5.562,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0789,
     "acousticness": 0.0584,
     "instrumentalness": 0,
@@ -5620,8 +5620,8 @@
     "uri": "spotify:track:0O45fw2L5vsWpdsOdXwNAR",
     "track_href": "https://api.spotify.com/v1/tracks/0O45fw2L5vsWpdsOdXwNAR",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0O45fw2L5vsWpdsOdXwNAR",
-    "duration_ms": 242733,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.04555
   },
   "217": {
     "artists": "Doja Cat",
@@ -5632,9 +5632,9 @@
     "name": "Boss Bitch",
     "danceability": 0.707,
     "energy": 0.955,
-    "key": 10,
+    "key": "A#",
     "loudness": -4.593,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.222,
     "acousticness": 0.127,
     "instrumentalness": 0,
@@ -5646,8 +5646,8 @@
     "uri": "spotify:track:78qd8dvwea0Gosb6Fe6j3k",
     "track_href": "https://api.spotify.com/v1/tracks/78qd8dvwea0Gosb6Fe6j3k",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/78qd8dvwea0Gosb6Fe6j3k",
-    "duration_ms": 134240,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.2373333333333334
   },
   "218": {
     "artists": "Lizzo, Gucci Mane",
@@ -5658,9 +5658,9 @@
     "name": "Exactly How I Feel",
     "danceability": 0.84,
     "energy": 0.718,
-    "key": 9,
+    "key": "A",
     "loudness": -3.238,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.275,
     "acousticness": 0.114,
     "instrumentalness": 0,
@@ -5672,8 +5672,8 @@
     "uri": "spotify:track:4JtNIeSLgdgwC3snplqIx0",
     "track_href": "https://api.spotify.com/v1/tracks/4JtNIeSLgdgwC3snplqIx0",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4JtNIeSLgdgwC3snplqIx0",
-    "duration_ms": 143191,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.3865166666666666
   },
   "219": {
     "artists": "blackbear",
@@ -5684,9 +5684,9 @@
     "name": "hot girl bummer",
     "danceability": 0.782,
     "energy": 0.559,
-    "key": 6,
+    "key": "F#",
     "loudness": -7.106,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0767,
     "acousticness": 0.125,
     "instrumentalness": 0,
@@ -5698,8 +5698,8 @@
     "uri": "spotify:track:6jRq8gaZhMUyy5RclRPcAf",
     "track_href": "https://api.spotify.com/v1/tracks/6jRq8gaZhMUyy5RclRPcAf",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6jRq8gaZhMUyy5RclRPcAf",
-    "duration_ms": 188344,
-    "time_signature": 1
+    "time_signature": 1,
+    "duration": 3.1390666666666664
   },
   "220": {
     "artists": "Sky Summers",
@@ -5710,9 +5710,9 @@
     "name": "Bring It Around",
     "danceability": 0.774,
     "energy": 0.532,
-    "key": 10,
+    "key": "A#",
     "loudness": -11.073,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.158,
     "acousticness": 0.000879,
     "instrumentalness": 0.00291,
@@ -5724,8 +5724,8 @@
     "uri": "spotify:track:7nDUsGP3GQr1wJDA6JBPQ5",
     "track_href": "https://api.spotify.com/v1/tracks/7nDUsGP3GQr1wJDA6JBPQ5",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7nDUsGP3GQr1wJDA6JBPQ5",
-    "duration_ms": 120000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.0
   },
   "221": {
     "artists": "M83",
@@ -5736,9 +5736,9 @@
     "name": "Midnight City",
     "danceability": 0.526,
     "energy": 0.712,
-    "key": 11,
+    "key": "B",
     "loudness": -6.525,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0356,
     "acousticness": 0.0161,
     "instrumentalness": 0,
@@ -5750,8 +5750,8 @@
     "uri": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
     "track_href": "https://api.spotify.com/v1/tracks/1eyzqe2QqGZUmfcPZtrIyt",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1eyzqe2QqGZUmfcPZtrIyt",
-    "duration_ms": 241440,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.024
   },
   "222": {
     "artists": "Lil Nas X, Cardi B",
@@ -5762,9 +5762,9 @@
     "name": "Rodeo",
     "danceability": 0.706,
     "energy": 0.679,
-    "key": 9,
+    "key": "A",
     "loudness": -5.614,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0324,
     "acousticness": 0.139,
     "instrumentalness": 6.98e-05,
@@ -5776,8 +5776,8 @@
     "uri": "spotify:track:4ak7xjvBeBOcJGWFDX9w5n",
     "track_href": "https://api.spotify.com/v1/tracks/4ak7xjvBeBOcJGWFDX9w5n",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ak7xjvBeBOcJGWFDX9w5n",
-    "duration_ms": 158707,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.6451166666666666
   },
   "223": {
     "artists": "Lewis Capaldi",
@@ -5788,9 +5788,9 @@
     "name": "Bruises",
     "danceability": 0.736,
     "energy": 0.308,
-    "key": 4,
+    "key": "E",
     "loudness": -7.83,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0677,
     "acousticness": 0.946,
     "instrumentalness": 0,
@@ -5802,8 +5802,8 @@
     "uri": "spotify:track:4Of7rzpRpV1mWRbhp5rAqG",
     "track_href": "https://api.spotify.com/v1/tracks/4Of7rzpRpV1mWRbhp5rAqG",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Of7rzpRpV1mWRbhp5rAqG",
-    "duration_ms": 220492,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6748666666666665
   },
   "224": {
     "artists": "Cheap Trick",
@@ -5814,9 +5814,9 @@
     "name": "Surrender",
     "danceability": 0.524,
     "energy": 0.955,
-    "key": 0,
+    "key": "C",
     "loudness": -7.081,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0411,
     "acousticness": 0.00717,
     "instrumentalness": 8.77e-06,
@@ -5828,8 +5828,8 @@
     "uri": "spotify:track:2ccUQnjjNWT0rsNnsBpsCA",
     "track_href": "https://api.spotify.com/v1/tracks/2ccUQnjjNWT0rsNnsBpsCA",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ccUQnjjNWT0rsNnsBpsCA",
-    "duration_ms": 253733,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.228883333333333
   },
   "225": {
     "artists": "Andra Day",
@@ -5840,9 +5840,9 @@
     "name": "Rise Up",
     "danceability": 0.398,
     "energy": 0.316,
-    "key": 1,
+    "key": "C#",
     "loudness": -7.031,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0368,
     "acousticness": 0.805,
     "instrumentalness": 0,
@@ -5854,8 +5854,8 @@
     "uri": "spotify:track:0tV8pOpiNsKqUys0ilUcXz",
     "track_href": "https://api.spotify.com/v1/tracks/0tV8pOpiNsKqUys0ilUcXz",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0tV8pOpiNsKqUys0ilUcXz",
-    "duration_ms": 253342,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.222366666666667
   },
   "226": {
     "artists": "a-ha",
@@ -5866,9 +5866,9 @@
     "name": "Take On Me",
     "danceability": 0.573,
     "energy": 0.902,
-    "key": 6,
+    "key": "F#",
     "loudness": -7.638,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.054,
     "acousticness": 0.018,
     "instrumentalness": 0.00125,
@@ -5880,8 +5880,8 @@
     "uri": "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L",
     "track_href": "https://api.spotify.com/v1/tracks/2WfaOiMkCvy7F5fcp2zZ8L",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2WfaOiMkCvy7F5fcp2zZ8L",
-    "duration_ms": 225280,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.7546666666666666
   },
   "227": {
     "artists": "Tame Impala",
@@ -5892,9 +5892,9 @@
     "name": "Boderline",
     "danceability": 0.621,
     "energy": 0.873,
-    "key": 5,
+    "key": "F",
     "loudness": -3.067,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0369,
     "acousticness": 0.0406,
     "instrumentalness": 9.1e-06,
@@ -5906,8 +5906,8 @@
     "uri": "spotify:track:5hM5arv9KDbCHS0k9uqwjr",
     "track_href": "https://api.spotify.com/v1/tracks/5hM5arv9KDbCHS0k9uqwjr",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5hM5arv9KDbCHS0k9uqwjr",
-    "duration_ms": 237800,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9633333333333334
   },
   "228": {
     "artists": "Dua Lipa",
@@ -5918,9 +5918,9 @@
     "name": "Physical",
     "danceability": 0.647,
     "energy": 0.844,
-    "key": 0,
+    "key": "C",
     "loudness": -3.756,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0457,
     "acousticness": 0.0137,
     "instrumentalness": 0.000658,
@@ -5932,8 +5932,8 @@
     "uri": "spotify:track:0EKQ5g2FhWjTalVbiaQet2",
     "track_href": "https://api.spotify.com/v1/tracks/0EKQ5g2FhWjTalVbiaQet2",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0EKQ5g2FhWjTalVbiaQet2",
-    "duration_ms": 193829,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2304833333333334
   },
   "229": {
     "artists": "Halogen",
@@ -5944,9 +5944,9 @@
     "name": "U Got That",
     "danceability": 0.699,
     "energy": 0.895,
-    "key": 1,
+    "key": "C#",
     "loudness": -6.206,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.118,
     "acousticness": 0.0197,
     "instrumentalness": 0.679,
@@ -5958,8 +5958,8 @@
     "uri": "spotify:track:55gKq9bOAPRAcOQInZ76tH",
     "track_href": "https://api.spotify.com/v1/tracks/55gKq9bOAPRAcOQInZ76tH",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/55gKq9bOAPRAcOQInZ76tH",
-    "duration_ms": 187762,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.129366666666667
   },
   "230": {
     "artists": "PnB Rock",
@@ -5970,9 +5970,9 @@
     "name": "Selfish",
     "danceability": 0.638,
     "energy": 0.6,
-    "key": 1,
+    "key": "C#",
     "loudness": -5.84,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0438,
     "acousticness": 0.114,
     "instrumentalness": 0,
@@ -5984,8 +5984,8 @@
     "uri": "spotify:track:2xbI8Vmyv3TkpTdywpPyNw",
     "track_href": "https://api.spotify.com/v1/tracks/2xbI8Vmyv3TkpTdywpPyNw",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xbI8Vmyv3TkpTdywpPyNw",
-    "duration_ms": 245604,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.0934
   },
   "231": {
     "artists": "Zedd, Kehlani",
@@ -5996,9 +5996,9 @@
     "name": "Good Thing",
     "danceability": 0.693,
     "energy": 0.564,
-    "key": 1,
+    "key": "C#",
     "loudness": -3.857,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0378,
     "acousticness": 0.399,
     "instrumentalness": 0,
@@ -6010,8 +6010,8 @@
     "uri": "spotify:track:5aUSEPNd3m5xliFK4pn5mU",
     "track_href": "https://api.spotify.com/v1/tracks/5aUSEPNd3m5xliFK4pn5mU",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5aUSEPNd3m5xliFK4pn5mU",
-    "duration_ms": 210901,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 3.515016666666667
   },
   "232": {
     "artists": "T-Pain, Joey Galaxy",
@@ -6022,9 +6022,9 @@
     "name": "Booty",
     "danceability": 0.786,
     "energy": 0.689,
-    "key": 1,
+    "key": "C#",
     "loudness": -6.113,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.315,
     "acousticness": 0.00931,
     "instrumentalness": 1.14e-06,
@@ -6036,8 +6036,8 @@
     "uri": "spotify:track:6QgkOxBXqVRjZ1JcIDbDYY",
     "track_href": "https://api.spotify.com/v1/tracks/6QgkOxBXqVRjZ1JcIDbDYY",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6QgkOxBXqVRjZ1JcIDbDYY",
-    "duration_ms": 235307,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.921783333333333
   },
   "233": {
     "artists": "BLIND.SEE, BRYOZA",
@@ -6048,9 +6048,9 @@
     "name": "Rockstar Shit",
     "danceability": 0.916,
     "energy": 0.445,
-    "key": 7,
+    "key": "G",
     "loudness": -7.143,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.571,
     "acousticness": 0.0179,
     "instrumentalness": 1.84e-06,
@@ -6062,8 +6062,8 @@
     "uri": "spotify:track:2MvxhedNhxhj32eVQJnmII",
     "track_href": "https://api.spotify.com/v1/tracks/2MvxhedNhxhj32eVQJnmII",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2MvxhedNhxhj32eVQJnmII",
-    "duration_ms": 128496,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.1416
   },
   "234": {
     "artists": "Lincoln",
@@ -6074,9 +6074,9 @@
     "name": "Saint Bernard",
     "danceability": 0.695,
     "energy": 0.232,
-    "key": 1,
+    "key": "C#",
     "loudness": -11.01,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0972,
     "acousticness": 0.825,
     "instrumentalness": 0,
@@ -6088,8 +6088,8 @@
     "uri": "spotify:track:3JPnVN4wYlmQnuD7OgDx88",
     "track_href": "https://api.spotify.com/v1/tracks/3JPnVN4wYlmQnuD7OgDx88",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3JPnVN4wYlmQnuD7OgDx88",
-    "duration_ms": 103343,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.7223833333333334
   },
   "235": {
     "artists": "JunnyArt",
@@ -6100,9 +6100,9 @@
     "name": "Corona Virus",
     "danceability": 0.803,
     "energy": 0.685,
-    "key": 6,
+    "key": "F#",
     "loudness": -9.434,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.181,
     "acousticness": 0.483,
     "instrumentalness": 0.000267,
@@ -6114,8 +6114,8 @@
     "uri": "spotify:track:2zeXwxpY5qgl3TL5Zj4DfT",
     "track_href": "https://api.spotify.com/v1/tracks/2zeXwxpY5qgl3TL5Zj4DfT",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2zeXwxpY5qgl3TL5Zj4DfT",
-    "duration_ms": 166060,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.7676666666666665
   },
   "236": {
     "artists": "The Weeknd",
@@ -6126,9 +6126,9 @@
     "name": "In Your Eyes",
     "danceability": 0.667,
     "energy": 0.721,
-    "key": 7,
+    "key": "G",
     "loudness": -5.35,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0331,
     "acousticness": 0.00251,
     "instrumentalness": 7.11e-05,
@@ -6140,8 +6140,8 @@
     "uri": "spotify:track:62QVe7aibfqRdqrI2WIoUD",
     "track_href": "https://api.spotify.com/v1/tracks/62QVe7aibfqRdqrI2WIoUD",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/62QVe7aibfqRdqrI2WIoUD",
-    "duration_ms": 237522,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9587
   },
   "237": {
     "artists": "Future, Drake",
@@ -6152,9 +6152,9 @@
     "name": "Life Is Good",
     "danceability": 0.676,
     "energy": 0.609,
-    "key": 2,
+    "key": "D",
     "loudness": -5.831,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.481,
     "acousticness": 0.0706,
     "instrumentalness": 0,
@@ -6166,8 +6166,8 @@
     "uri": "spotify:track:5yY9lUy8nbvjM1Uyo1Uqoc",
     "track_href": "https://api.spotify.com/v1/tracks/5yY9lUy8nbvjM1Uyo1Uqoc",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5yY9lUy8nbvjM1Uyo1Uqoc",
-    "duration_ms": 237735,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.96225
   },
   "238": {
     "artists": "Bishop Bullwinkle",
@@ -6178,9 +6178,9 @@
     "name": "Hell 2 da Naw",
     "danceability": 0.8,
     "energy": 0.623,
-    "key": 2,
+    "key": "D",
     "loudness": -6.589,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.208,
     "acousticness": 0.523,
     "instrumentalness": 0,
@@ -6192,8 +6192,8 @@
     "uri": "spotify:track:6kEbev9F8cXHtGfV2pksoD",
     "track_href": "https://api.spotify.com/v1/tracks/6kEbev9F8cXHtGfV2pksoD",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6kEbev9F8cXHtGfV2pksoD",
-    "duration_ms": 285262,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.754366666666667
   },
   "239": {
     "artists": "SZA",
@@ -6204,9 +6204,9 @@
     "name": "Nobody",
     "danceability": 0.358,
     "energy": 0.284,
-    "key": 7,
+    "key": "G",
     "loudness": -8.285,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0285,
     "acousticness": 0.805,
     "instrumentalness": 0,
@@ -6218,8 +6218,8 @@
     "uri": "spotify:track:5Y35SjAfXjjG0sFQ3KOxmm",
     "track_href": "https://api.spotify.com/v1/tracks/5Y35SjAfXjjG0sFQ3KOxmm",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Y35SjAfXjjG0sFQ3KOxmm",
-    "duration_ms": 180853,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 3.014216666666667
   },
   "240": {
     "artists": "Queen Naija",
@@ -6230,9 +6230,9 @@
     "name": "Medicine",
     "danceability": 0.741,
     "energy": 0.37,
-    "key": 8,
+    "key": "G#",
     "loudness": -8.437,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.324,
     "acousticness": 0.24,
     "instrumentalness": 0,
@@ -6244,8 +6244,8 @@
     "uri": "spotify:track:4lFfMRH0YH4pW5gczTDbNC",
     "track_href": "https://api.spotify.com/v1/tracks/4lFfMRH0YH4pW5gczTDbNC",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4lFfMRH0YH4pW5gczTDbNC",
-    "duration_ms": 219136,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6522666666666668
   },
   "241": {
     "artists": "21 Savage",
@@ -6256,9 +6256,9 @@
     "name": "Immortal",
     "danceability": 0.741,
     "energy": 0.87,
-    "key": 6,
+    "key": "F#",
     "loudness": -3.494,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.503,
     "acousticness": 0.00813,
     "instrumentalness": 0,
@@ -6270,8 +6270,8 @@
     "uri": "spotify:track:4IO8X9W69dIQe0EC5ALXhq",
     "track_href": "https://api.spotify.com/v1/tracks/4IO8X9W69dIQe0EC5ALXhq",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4IO8X9W69dIQe0EC5ALXhq",
-    "duration_ms": 254723,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.245383333333334
   },
   "242": {
     "artists": "bbno$, Yung Gravy",
@@ -6282,9 +6282,9 @@
     "name": "shining on my ex",
     "danceability": 0.645,
     "energy": 0.487,
-    "key": 4,
+    "key": "E",
     "loudness": -8.584,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.352,
     "acousticness": 0.121,
     "instrumentalness": 0,
@@ -6296,8 +6296,8 @@
     "uri": "spotify:track:1IhMuuTCpO0K7BM2MmIZ0w",
     "track_href": "https://api.spotify.com/v1/tracks/1IhMuuTCpO0K7BM2MmIZ0w",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1IhMuuTCpO0K7BM2MmIZ0w",
-    "duration_ms": 140319,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.33865
   },
   "243": {
     "artists": "Rihanna",
@@ -6308,9 +6308,9 @@
     "name": "Diamonds",
     "danceability": 0.564,
     "energy": 0.71,
-    "key": 11,
+    "key": "B",
     "loudness": -4.92,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0461,
     "acousticness": 0.00125,
     "instrumentalness": 0,
@@ -6322,8 +6322,8 @@
     "uri": "spotify:track:1z9kQ14XBSN0r2v6fx4IdG",
     "track_href": "https://api.spotify.com/v1/tracks/1z9kQ14XBSN0r2v6fx4IdG",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1z9kQ14XBSN0r2v6fx4IdG",
-    "duration_ms": 225147,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.75245
   },
   "244": {
     "artists": "The Prince Karma",
@@ -6334,9 +6334,9 @@
     "name": "Later Bitches",
     "danceability": 0.769,
     "energy": 0.518,
-    "key": 8,
+    "key": "G#",
     "loudness": -6.563,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.102,
     "acousticness": 0.000573,
     "instrumentalness": 0.108,
@@ -6348,8 +6348,8 @@
     "uri": "spotify:track:2UqYHXtJ0qLzd3fajJ7HSb",
     "track_href": "https://api.spotify.com/v1/tracks/2UqYHXtJ0qLzd3fajJ7HSb",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2UqYHXtJ0qLzd3fajJ7HSb",
-    "duration_ms": 247976,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.132933333333333
   },
   "245": {
     "artists": "Juice WRLD",
@@ -6360,9 +6360,9 @@
     "name": "Legends",
     "danceability": 0.586,
     "energy": 0.82,
-    "key": 8,
+    "key": "G#",
     "loudness": -4.791,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.072,
     "acousticness": 0.114,
     "instrumentalness": 0,
@@ -6374,8 +6374,8 @@
     "uri": "spotify:track:3GD3u2UFCPi090kdYPsRzp",
     "track_href": "https://api.spotify.com/v1/tracks/3GD3u2UFCPi090kdYPsRzp",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GD3u2UFCPi090kdYPsRzp",
-    "duration_ms": 192036,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2006
   },
   "246": {
     "artists": "DaBaby",
@@ -6386,9 +6386,9 @@
     "name": "BOP",
     "danceability": 0.769,
     "energy": 0.787,
-    "key": 11,
+    "key": "B",
     "loudness": -3.909,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.367,
     "acousticness": 0.189,
     "instrumentalness": 0,
@@ -6400,8 +6400,8 @@
     "uri": "spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN",
     "track_href": "https://api.spotify.com/v1/tracks/6Ozh9Ok6h4Oi1wUSLtBseN",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Ozh9Ok6h4Oi1wUSLtBseN",
-    "duration_ms": 159715,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.661916666666667
   },
   "247": {
     "artists": "Bad Bunny",
@@ -6412,9 +6412,9 @@
     "name": "Vete",
     "danceability": 0.886,
     "energy": 0.672,
-    "key": 1,
+    "key": "C#",
     "loudness": -4.394,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.188,
     "acousticness": 0.0363,
     "instrumentalness": 8.78e-06,
@@ -6426,8 +6426,8 @@
     "uri": "spotify:track:5DxXgozhkPLgrbKFY91w0c",
     "track_href": "https://api.spotify.com/v1/tracks/5DxXgozhkPLgrbKFY91w0c",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5DxXgozhkPLgrbKFY91w0c",
-    "duration_ms": 192024,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2004
   },
   "248": {
     "artists": "Lord Huron",
@@ -6438,9 +6438,9 @@
     "name": "The Night We Met",
     "danceability": 0.545,
     "energy": 0.366,
-    "key": 2,
+    "key": "D",
     "loudness": -9.51,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0378,
     "acousticness": 0.969,
     "instrumentalness": 0.267,
@@ -6452,8 +6452,8 @@
     "uri": "spotify:track:0QZ5yyl6B6utIWkxeBDxQN",
     "track_href": "https://api.spotify.com/v1/tracks/0QZ5yyl6B6utIWkxeBDxQN",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0QZ5yyl6B6utIWkxeBDxQN",
-    "duration_ms": 208212,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 3.4701999999999997
   },
   "249": {
     "artists": "Yxngxr1",
@@ -6464,9 +6464,9 @@
     "name": "Rather Do",
     "danceability": 0.859,
     "energy": 0.545,
-    "key": 9,
+    "key": "A",
     "loudness": -9.39,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.248,
     "acousticness": 0.853,
     "instrumentalness": 0,
@@ -6478,8 +6478,8 @@
     "uri": "spotify:track:5rAM2UW8MeVtBxKoNTRXUE",
     "track_href": "https://api.spotify.com/v1/tracks/5rAM2UW8MeVtBxKoNTRXUE",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5rAM2UW8MeVtBxKoNTRXUE",
-    "duration_ms": 135000,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.25
   },
   "250": {
     "artists": "Rod Wave",
@@ -6490,9 +6490,9 @@
     "name": "Heart On Ice",
     "danceability": 0.732,
     "energy": 0.387,
-    "key": 10,
+    "key": "A#",
     "loudness": -8.47,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0741,
     "acousticness": 0.0493,
     "instrumentalness": 0,
@@ -6504,8 +6504,8 @@
     "uri": "spotify:track:591ks2A0o7ratTpiRdI7M6",
     "track_href": "https://api.spotify.com/v1/tracks/591ks2A0o7ratTpiRdI7M6",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/591ks2A0o7ratTpiRdI7M6",
-    "duration_ms": 159670,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 2.6611666666666665
   },
   "251": {
     "artists": "Selena Gomez",
@@ -6516,9 +6516,9 @@
     "name": "Rare",
     "danceability": 0.838,
     "energy": 0.541,
-    "key": 5,
+    "key": "F",
     "loudness": -6.746,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0708,
     "acousticness": 0.207,
     "instrumentalness": 7.97e-05,
@@ -6530,8 +6530,8 @@
     "uri": "spotify:track:0VFIpnluQySP5YHYzeDteP",
     "track_href": "https://api.spotify.com/v1/tracks/0VFIpnluQySP5YHYzeDteP",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0VFIpnluQySP5YHYzeDteP",
-    "duration_ms": 220590,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.6765
   },
   "252": {
     "artists": "DVBBS, BRIDGE",
@@ -6542,9 +6542,9 @@
     "name": "GOMF",
     "danceability": 0.749,
     "energy": 0.659,
-    "key": 9,
+    "key": "A",
     "loudness": -6.746,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0343,
     "acousticness": 0.00198,
     "instrumentalness": 0.000806,
@@ -6556,8 +6556,8 @@
     "uri": "spotify:track:5D8sJEbM2zIAZkWn9wSDXl",
     "track_href": "https://api.spotify.com/v1/tracks/5D8sJEbM2zIAZkWn9wSDXl",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5D8sJEbM2zIAZkWn9wSDXl",
-    "duration_ms": 197217,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.28695
   },
   "253": {
     "artists": "Cardingfraud",
@@ -6568,9 +6568,9 @@
     "name": "90mh",
     "danceability": 0.661,
     "energy": 0.428,
-    "key": 1,
+    "key": "C#",
     "loudness": -9.751,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.147,
     "acousticness": 0.413,
     "instrumentalness": 0,
@@ -6582,8 +6582,8 @@
     "uri": "spotify:track:0DKYTBeMVOHVUM0xJOzWaF",
     "track_href": "https://api.spotify.com/v1/tracks/0DKYTBeMVOHVUM0xJOzWaF",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0DKYTBeMVOHVUM0xJOzWaF",
-    "duration_ms": 146769,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.4461500000000003
   },
   "254": {
     "artists": "Juice WRLD",
@@ -6594,9 +6594,9 @@
     "name": "Let Me Know (I Wonder Why Freestyle)",
     "danceability": 0.635,
     "energy": 0.537,
-    "key": 7,
+    "key": "G",
     "loudness": -7.895,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0832,
     "acousticness": 0.172,
     "instrumentalness": 0,
@@ -6608,8 +6608,8 @@
     "uri": "spotify:track:3wwo0bJvDSorOpNfzEkfXx",
     "track_href": "https://api.spotify.com/v1/tracks/3wwo0bJvDSorOpNfzEkfXx",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3wwo0bJvDSorOpNfzEkfXx",
-    "duration_ms": 215381,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.5896833333333333
   },
   "255": {
     "artists": "Bag Raiders",
@@ -6620,9 +6620,9 @@
     "name": "Shooting Stars",
     "danceability": 0.636,
     "energy": 0.72,
-    "key": 11,
+    "key": "B",
     "loudness": -6.195,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0432,
     "acousticness": 0.0893,
     "instrumentalness": 0.0178,
@@ -6634,8 +6634,8 @@
     "uri": "spotify:track:0UeYCHOETPfai02uskjJ3x",
     "track_href": "https://api.spotify.com/v1/tracks/0UeYCHOETPfai02uskjJ3x",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UeYCHOETPfai02uskjJ3x",
-    "duration_ms": 235813,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9302166666666665
   },
   "256": {
     "artists": "Lauv, Anne-Marie",
@@ -6646,9 +6646,9 @@
     "name": "Fuck, i'm lonely",
     "danceability": 0.809,
     "energy": 0.547,
-    "key": 9,
+    "key": "A",
     "loudness": -7.305,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0614,
     "acousticness": 0.452,
     "instrumentalness": 0,
@@ -6660,8 +6660,8 @@
     "uri": "spotify:track:2RNsweBBb1a6tAHXQtt2xH",
     "track_href": "https://api.spotify.com/v1/tracks/2RNsweBBb1a6tAHXQtt2xH",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2RNsweBBb1a6tAHXQtt2xH",
-    "duration_ms": 198973,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.316216666666667
   },
   "257": {
     "artists": "Nicky Jam, Daddy Yankee",
@@ -6672,9 +6672,9 @@
     "name": "Mu\u00e9velo",
     "danceability": 0.594,
     "energy": 0.808,
-    "key": 7,
+    "key": "G",
     "loudness": -2.409,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0489,
     "acousticness": 0.415,
     "instrumentalness": 1.39e-05,
@@ -6686,8 +6686,8 @@
     "uri": "spotify:track:4VgYtXCVJ7IbWAZ5ryfvEQ",
     "track_href": "https://api.spotify.com/v1/tracks/4VgYtXCVJ7IbWAZ5ryfvEQ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4VgYtXCVJ7IbWAZ5ryfvEQ",
-    "duration_ms": 194892,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2481999999999998
   },
   "258": {
     "artists": "Kungs, Cookin' On 3 Burners",
@@ -6698,9 +6698,9 @@
     "name": "This Girl",
     "danceability": 0.792,
     "energy": 0.717,
-    "key": 0,
+    "key": "C",
     "loudness": -4.759,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0393,
     "acousticness": 0.0927,
     "instrumentalness": 3.59e-05,
@@ -6712,8 +6712,8 @@
     "uri": "spotify:track:1A8j067qyiNwQnZT0bzUpZ",
     "track_href": "https://api.spotify.com/v1/tracks/1A8j067qyiNwQnZT0bzUpZ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/1A8j067qyiNwQnZT0bzUpZ",
-    "duration_ms": 195547,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.2591166666666664
   },
   "259": {
     "artists": "Henry Mancini",
@@ -6724,9 +6724,9 @@
     "name": "Baby Elephant Walk",
     "danceability": 0.782,
     "energy": 0.334,
-    "key": 10,
+    "key": "A#",
     "loudness": -11.527,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0369,
     "acousticness": 0.641,
     "instrumentalness": 0.000241,
@@ -6738,8 +6738,8 @@
     "uri": "spotify:track:5Bcd35zMNfOUZrhQb7TKo1",
     "track_href": "https://api.spotify.com/v1/tracks/5Bcd35zMNfOUZrhQb7TKo1",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Bcd35zMNfOUZrhQb7TKo1",
-    "duration_ms": 162573,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.70955
   },
   "260": {
     "artists": "Carter Burwell, Maksym Rzemi\u0144ski",
@@ -6750,9 +6750,9 @@
     "name": "Bella's Lullaby",
     "danceability": 0.274,
     "energy": 0.0571,
-    "key": 7,
+    "key": "G",
     "loudness": -30.322,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0545,
     "acousticness": 0.988,
     "instrumentalness": 0.763,
@@ -6764,8 +6764,8 @@
     "uri": "spotify:track:0w5ymU3obTE6hVDfMHJDDL",
     "track_href": "https://api.spotify.com/v1/tracks/0w5ymU3obTE6hVDfMHJDDL",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0w5ymU3obTE6hVDfMHJDDL",
-    "duration_ms": 128813,
-    "time_signature": 3
+    "time_signature": 3,
+    "duration": 2.1468833333333333
   },
   "261": {
     "artists": "Felly",
@@ -6776,9 +6776,9 @@
     "name": "Love and Fear",
     "danceability": 0.686,
     "energy": 0.604,
-    "key": 6,
+    "key": "F#",
     "loudness": -5.764,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0313,
     "acousticness": 0.04,
     "instrumentalness": 0,
@@ -6790,8 +6790,8 @@
     "uri": "spotify:track:4xalL1bGV2FoRgAVt62mti",
     "track_href": "https://api.spotify.com/v1/tracks/4xalL1bGV2FoRgAVt62mti",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xalL1bGV2FoRgAVt62mti",
-    "duration_ms": 142540,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.3756666666666666
   },
   "262": {
     "artists": "Mike Sherm",
@@ -6802,9 +6802,9 @@
     "name": "asshole",
     "danceability": 0.783,
     "energy": 0.598,
-    "key": 10,
+    "key": "A#",
     "loudness": -10.59,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.292,
     "acousticness": 0.328,
     "instrumentalness": 0,
@@ -6816,8 +6816,8 @@
     "uri": "spotify:track:6aD0Es1eyfVqpYZKJm9WkC",
     "track_href": "https://api.spotify.com/v1/tracks/6aD0Es1eyfVqpYZKJm9WkC",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/6aD0Es1eyfVqpYZKJm9WkC",
-    "duration_ms": 160713,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.67855
   },
   "263": {
     "artists": "Bag Raiders",
@@ -6828,9 +6828,9 @@
     "name": "Shooting Stars",
     "danceability": 0.636,
     "energy": 0.72,
-    "key": 11,
+    "key": "B",
     "loudness": -6.195,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0432,
     "acousticness": 0.0893,
     "instrumentalness": 0.0178,
@@ -6842,8 +6842,8 @@
     "uri": "spotify:track:0UeYCHOETPfai02uskjJ3x",
     "track_href": "https://api.spotify.com/v1/tracks/0UeYCHOETPfai02uskjJ3x",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0UeYCHOETPfai02uskjJ3x",
-    "duration_ms": 235813,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.9302166666666665
   },
   "264": {
     "artists": "Blanco Brown",
@@ -6854,9 +6854,9 @@
     "name": "The Git Up",
     "danceability": 0.847,
     "energy": 0.678,
-    "key": 9,
+    "key": "A",
     "loudness": -8.635,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.109,
     "acousticness": 0.0669,
     "instrumentalness": 0,
@@ -6868,8 +6868,8 @@
     "uri": "spotify:track:2KKijf6Ett4kmVNJze2roh",
     "track_href": "https://api.spotify.com/v1/tracks/2KKijf6Ett4kmVNJze2roh",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2KKijf6Ett4kmVNJze2roh",
-    "duration_ms": 200594,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.343233333333333
   },
   "265": {
     "artists": "Destroy Boys",
@@ -6880,9 +6880,9 @@
     "name": "I Threw Glass At My Friend's Eyes",
     "danceability": 0.457,
     "energy": 0.943,
-    "key": 1,
+    "key": "C#",
     "loudness": -5.271,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0768,
     "acousticness": 0.216,
     "instrumentalness": 0.000245,
@@ -6894,8 +6894,8 @@
     "uri": "spotify:track:2NBxGmbCTLArOiMyWEWsPE",
     "track_href": "https://api.spotify.com/v1/tracks/2NBxGmbCTLArOiMyWEWsPE",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2NBxGmbCTLArOiMyWEWsPE",
-    "duration_ms": 157440,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.624
   },
   "266": {
     "artists": "Sofi Tukker",
@@ -6906,9 +6906,9 @@
     "name": "Purple Hat",
     "danceability": 0.777,
     "energy": 0.744,
-    "key": 9,
+    "key": "A",
     "loudness": -7.42,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.204,
     "acousticness": 0.331,
     "instrumentalness": 0.0073,
@@ -6920,8 +6920,8 @@
     "uri": "spotify:track:4QVWoXs0dGVqZAZT6MPNVl",
     "track_href": "https://api.spotify.com/v1/tracks/4QVWoXs0dGVqZAZT6MPNVl",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/4QVWoXs0dGVqZAZT6MPNVl",
-    "duration_ms": 178369,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.9728166666666667
   },
   "267": {
     "artists": "Teqkoi, Aiko",
@@ -6932,9 +6932,9 @@
     "name": "You Broke My Heart Again",
     "danceability": 0.55,
     "energy": 0.143,
-    "key": 3,
+    "key": "D#",
     "loudness": -15.685,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.241,
     "acousticness": 0.956,
     "instrumentalness": 0,
@@ -6946,8 +6946,8 @@
     "uri": "spotify:track:3jZDWsoxRHzzp3DYV8qeXE",
     "track_href": "https://api.spotify.com/v1/tracks/3jZDWsoxRHzzp3DYV8qeXE",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3jZDWsoxRHzzp3DYV8qeXE",
-    "duration_ms": 103400,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.7233333333333334
   },
   "268": {
     "artists": "DaniLeigh, DaBaby",
@@ -6958,9 +6958,9 @@
     "name": "Levi High",
     "danceability": 0.916,
     "energy": 0.682,
-    "key": 11,
+    "key": "B",
     "loudness": -3.965,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.334,
     "acousticness": 0.0629,
     "instrumentalness": 1.74e-06,
@@ -6972,8 +6972,8 @@
     "uri": "spotify:track:5Pj5LI8U5UfaGEEBsyr18N",
     "track_href": "https://api.spotify.com/v1/tracks/5Pj5LI8U5UfaGEEBsyr18N",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Pj5LI8U5UfaGEEBsyr18N",
-    "duration_ms": 143296,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.3882666666666665
   },
   "269": {
     "artists": "Flo Milli",
@@ -6984,9 +6984,9 @@
     "name": "Beef FloMix",
     "danceability": 0.879,
     "energy": 0.733,
-    "key": 11,
+    "key": "B",
     "loudness": -3.953,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.142,
     "acousticness": 0.216,
     "instrumentalness": 0,
@@ -6998,8 +6998,8 @@
     "uri": "spotify:track:7qdFz1dTJqgdVe6NA4F4DP",
     "track_href": "https://api.spotify.com/v1/tracks/7qdFz1dTJqgdVe6NA4F4DP",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/7qdFz1dTJqgdVe6NA4F4DP",
-    "duration_ms": 147692,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.4615333333333336
   },
   "270": {
     "artists": "Zach Bryan",
@@ -7010,9 +7010,9 @@
     "name": "November",
     "danceability": 0.429,
     "energy": 0.197,
-    "key": 3,
+    "key": "D#",
     "loudness": -9.798,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.032,
     "acousticness": 0.774,
     "instrumentalness": 3.02e-06,
@@ -7024,8 +7024,8 @@
     "uri": "spotify:track:0u9NVrPqUINrHIFCuPOnYm",
     "track_href": "https://api.spotify.com/v1/tracks/0u9NVrPqUINrHIFCuPOnYm",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/0u9NVrPqUINrHIFCuPOnYm",
-    "duration_ms": 243709,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 4.061816666666667
   },
   "271": {
     "artists": "Cosmo Sheldrake",
@@ -7036,9 +7036,9 @@
     "name": "Birthday Suit",
     "danceability": 0.803,
     "energy": 0.505,
-    "key": 8,
+    "key": "G#",
     "loudness": -8.012,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.109,
     "acousticness": 0.833,
     "instrumentalness": 0.000107,
@@ -7050,8 +7050,8 @@
     "uri": "spotify:track:2IrPJS5I21gpLydn0HgyiJ",
     "track_href": "https://api.spotify.com/v1/tracks/2IrPJS5I21gpLydn0HgyiJ",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2IrPJS5I21gpLydn0HgyiJ",
-    "duration_ms": 73947,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 1.23245
   },
   "272": {
     "artists": "24kGoldn",
@@ -7062,9 +7062,9 @@
     "name": "Games On Your Phone",
     "danceability": 0.683,
     "energy": 0.607,
-    "key": 5,
+    "key": "F",
     "loudness": -5.62,
-    "mode": 0,
+    "mode": "Minor",
     "speechiness": 0.0601,
     "acousticness": 0.15,
     "instrumentalness": 0,
@@ -7076,8 +7076,8 @@
     "uri": "spotify:track:2EsyJN3AvC3zBlkQpb119M",
     "track_href": "https://api.spotify.com/v1/tracks/2EsyJN3AvC3zBlkQpb119M",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/2EsyJN3AvC3zBlkQpb119M",
-    "duration_ms": 150933,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.5155499999999997
   },
   "273": {
     "artists": "Twisted Sister",
@@ -7088,9 +7088,9 @@
     "name": "I Wanna Rock",
     "danceability": 0.504,
     "energy": 0.911,
-    "key": 2,
+    "key": "D",
     "loudness": -2.97,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.0738,
     "acousticness": 0.00512,
     "instrumentalness": 0.0123,
@@ -7102,8 +7102,8 @@
     "uri": "spotify:track:70Z9t1qhytWtG4cCmmi7mU",
     "track_href": "https://api.spotify.com/v1/tracks/70Z9t1qhytWtG4cCmmi7mU",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/70Z9t1qhytWtG4cCmmi7mU",
-    "duration_ms": 179760,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 2.996
   },
   "274": {
     "artists": "Vicetone, Tony Igy",
@@ -7114,9 +7114,9 @@
     "name": "Astronomia",
     "danceability": 0.653,
     "energy": 0.945,
-    "key": 5,
+    "key": "F",
     "loudness": -2.634,
-    "mode": 1,
+    "mode": "Major",
     "speechiness": 0.096,
     "acousticness": 0.00561,
     "instrumentalness": 0.915,
@@ -7128,7 +7128,7 @@
     "uri": "spotify:track:3hWfKBt3n7j1xqIy6LA5ve",
     "track_href": "https://api.spotify.com/v1/tracks/3hWfKBt3n7j1xqIy6LA5ve",
     "analysis_url": "https://api.spotify.com/v1/audio-analysis/3hWfKBt3n7j1xqIy6LA5ve",
-    "duration_ms": 198095,
-    "time_signature": 4
+    "time_signature": 4,
+    "duration": 3.3015833333333333
   }
 }
