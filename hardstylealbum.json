@@ -1,0 +1,650 @@
+{
+  "href": "https://api.spotify.com/v1/albums/2pN42OFNveRllFnEMiiDwW/tracks?offset=0&limit=20&locale=en-US,en;q=0.9",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4qxavzpYzPfrDLShcWaPb6"
+          },
+          "href": "https://api.spotify.com/v1/artists/4qxavzpYzPfrDLShcWaPb6",
+          "id": "4qxavzpYzPfrDLShcWaPb6",
+          "name": "Mapo Mester",
+          "type": "artist",
+          "uri": "spotify:artist:4qxavzpYzPfrDLShcWaPb6"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 291310,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/02Hp7rsuCsGW0GmB4NZKLC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/02Hp7rsuCsGW0GmB4NZKLC",
+      "id": "02Hp7rsuCsGW0GmB4NZKLC",
+      "is_local": false,
+      "name": "Hey - Hard Mix",
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:02Hp7rsuCsGW0GmB4NZKLC"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0eHxxHtdJSAvmKxaHLDN0r"
+          },
+          "href": "https://api.spotify.com/v1/artists/0eHxxHtdJSAvmKxaHLDN0r",
+          "id": "0eHxxHtdJSAvmKxaHLDN0r",
+          "name": "W4cko",
+          "type": "artist",
+          "uri": "spotify:artist:0eHxxHtdJSAvmKxaHLDN0r"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 182435,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/54ZD1YGQPXvbwAHcMthlPC"
+      },
+      "href": "https://api.spotify.com/v1/tracks/54ZD1YGQPXvbwAHcMthlPC",
+      "id": "54ZD1YGQPXvbwAHcMthlPC",
+      "is_local": false,
+      "name": "R.M.I. - Radio Edit",
+      "preview_url": null,
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:54ZD1YGQPXvbwAHcMthlPC"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3386mzmXn1zbBUmJap05us"
+          },
+          "href": "https://api.spotify.com/v1/artists/3386mzmXn1zbBUmJap05us",
+          "id": "3386mzmXn1zbBUmJap05us",
+          "name": "Wave Pressure",
+          "type": "artist",
+          "uri": "spotify:artist:3386mzmXn1zbBUmJap05us"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oqByCcWzpQKc86V0WX4Ag"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oqByCcWzpQKc86V0WX4Ag",
+          "id": "0oqByCcWzpQKc86V0WX4Ag",
+          "name": "Desired Effectz",
+          "type": "artist",
+          "uri": "spotify:artist:0oqByCcWzpQKc86V0WX4Ag"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 344024,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4IWMv2R6UhOLPmttRFH71x"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4IWMv2R6UhOLPmttRFH71x",
+      "id": "4IWMv2R6UhOLPmttRFH71x",
+      "is_local": false,
+      "name": "Collide",
+      "preview_url": null,
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:4IWMv2R6UhOLPmttRFH71x"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3UIzWzlejdDxpIIm58ObgH"
+          },
+          "href": "https://api.spotify.com/v1/artists/3UIzWzlejdDxpIIm58ObgH",
+          "id": "3UIzWzlejdDxpIIm58ObgH",
+          "name": "Kronoz",
+          "type": "artist",
+          "uri": "spotify:artist:3UIzWzlejdDxpIIm58ObgH"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 379162,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7BzcvODbJ09MUprieeyDOg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7BzcvODbJ09MUprieeyDOg",
+      "id": "7BzcvODbJ09MUprieeyDOg",
+      "is_local": false,
+      "name": "Summer Vibe",
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7BzcvODbJ09MUprieeyDOg"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7150s8meZHeOhBjvf36DVU"
+          },
+          "href": "https://api.spotify.com/v1/artists/7150s8meZHeOhBjvf36DVU",
+          "id": "7150s8meZHeOhBjvf36DVU",
+          "name": "Stereorockerz",
+          "type": "artist",
+          "uri": "spotify:artist:7150s8meZHeOhBjvf36DVU"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 374407,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/53yYY7jvIQCkPOeVASIasv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/53yYY7jvIQCkPOeVASIasv",
+      "id": "53yYY7jvIQCkPOeVASIasv",
+      "is_local": false,
+      "name": "Makes Me Wonder",
+      "preview_url": null,
+      "track_number": 5,
+      "type": "track",
+      "uri": "spotify:track:53yYY7jvIQCkPOeVASIasv"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3386mzmXn1zbBUmJap05us"
+          },
+          "href": "https://api.spotify.com/v1/artists/3386mzmXn1zbBUmJap05us",
+          "id": "3386mzmXn1zbBUmJap05us",
+          "name": "Wave Pressure",
+          "type": "artist",
+          "uri": "spotify:artist:3386mzmXn1zbBUmJap05us"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 224368,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3QWyB8KKVNGdAHXU3u4puz"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3QWyB8KKVNGdAHXU3u4puz",
+      "id": "3QWyB8KKVNGdAHXU3u4puz",
+      "is_local": false,
+      "name": "Beyond Reality",
+      "preview_url": null,
+      "track_number": 6,
+      "type": "track",
+      "uri": "spotify:track:3QWyB8KKVNGdAHXU3u4puz"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6AY9GJzFwjo7RbaGj1abza"
+          },
+          "href": "https://api.spotify.com/v1/artists/6AY9GJzFwjo7RbaGj1abza",
+          "id": "6AY9GJzFwjo7RbaGj1abza",
+          "name": "Ironite",
+          "type": "artist",
+          "uri": "spotify:artist:6AY9GJzFwjo7RbaGj1abza"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1cEifi4l3lau3jKvir0U1d"
+          },
+          "href": "https://api.spotify.com/v1/artists/1cEifi4l3lau3jKvir0U1d",
+          "id": "1cEifi4l3lau3jKvir0U1d",
+          "name": "Adventum",
+          "type": "artist",
+          "uri": "spotify:artist:1cEifi4l3lau3jKvir0U1d"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 352503,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6W43pbN6K4bAHfblQL3JNU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6W43pbN6K4bAHfblQL3JNU",
+      "id": "6W43pbN6K4bAHfblQL3JNU",
+      "is_local": false,
+      "name": "Redeemed - Adventum Remix",
+      "preview_url": null,
+      "track_number": 7,
+      "type": "track",
+      "uri": "spotify:track:6W43pbN6K4bAHfblQL3JNU"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4PAEPOA5Mte8Mqw4jXXA8s"
+          },
+          "href": "https://api.spotify.com/v1/artists/4PAEPOA5Mte8Mqw4jXXA8s",
+          "id": "4PAEPOA5Mte8Mqw4jXXA8s",
+          "name": "Hamburg Hardstyle",
+          "type": "artist",
+          "uri": "spotify:artist:4PAEPOA5Mte8Mqw4jXXA8s"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 388500,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2U0hU8k7Yr1JouQQ1STkVD"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2U0hU8k7Yr1JouQQ1STkVD",
+      "id": "2U0hU8k7Yr1JouQQ1STkVD",
+      "is_local": false,
+      "name": "Copycat",
+      "preview_url": null,
+      "track_number": 8,
+      "type": "track",
+      "uri": "spotify:track:2U0hU8k7Yr1JouQQ1STkVD"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5MhHcyCfBpB3WkOAm65UAC"
+          },
+          "href": "https://api.spotify.com/v1/artists/5MhHcyCfBpB3WkOAm65UAC",
+          "id": "5MhHcyCfBpB3WkOAm65UAC",
+          "name": "Dj Chris D",
+          "type": "artist",
+          "uri": "spotify:artist:5MhHcyCfBpB3WkOAm65UAC"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0WaODIMwysd2zsAKmzFjkL"
+          },
+          "href": "https://api.spotify.com/v1/artists/0WaODIMwysd2zsAKmzFjkL",
+          "id": "0WaODIMwysd2zsAKmzFjkL",
+          "name": "Jan Van Bass-10",
+          "type": "artist",
+          "uri": "spotify:artist:0WaODIMwysd2zsAKmzFjkL"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 220800,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3dtmMWgMfNyODj9bSyAeYU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3dtmMWgMfNyODj9bSyAeYU",
+      "id": "3dtmMWgMfNyODj9bSyAeYU",
+      "is_local": false,
+      "name": "Emotions - Jan Van Bass-10 Remix Edit",
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:3dtmMWgMfNyODj9bSyAeYU"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3uXt4c6y2z7ZDpuulp2EAJ"
+          },
+          "href": "https://api.spotify.com/v1/artists/3uXt4c6y2z7ZDpuulp2EAJ",
+          "id": "3uXt4c6y2z7ZDpuulp2EAJ",
+          "name": "Dutch Navigatorz",
+          "type": "artist",
+          "uri": "spotify:artist:3uXt4c6y2z7ZDpuulp2EAJ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2Dut8sWT9GfPwcFlo8741X"
+          },
+          "href": "https://api.spotify.com/v1/artists/2Dut8sWT9GfPwcFlo8741X",
+          "id": "2Dut8sWT9GfPwcFlo8741X",
+          "name": "Trackloaders",
+          "type": "artist",
+          "uri": "spotify:artist:2Dut8sWT9GfPwcFlo8741X"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 323758,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4iFlL6W7V0Zfp9XcvcUZYJ"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4iFlL6W7V0Zfp9XcvcUZYJ",
+      "id": "4iFlL6W7V0Zfp9XcvcUZYJ",
+      "is_local": false,
+      "name": "Will Find You - Trackloaders Remix",
+      "preview_url": null,
+      "track_number": 10,
+      "type": "track",
+      "uri": "spotify:track:4iFlL6W7V0Zfp9XcvcUZYJ"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6e6xlod9MXJ3qU14WIFYSS"
+          },
+          "href": "https://api.spotify.com/v1/artists/6e6xlod9MXJ3qU14WIFYSS",
+          "id": "6e6xlod9MXJ3qU14WIFYSS",
+          "name": "The Un4given",
+          "type": "artist",
+          "uri": "spotify:artist:6e6xlod9MXJ3qU14WIFYSS"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 333458,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1v15i2awl1SDXR6VUj7Ugv"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1v15i2awl1SDXR6VUj7Ugv",
+      "id": "1v15i2awl1SDXR6VUj7Ugv",
+      "is_local": false,
+      "name": "Our Dreams",
+      "preview_url": null,
+      "track_number": 11,
+      "type": "track",
+      "uri": "spotify:track:1v15i2awl1SDXR6VUj7Ugv"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2HYikWgYMLyrbxVLxhPSN8"
+          },
+          "href": "https://api.spotify.com/v1/artists/2HYikWgYMLyrbxVLxhPSN8",
+          "id": "2HYikWgYMLyrbxVLxhPSN8",
+          "name": "Wildstylez",
+          "type": "artist",
+          "uri": "spotify:artist:2HYikWgYMLyrbxVLxhPSN8"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7FkGeVPPl69YdmzvyoUUxl"
+          },
+          "href": "https://api.spotify.com/v1/artists/7FkGeVPPl69YdmzvyoUUxl",
+          "id": "7FkGeVPPl69YdmzvyoUUxl",
+          "name": "Isaac",
+          "type": "artist",
+          "uri": "spotify:artist:7FkGeVPPl69YdmzvyoUUxl"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 363258,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6Xze6OGwjBmDHfIU4DPFGg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6Xze6OGwjBmDHfIU4DPFGg",
+      "id": "6Xze6OGwjBmDHfIU4DPFGg",
+      "is_local": false,
+      "name": "Lost in Music",
+      "preview_url": null,
+      "track_number": 12,
+      "type": "track",
+      "uri": "spotify:track:6Xze6OGwjBmDHfIU4DPFGg"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/40Purc2UsQFQvqeDRAcIal"
+          },
+          "href": "https://api.spotify.com/v1/artists/40Purc2UsQFQvqeDRAcIal",
+          "id": "40Purc2UsQFQvqeDRAcIal",
+          "name": "Michnoss",
+          "type": "artist",
+          "uri": "spotify:artist:40Purc2UsQFQvqeDRAcIal"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 253735,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5LUAtU9YANXGFPV2jDPQ1B"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5LUAtU9YANXGFPV2jDPQ1B",
+      "id": "5LUAtU9YANXGFPV2jDPQ1B",
+      "is_local": false,
+      "name": "Darkness",
+      "preview_url": null,
+      "track_number": 13,
+      "type": "track",
+      "uri": "spotify:track:5LUAtU9YANXGFPV2jDPQ1B"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3AMPMjYId6Iw6fFjyObGfi"
+          },
+          "href": "https://api.spotify.com/v1/artists/3AMPMjYId6Iw6fFjyObGfi",
+          "id": "3AMPMjYId6Iw6fFjyObGfi",
+          "name": "B-Twinz",
+          "type": "artist",
+          "uri": "spotify:artist:3AMPMjYId6Iw6fFjyObGfi"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 275057,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3L48ZYksYICY8nCV3ExfCf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3L48ZYksYICY8nCV3ExfCf",
+      "id": "3L48ZYksYICY8nCV3ExfCf",
+      "is_local": false,
+      "name": "Roof",
+      "preview_url": null,
+      "track_number": 14,
+      "type": "track",
+      "uri": "spotify:track:3L48ZYksYICY8nCV3ExfCf"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7t6grZvt0Pq3kZeqSuEuKr"
+          },
+          "href": "https://api.spotify.com/v1/artists/7t6grZvt0Pq3kZeqSuEuKr",
+          "id": "7t6grZvt0Pq3kZeqSuEuKr",
+          "name": "Stormtroopers",
+          "type": "artist",
+          "uri": "spotify:artist:7t6grZvt0Pq3kZeqSuEuKr"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 180900,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5iFjLdtGko4E13lepPdxPq"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5iFjLdtGko4E13lepPdxPq",
+      "id": "5iFjLdtGko4E13lepPdxPq",
+      "is_local": false,
+      "name": "Twisted - Radio Edit",
+      "preview_url": null,
+      "track_number": 15,
+      "type": "track",
+      "uri": "spotify:track:5iFjLdtGko4E13lepPdxPq"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3SwOO5lkqCq06gq2rIseXL"
+          },
+          "href": "https://api.spotify.com/v1/artists/3SwOO5lkqCq06gq2rIseXL",
+          "id": "3SwOO5lkqCq06gq2rIseXL",
+          "name": "Groovemike",
+          "type": "artist",
+          "uri": "spotify:artist:3SwOO5lkqCq06gq2rIseXL"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 350260,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/16PhDlskQOvLh0Fs8P866y"
+      },
+      "href": "https://api.spotify.com/v1/tracks/16PhDlskQOvLh0Fs8P866y",
+      "id": "16PhDlskQOvLh0Fs8P866y",
+      "is_local": false,
+      "name": "Evil Dead",
+      "preview_url": null,
+      "track_number": 16,
+      "type": "track",
+      "uri": "spotify:track:16PhDlskQOvLh0Fs8P866y"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6XQaPTFTDqEKve9UJIKXBI"
+          },
+          "href": "https://api.spotify.com/v1/artists/6XQaPTFTDqEKve9UJIKXBI",
+          "id": "6XQaPTFTDqEKve9UJIKXBI",
+          "name": "Noiseshock",
+          "type": "artist",
+          "uri": "spotify:artist:6XQaPTFTDqEKve9UJIKXBI"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 295548,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1anshtszGkpGu2ZfvTXJmj"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1anshtszGkpGu2ZfvTXJmj",
+      "id": "1anshtszGkpGu2ZfvTXJmj",
+      "is_local": false,
+      "name": "Unstoppable",
+      "preview_url": null,
+      "track_number": 17,
+      "type": "track",
+      "uri": "spotify:track:1anshtszGkpGu2ZfvTXJmj"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3dOyTnBq9jKfRXJlJlddQq"
+          },
+          "href": "https://api.spotify.com/v1/artists/3dOyTnBq9jKfRXJlJlddQq",
+          "id": "3dOyTnBq9jKfRXJlJlddQq",
+          "name": "Mental Theo",
+          "type": "artist",
+          "uri": "spotify:artist:3dOyTnBq9jKfRXJlJlddQq"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 182290,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5hw5nyWTFgTTxRAfuDZMnO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5hw5nyWTFgTTxRAfuDZMnO",
+      "id": "5hw5nyWTFgTTxRAfuDZMnO",
+      "is_local": false,
+      "name": "I'm Gonna Live Tonight - Hardstyle Radio Mix",
+      "preview_url": null,
+      "track_number": 18,
+      "type": "track",
+      "uri": "spotify:track:5hw5nyWTFgTTxRAfuDZMnO"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1dQa2davJSoE1nrlqrNed1"
+          },
+          "href": "https://api.spotify.com/v1/artists/1dQa2davJSoE1nrlqrNed1",
+          "id": "1dQa2davJSoE1nrlqrNed1",
+          "name": "Global Hardstylers",
+          "type": "artist",
+          "uri": "spotify:artist:1dQa2davJSoE1nrlqrNed1"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4FNjx6D4EMJ7fic0jaCboO"
+          },
+          "href": "https://api.spotify.com/v1/artists/4FNjx6D4EMJ7fic0jaCboO",
+          "id": "4FNjx6D4EMJ7fic0jaCboO",
+          "name": "ScuL",
+          "type": "artist",
+          "uri": "spotify:artist:4FNjx6D4EMJ7fic0jaCboO"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 387253,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6RXu3gFUdLQUxExKlsgrQf"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6RXu3gFUdLQUxExKlsgrQf",
+      "id": "6RXu3gFUdLQUxExKlsgrQf",
+      "is_local": false,
+      "name": "6 Million Beats - Scul's Mix",
+      "preview_url": null,
+      "track_number": 19,
+      "type": "track",
+      "uri": "spotify:track:6RXu3gFUdLQUxExKlsgrQf"
+    },
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3B1yNVyaeh2ttCmqlMRxgS"
+          },
+          "href": "https://api.spotify.com/v1/artists/3B1yNVyaeh2ttCmqlMRxgS",
+          "id": "3B1yNVyaeh2ttCmqlMRxgS",
+          "name": "Impact",
+          "type": "artist",
+          "uri": "spotify:artist:3B1yNVyaeh2ttCmqlMRxgS"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 314117,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3xjPWrRODVfrjmOo4hGggS"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3xjPWrRODVfrjmOo4hGggS",
+      "id": "3xjPWrRODVfrjmOo4hGggS",
+      "is_local": false,
+      "name": "Back to the Rulez - Hard Kick Mix",
+      "preview_url": null,
+      "track_number": 20,
+      "type": "track",
+      "uri": "spotify:track:3xjPWrRODVfrjmOo4hGggS"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/albums/2pN42OFNveRllFnEMiiDwW/tracks?offset=20&limit=20&locale=en-US,en;q=0.9",
+  "offset": 0,
+  "previous": null,
+  "total": 100
+}

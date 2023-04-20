@@ -67,6 +67,53 @@ app.get("/analysis", (req, res, next) => {
         });
 });
 
+app.post("/genre", (req, res, next) => {
+    spotifyApi.searchTracks(req.body.name)
+        // spotifyApi.searchTracks('one kiss')
+        .then(function (data) {
+            console.log(req.body)
+            console.log("searched")
+            // res.set('Access-Control-Allow-Origin', '*');
+            // res.status(200).json(data.body.tracks.items);
+            spotifyApi.getTrack(data.body.tracks.items[0].id)
+                .then(function (data) {
+                    console.log('Track information', data.body);
+                    res.set('Access-Control-Allow-Origin', '*');
+                    res.status(200).json(data.body);
+                }, function (err) {
+                    console.error(err);
+                    res.status(500).json(err);
+                });
+        }, function (err) {
+            console.error(err);
+            res.status(500).json(err);
+        });
+});
+
+app.post("/albumfeatures", (req, res, next) => {
+    spotifyApi.getAudioFeaturesForTracks(req.body.ids)
+        .then(function (data) {
+            console.log('Audio features for tracks', data.body);
+            res.set('Access-Control-Allow-Origin', '*');
+            res.status(200).json(data.body);
+        }, function (err) {
+            console.log('Something went wrong!', err);
+            res.status(500).json(err);
+        });
+});
+
+app.post("/gettrack", (req, res, next) => {
+    spotifyApi.getTrack(req.body.id)
+        .then(function (data) {
+            console.log('Track information', data.body);
+            res.set('Access-Control-Allow-Origin', '*');
+            res.status(200).json(data.body);
+        }, function (err) {
+            console.error(err);
+            res.status(500).json(err);
+        });
+});
+
 app.listen(3000, () => {
     console.log("Server running on port 3000");
 });
